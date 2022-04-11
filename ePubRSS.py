@@ -241,7 +241,8 @@ class RSS():
             book.spine.append(i)
 
         # create epub file
-        epubFile = os.path.join(self.epubFolder, self.feedTitle + '-' + self.feedTime + '.epub')
+        epubFileName = self.feedTitle.replace(" ", "_").replace("|", "_").replace(",","_").replace(":", "_").replace("__", "_")
+        epubFile = os.path.join(self.epubFolder,  epubFileName + '-' + self.feedTime + '.epub')
         epub.write_epub(epubFile, book)
 
 # ----------------------
@@ -398,7 +399,6 @@ rssListDaily = [
    "https://rsshub.app/zhihu/daily",                # 知乎日报
 #   "http://feed.williamlong.info/",                 # 月光博客
 #   "http://www.weiphone.com/rss.xml",               # 威锋网-首页
-#    "https://rsshub.app/t66y/25",                    # 國產原創區 | 草榴社區 - t66y.com
    "https://www.pythoncheatsheet.org/latest/feed/", # Python
     "https://www.raywenderlich.com/android/feed/",   # Android
     "https://blog.kotlin-academy.com/feed/",         # kotlin

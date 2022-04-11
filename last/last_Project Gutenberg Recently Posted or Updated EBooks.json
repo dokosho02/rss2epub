@@ -2,21 +2,21 @@
     "bozo": false,
     "entries": [
         {
-            "title": "The Overman by Upton Sinclair",
+            "title": "Little Dog Ready: How He Lost Himself in the Big World by Mabel F. Stryker",
             "title_detail": {
                 "type": "text/plain",
                 "language": null,
                 "base": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-                "value": "The Overman by Upton Sinclair"
+                "value": "Little Dog Ready: How He Lost Himself in the Big World by Mabel F. Stryker"
             },
             "links": [
                 {
                     "rel": "alternate",
                     "type": "text/html",
-                    "href": "http://www.gutenberg.org/ebooks/67732"
+                    "href": "https://www.gutenberg.org/ebooks/67802"
                 }
             ],
-            "link": "http://www.gutenberg.org/ebooks/67732",
+            "link": "https://www.gutenberg.org/ebooks/67802",
             "summary": "Language: English",
             "summary_detail": {
                 "type": "text/html",
@@ -26,21 +26,21 @@
             }
         },
         {
-            "title": "Poems by W. B.  Yeats",
+            "title": "In the Name of the People by Arthur W. Marchmont",
             "title_detail": {
                 "type": "text/plain",
                 "language": null,
                 "base": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-                "value": "Poems by W. B.  Yeats"
+                "value": "In the Name of the People by Arthur W. Marchmont"
             },
             "links": [
                 {
                     "rel": "alternate",
                     "type": "text/html",
-                    "href": "http://www.gutenberg.org/ebooks/38877"
+                    "href": "https://www.gutenberg.org/ebooks/67801"
                 }
             ],
-            "link": "http://www.gutenberg.org/ebooks/38877",
+            "link": "https://www.gutenberg.org/ebooks/67801",
             "summary": "Language: English",
             "summary_detail": {
                 "type": "text/html",
@@ -50,21 +50,21 @@
             }
         },
         {
-            "title": "Ecclesiastical History of England: The Church of the Revolution by John Stoughton",
+            "title": "A list of Philippine Baptismal Names by E. E. Schneider",
             "title_detail": {
                 "type": "text/plain",
                 "language": null,
                 "base": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-                "value": "Ecclesiastical History of England: The Church of the Revolution by John Stoughton"
+                "value": "A list of Philippine Baptismal Names by E. E. Schneider"
             },
             "links": [
                 {
                     "rel": "alternate",
                     "type": "text/html",
-                    "href": "http://www.gutenberg.org/ebooks/67727"
+                    "href": "https://www.gutenberg.org/ebooks/67803"
                 }
             ],
-            "link": "http://www.gutenberg.org/ebooks/67727",
+            "link": "https://www.gutenberg.org/ebooks/67803",
             "summary": "Language: English",
             "summary_detail": {
                 "type": "text/html",
@@ -74,21 +74,21 @@
             }
         },
         {
-            "title": "A Courier of Fortune by Arthur W. Marchmont",
+            "title": "Rivals for the Team: A Story of School Life and Football by Ralph Henry Barbour",
             "title_detail": {
                 "type": "text/plain",
                 "language": null,
                 "base": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-                "value": "A Courier of Fortune by Arthur W. Marchmont"
+                "value": "Rivals for the Team: A Story of School Life and Football by Ralph Henry Barbour"
             },
             "links": [
                 {
                     "rel": "alternate",
                     "type": "text/html",
-                    "href": "http://www.gutenberg.org/ebooks/67731"
+                    "href": "https://www.gutenberg.org/ebooks/67805"
                 }
             ],
-            "link": "http://www.gutenberg.org/ebooks/67731",
+            "link": "https://www.gutenberg.org/ebooks/67805",
             "summary": "Language: English",
             "summary_detail": {
                 "type": "text/html",
@@ -98,21 +98,21 @@
             }
         },
         {
-            "title": "Part II of Farnham's Travels in the Great Western Prairies, etc., October 21-December 4, 1839; and D",
+            "title": "The First of the English: A Novel by Archibald Clavering Gunter",
             "title_detail": {
                 "type": "text/plain",
                 "language": null,
                 "base": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-                "value": "Part II of Farnham's Travels in the Great Western Prairies, etc., October 21-December 4, 1839; and D"
+                "value": "The First of the English: A Novel by Archibald Clavering Gunter"
             },
             "links": [
                 {
                     "rel": "alternate",
                     "type": "text/html",
-                    "href": "http://www.gutenberg.org/ebooks/67730"
+                    "href": "https://www.gutenberg.org/ebooks/67804"
                 }
             ],
-            "link": "http://www.gutenberg.org/ebooks/67730",
+            "link": "https://www.gutenberg.org/ebooks/67804",
             "summary": "Language: English",
             "summary_detail": {
                 "type": "text/html",
@@ -122,141 +122,21 @@
             }
         },
         {
-            "title": "O Guarany: romance brazileiro Vol. 01 (of 2) by Jos\u00e9 Martiniano de Alencar",
+            "title": "Twenty Years After by Alexandre Dumas",
             "title_detail": {
                 "type": "text/plain",
                 "language": null,
                 "base": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-                "value": "O Guarany: romance brazileiro Vol. 01 (of 2) by Jos\u00e9 Martiniano de Alencar"
+                "value": "Twenty Years After by Alexandre Dumas"
             },
             "links": [
                 {
                     "rel": "alternate",
                     "type": "text/html",
-                    "href": "http://www.gutenberg.org/ebooks/67724"
+                    "href": "https://www.gutenberg.org/ebooks/1259"
                 }
             ],
-            "link": "http://www.gutenberg.org/ebooks/67724",
-            "summary": "Language: Portuguese",
-            "summary_detail": {
-                "type": "text/html",
-                "language": null,
-                "base": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-                "value": "Language: Portuguese"
-            }
-        },
-        {
-            "title": "O Guarany: romance brazileiro Vol. 02 (of 2) by Jos\u00e9 Martiniano de Alencar",
-            "title_detail": {
-                "type": "text/plain",
-                "language": null,
-                "base": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-                "value": "O Guarany: romance brazileiro Vol. 02 (of 2) by Jos\u00e9 Martiniano de Alencar"
-            },
-            "links": [
-                {
-                    "rel": "alternate",
-                    "type": "text/html",
-                    "href": "http://www.gutenberg.org/ebooks/67725"
-                }
-            ],
-            "link": "http://www.gutenberg.org/ebooks/67725",
-            "summary": "Language: Portuguese",
-            "summary_detail": {
-                "type": "text/html",
-                "language": null,
-                "base": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-                "value": "Language: Portuguese"
-            }
-        },
-        {
-            "title": "Se\u00f1ora ama: Comedia en tres actos by Jacinto Benavente",
-            "title_detail": {
-                "type": "text/plain",
-                "language": null,
-                "base": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-                "value": "Se\u00f1ora ama: Comedia en tres actos by Jacinto Benavente"
-            },
-            "links": [
-                {
-                    "rel": "alternate",
-                    "type": "text/html",
-                    "href": "http://www.gutenberg.org/ebooks/67726"
-                }
-            ],
-            "link": "http://www.gutenberg.org/ebooks/67726",
-            "summary": "Language: Spanish",
-            "summary_detail": {
-                "type": "text/html",
-                "language": null,
-                "base": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-                "value": "Language: Spanish"
-            }
-        },
-        {
-            "title": "The Three Musketeers by Alexandre Dumas",
-            "title_detail": {
-                "type": "text/plain",
-                "language": null,
-                "base": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-                "value": "The Three Musketeers by Alexandre Dumas"
-            },
-            "links": [
-                {
-                    "rel": "alternate",
-                    "type": "text/html",
-                    "href": "http://www.gutenberg.org/ebooks/1257"
-                }
-            ],
-            "link": "http://www.gutenberg.org/ebooks/1257",
-            "summary": "Language: English",
-            "summary_detail": {
-                "type": "text/html",
-                "language": null,
-                "base": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-                "value": "Language: English"
-            }
-        },
-        {
-            "title": "Mountain Craft",
-            "title_detail": {
-                "type": "text/plain",
-                "language": null,
-                "base": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-                "value": "Mountain Craft"
-            },
-            "links": [
-                {
-                    "rel": "alternate",
-                    "type": "text/html",
-                    "href": "http://www.gutenberg.org/ebooks/67729"
-                }
-            ],
-            "link": "http://www.gutenberg.org/ebooks/67729",
-            "summary": "Language: English",
-            "summary_detail": {
-                "type": "text/html",
-                "language": null,
-                "base": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-                "value": "Language: English"
-            }
-        },
-        {
-            "title": "The Valley of Content by Blanche Upright",
-            "title_detail": {
-                "type": "text/plain",
-                "language": null,
-                "base": "https://www.gutenberg.org/cache/epub/feeds/today.rss",
-                "value": "The Valley of Content by Blanche Upright"
-            },
-            "links": [
-                {
-                    "rel": "alternate",
-                    "type": "text/html",
-                    "href": "http://www.gutenberg.org/ebooks/67728"
-                }
-            ],
-            "link": "http://www.gutenberg.org/ebooks/67728",
+            "link": "https://www.gutenberg.org/ebooks/1259",
             "summary": "Language: English",
             "summary_detail": {
                 "type": "text/html",
@@ -278,10 +158,10 @@
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "http://www.gutenberg.org"
+                "href": "https://www.gutenberg.org"
             }
         ],
-        "link": "http://www.gutenberg.org",
+        "link": "https://www.gutenberg.org",
         "subtitle": "EBooks posted or updated today on Project Gutenberg.\n       This feed is regenerated every night.",
         "subtitle_detail": {
             "type": "text/html",
@@ -290,55 +170,54 @@
             "value": "EBooks posted or updated today on Project Gutenberg.\n       This feed is regenerated every night."
         },
         "language": "en-us",
-        "publisher": "webmaster@gutenberg.org (Marcello Perathoner)",
+        "publisher": "webmaster2020@pglaf.org",
         "publisher_detail": {
-            "name": "Marcello Perathoner",
-            "email": "webmaster@gutenberg.org"
+            "email": "webmaster2020@pglaf.org"
         },
-        "published": "Tue, 29 Mar 2022 05:51:40 -0400",
+        "published": "Sun, 10 Apr 2022 02:21:49 -0400",
         "published_parsed": [
             2022,
-            3,
-            29,
-            9,
-            51,
-            40,
-            1,
-            88,
+            4,
+            10,
+            6,
+            21,
+            49,
+            6,
+            100,
             0
         ],
-        "updated": "Tue, 29 Mar 2022 05:51:40 -0400",
+        "updated": "Sun, 10 Apr 2022 02:21:49 -0400",
         "updated_parsed": [
             2022,
-            3,
-            29,
-            9,
-            51,
-            40,
-            1,
-            88,
+            4,
+            10,
+            6,
+            21,
+            49,
+            6,
+            100,
             0
         ]
     },
     "headers": {
-        "date": "Tue, 29 Mar 2022 10:05:31 GMT",
+        "date": "Sun, 10 Apr 2022 08:44:22 GMT",
         "server": "Apache",
-        "last-modified": "Tue, 29 Mar 2022 09:51:40 GMT",
+        "last-modified": "Sun, 10 Apr 2022 06:21:49 GMT",
         "accept-ranges": "bytes",
-        "content-length": "2845",
+        "content-length": "1838",
         "connection": "close",
         "content-type": "application/rss+xml"
     },
-    "updated": "Tue, 29 Mar 2022 09:51:40 GMT",
+    "updated": "Sun, 10 Apr 2022 06:21:49 GMT",
     "updated_parsed": [
         2022,
-        3,
-        29,
-        9,
-        51,
-        40,
-        1,
-        88,
+        4,
+        10,
+        6,
+        21,
+        49,
+        6,
+        100,
         0
     ],
     "href": "https://www.gutenberg.org/cache/epub/feeds/today.rss",

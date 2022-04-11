@@ -1,0 +1,991 @@
+{
+    "bozo": false,
+    "entries": [
+        {
+            "title": "Kotlin Coroutines book premiere",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.kotlin-academy.com/feed",
+                "value": "Kotlin Coroutines book premiere"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.kotlin-academy.com/kotlin-coroutines-book-premiere-fe243dbfd41d?source=rss----e57b304801ef---4"
+                }
+            ],
+            "link": "https://blog.kotlin-academy.com/kotlin-coroutines-book-premiere-fe243dbfd41d?source=rss----e57b304801ef---4",
+            "id": "https://medium.com/p/fe243dbfd41d",
+            "guidislink": false,
+            "tags": [
+                {
+                    "term": "books-and-authors",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "kotlin-coroutines",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "newsletter",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "book-recommendations",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "kotlin",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Kasia Kt. Academy"
+                }
+            ],
+            "author": "Kasia Kt. Academy",
+            "author_detail": {
+                "name": "Kasia Kt. Academy"
+            },
+            "published": "Wed, 06 Apr 2022 04:32:50 GMT",
+            "published_parsed": [
+                2022,
+                4,
+                6,
+                4,
+                32,
+                50,
+                2,
+                96,
+                0
+            ],
+            "updated": "2022-04-06T04:32:49.650Z",
+            "updated_parsed": [
+                2022,
+                4,
+                6,
+                4,
+                32,
+                49,
+                2,
+                96,
+                0
+            ],
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://blog.kotlin-academy.com/feed",
+                    "value": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*icjkCcXedHzbTN_lsB4iwQ.jpeg\" /></figure><p>Hello, dear readers!\u00a0\ud83e\udd29</p><p>\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda</p><p>Long-time no see.<br />We were very busy preparing for the book premiere and new workshops.</p><p>Now we are back and speaking of which\u2026<br />we are so glad to announce the <strong>Kotlin Coroutines book</strong> premiere written by <strong>Marcin Moskala</strong>.\u00a0\ud83e\udd73</p><p>We have a <strong>special offer for our subscribers</strong>!<br /><strong>\u2b07 25% off</strong> the normal price for the newest book by <strong>Marcin\u00a0Moskala</strong>:</p><p><strong>Kotlin Coroutines. Deep\u00a0Dive.</strong></p><p>\u2702 This<a href=\"https://leanpub.com/coroutines/c/KtAcademySubscriber\"> link</a> gives you a special price for Kotlin Coroutines ebook on\u00a0Leanpub!</p><figure><a href=\"https://leanpub.com/coroutines/c/KtAcademySubscriber\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*o4kIyRJcL6nQJ9z7sJO1UQ.png\" /></a></figure><p>Wanna know more before buying? \ud83d\ude0e <br />Sure! \ud83e\udd29 <br />We prepared two promos. Written version as well as video for those, who would like to see the person standing behind this book.\u00a0\ud83d\udc8e</p><p>No one would better explain the writing process than the author.\u00a0\ud83d\ude0d</p><p>Find out for whom Kotlin Coroutines was created and what this book is about in the article written by <strong>Marcin\u00a0Moskala</strong>.</p><figure><a href=\"https://kt.academy/article/coroutines-release\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*1K-_xKMbAQmRegQ7wuZ96w.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/coroutines-release\">Kotlin Coroutines book is finally\u00a0ready!</a></figcaption></figure><p>Prefer watching? \ud83d\udc40 <br />Wanna meet the author? \u270d <br />Go for it. \ud83d\ude0e <br />Check out our <a href=\"https://youtu.be/xEswnD-9Fes\">movie promo</a>\u00a0\ud83d\udc47</p><figure><a href=\"https://www.youtube.com/watch?v=xEswnD-9Fes\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*9DIz9N_6xwqT7noBS122hQ.jpeg\" /></a></figure><p>\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8</p><p>We wish you a pleasant reading \ud83e\udd29<br />Hope to see you on our upcoming workshops! \ud83d\udc40</p><p>If there is anything you want to inform us about, let us know by replying to this email!\u00a0\ud83d\udc8c</p><p>Stay tuned! \ud83d\udc4c<br />Kt. Academy\u00a0Team</p><p>www: <a href=\"https://kt.academy/\">kt.academy</a><br />Blog: <a href=\"http://blog.kotlin-academy.com/\">blog.kotlin-academy.com</a><br />Twitter EN: <a href=\"https://twitter.com/ktdotacademy\">@KtDotAcademy</a><br />Twitter PL: <a href=\"https://twitter.com/ktdotacademyPL\">@ktdotacademyPL</a><br />FB: <a href=\"https://www.facebook.com/KtDotAcademy\">@KtDotAcademy</a><br />LinkedIn: <a href=\"https://www.linkedin.com/company/kt-academy/\">@Kt.\u00a0Academy</a></p><figure><a href=\"http://kt.academy\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PiAmEmweYoNmQogv3qsuIQ.png\" /></a></figure><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=fe243dbfd41d\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/kotlin-coroutines-book-premiere-fe243dbfd41d\">Kotlin Coroutines book premiere \ud83e\udd73</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+                }
+            ],
+            "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*icjkCcXedHzbTN_lsB4iwQ.jpeg\" /></figure><p>Hello, dear readers!\u00a0\ud83e\udd29</p><p>\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda\ud83d\udcda</p><p>Long-time no see.<br />We were very busy preparing for the book premiere and new workshops.</p><p>Now we are back and speaking of which\u2026<br />we are so glad to announce the <strong>Kotlin Coroutines book</strong> premiere written by <strong>Marcin Moskala</strong>.\u00a0\ud83e\udd73</p><p>We have a <strong>special offer for our subscribers</strong>!<br /><strong>\u2b07 25% off</strong> the normal price for the newest book by <strong>Marcin\u00a0Moskala</strong>:</p><p><strong>Kotlin Coroutines. Deep\u00a0Dive.</strong></p><p>\u2702 This<a href=\"https://leanpub.com/coroutines/c/KtAcademySubscriber\"> link</a> gives you a special price for Kotlin Coroutines ebook on\u00a0Leanpub!</p><figure><a href=\"https://leanpub.com/coroutines/c/KtAcademySubscriber\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*o4kIyRJcL6nQJ9z7sJO1UQ.png\" /></a></figure><p>Wanna know more before buying? \ud83d\ude0e <br />Sure! \ud83e\udd29 <br />We prepared two promos. Written version as well as video for those, who would like to see the person standing behind this book.\u00a0\ud83d\udc8e</p><p>No one would better explain the writing process than the author.\u00a0\ud83d\ude0d</p><p>Find out for whom Kotlin Coroutines was created and what this book is about in the article written by <strong>Marcin\u00a0Moskala</strong>.</p><figure><a href=\"https://kt.academy/article/coroutines-release\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*1K-_xKMbAQmRegQ7wuZ96w.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/coroutines-release\">Kotlin Coroutines book is finally\u00a0ready!</a></figcaption></figure><p>Prefer watching? \ud83d\udc40 <br />Wanna meet the author? \u270d <br />Go for it. \ud83d\ude0e <br />Check out our <a href=\"https://youtu.be/xEswnD-9Fes\">movie promo</a>\u00a0\ud83d\udc47</p><figure><a href=\"https://www.youtube.com/watch?v=xEswnD-9Fes\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*9DIz9N_6xwqT7noBS122hQ.jpeg\" /></a></figure><p>\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8\ud83d\udcd5\ud83d\udcd7\ud83d\udcd8</p><p>We wish you a pleasant reading \ud83e\udd29<br />Hope to see you on our upcoming workshops! \ud83d\udc40</p><p>If there is anything you want to inform us about, let us know by replying to this email!\u00a0\ud83d\udc8c</p><p>Stay tuned! \ud83d\udc4c<br />Kt. Academy\u00a0Team</p><p>www: <a href=\"https://kt.academy/\">kt.academy</a><br />Blog: <a href=\"http://blog.kotlin-academy.com/\">blog.kotlin-academy.com</a><br />Twitter EN: <a href=\"https://twitter.com/ktdotacademy\">@KtDotAcademy</a><br />Twitter PL: <a href=\"https://twitter.com/ktdotacademyPL\">@ktdotacademyPL</a><br />FB: <a href=\"https://www.facebook.com/KtDotAcademy\">@KtDotAcademy</a><br />LinkedIn: <a href=\"https://www.linkedin.com/company/kt-academy/\">@Kt.\u00a0Academy</a></p><figure><a href=\"http://kt.academy\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PiAmEmweYoNmQogv3qsuIQ.png\" /></a></figure><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=fe243dbfd41d\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/kotlin-coroutines-book-premiere-fe243dbfd41d\">Kotlin Coroutines book premiere \ud83e\udd73</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+        },
+        {
+            "title": "So in love with coding: 2 Kotlin Coroutines Articles & Kobby Plugin Article & Funny Programming",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.kotlin-academy.com/feed",
+                "value": "So in love with coding: 2 Kotlin Coroutines Articles & Kobby Plugin Article & Funny Programming"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.kotlin-academy.com/so-in-love-with-coding-2-kotlin-coroutines-articles-kobby-plugin-article-funny-programming-23c105baf7c9?source=rss----e57b304801ef---4"
+                }
+            ],
+            "link": "https://blog.kotlin-academy.com/so-in-love-with-coding-2-kotlin-coroutines-articles-kobby-plugin-article-funny-programming-23c105baf7c9?source=rss----e57b304801ef---4",
+            "id": "https://medium.com/p/23c105baf7c9",
+            "guidislink": false,
+            "tags": [
+                {
+                    "term": "newsletter",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "valentines",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "kotlin-flow",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "kotlin-coroutines",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "funny-videos",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Kasia Kt. Academy"
+                }
+            ],
+            "author": "Kasia Kt. Academy",
+            "author_detail": {
+                "name": "Kasia Kt. Academy"
+            },
+            "published": "Tue, 15 Feb 2022 04:43:12 GMT",
+            "published_parsed": [
+                2022,
+                2,
+                15,
+                4,
+                43,
+                12,
+                1,
+                46,
+                0
+            ],
+            "updated": "2022-02-15T04:43:11.413Z",
+            "updated_parsed": [
+                2022,
+                2,
+                15,
+                4,
+                43,
+                11,
+                1,
+                46,
+                0
+            ],
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://blog.kotlin-academy.com/feed",
+                    "value": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*J606OGyei0cWOR-U-sy_Aw.jpeg\" /></figure><p>Hi there programmers! \ud83e\udd17</p><p>\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97<br />Recently we have celebrated <strong>Valentine\u2019s Day</strong>!<br />We wish you lots of love\u00a0\u2026. <br />especially for\u00a0<strong>coding</strong>!</p><p>Below you can find a brief list of today\u2019s newsletter content:</p><p><strong>Kotlin Coroutines-Flow articles </strong>written by <strong>Marcin Moska\u0142a</strong>:<br />\ud83d\udc49 <a href=\"https://kt.academy/article/cc-scan\">Collecting values on flow: fold and scan</a><br />\ud83d\udc49 <a href=\"https://kt.academy/article/cc-flatmap\">Flattening flow: flatMapConcat, flatMapMerge and flatMapLatest</a></p><p>Articles are the parts from the <strong>Kotlin Coroutine</strong> book. You can find the early access <a href=\"https://leanpub.com/coroutines/\">here</a>.\u00a0\ud83d\udcd6</p><p><strong>Kobby Plugin article </strong>written by <strong>Dmitry Ermakov:</strong><br />\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284\">How to generate Kotlin DSL Client by GraphQL\u00a0schema</a></p><p>\u2733 Dmitry contacted us and we republished his article. <br />Wanna be like Dmitry?<br /><strong>We are still open to new authors.</strong><br />More info on our <a href=\"https://blog.kotlin-academy.com/\">Medium</a>\u00a0\ud83d\udcdd</p><p><strong>Offtop funny content article </strong>written by <strong>Marcin Moska\u0142a</strong> to make you laugh: <br />\ud83d\udc49 <a href=\"https://kt.academy/article/humour-video\">Funny programming videos</a></p><p>We wanna sing:<br />\ud83d\ude02 \u201cI feel it in my fingers, I feel it in my toes<br /><strong>CODE</strong> is all around me and so the feeling grows\u201d\u00a0\ud83d\ude02</p><p>Enjoy! \ud83d\ude43</p><p>Let\u2019s learn how can we accumulate flow values with fold and scan.\u00a0\ud83d\udc47</p><p><strong>Collecting values on flow: fold and\u00a0scan</strong></p><figure><a href=\"https://kt.academy/article/cc-scan\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*iVVblr-lH1lPBsFj9d-Y3g.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/cc-scan\">Collecting values on flow: fold and\u00a0scan</a></figcaption></figure><p>\ud83d\udd3b This is a chapter from the <a href=\"https://kt.academy/book/coroutines\">Kotlin Coroutines</a> book. You can find Early Access on\u00a0<a href=\"https://leanpub.com/coroutines/\">LeanPub</a>.</p><p>Let\u2019s learn how can we flatMap flow with flatMapConcat, flatMapMerge, and flatMapLatest.</p><p>\ud83d\udc49 <strong>Flattening flow: flatMapConcat, flatMapMerge and flatMapLatest</strong></p><figure><a href=\"https://kt.academy/article/cc-flatmap\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*SXPP8lSJYi2ZjHzawcQWfg.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/cc-flatmap\">Flattening flow: flatMapConcat, flatMapMerge and flatMapLatest</a></figcaption></figure><p>\ud83d\udd3b This is a chapter from the <a href=\"https://kt.academy/book/coroutines\">Kotlin Coroutines</a> book. You can find Early Access on\u00a0<a href=\"https://leanpub.com/coroutines/\">LeanPub</a>.</p><p>Introducing the Kobby Plugin\u200a\u2014\u200aa code generator of Kotlin GraphQL Client. Let\u2019s try it out! Sounds interesting, then read the article written by <strong>Dmitry Ermakov</strong>.\u00a0\ud83d\udc47</p><p><strong>How to generate Kotlin DSL Client by GraphQL\u00a0schema</strong></p><figure><a href=\"https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/921/1*bWtgRK8EvCgJubAqVBWQNA.png\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284\">How to generate Kotlin DSL Client by GraphQL\u00a0schema</a></figcaption></figure><p>\ud83d\udcf9 We, developers, created our own subculture. No wonder, there are over <a href=\"https://www.future-processing.com/blog/how-many-developers-are-there-in-the-world-in-2019/\">24 million of us worldwide</a>. We share similar problems and frustrations. Among us, there are many musicians and other kinds of artists. No wonder our community produces some<strong> funny video or a comic from time to time. </strong>In this article, <strong>Marcin Moska\u0142a</strong> collected his favourite videos.</p><p><strong>Funny programming videos</strong></p><figure><a href=\"https://kt.academy/article/humour-video\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*Q2IQvbF2g9DdVoRCyjdEqg.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/humour-video\">Funny programming videos</a></figcaption></figure><figure><a href=\"https://kt.academy/workshop/coroutines/form/public/coroutinesMar2022/register\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*xw8iw-XCyB4weekiCXcxlA.jpeg\" /></a></figure><p>Only 2 weeks left<strong> to the open Kotlin Coroutines Workshop</strong> conducted by <strong>Marcin Moska\u0142a\u00a0\ud83e\udd29</strong></p><p>\ud83d\udcc5: 03\u201304.03.2022<br />\u23f2: 9:00\u201317:00 CET (GMT+1)<br />\ud83d\udcb0: 300 EUR pp<br />\ud83d\udd24:\u00a0EN</p><p>Check the details and register here\u00a0\ud83d\udc47</p><p><a href=\"https://kt.academy/workshop/coroutines\">Kotlin Coroutines (kt.academy)</a></p><p>\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d</p><p>Code is in the air! \ud83d\udc9d<br />That\u2019s all from us for today\u00a0\ud83d\ude42</p><p>If there is anything you want to inform us about, let us know by replying to this email!\u00a0\ud83d\udc8c</p><p>Stay tuned! \ud83d\udc4c<br />Kt. Academy\u00a0Team</p><p>www: <a href=\"https://kt.academy/\">kt.academy</a><br />Blog: <a href=\"http://blog.kotlin-academy.com/\">blog.kotlin-academy.com</a><br />Twitter EN: <a href=\"https://twitter.com/ktdotacademy\">@KtDotAcademy</a><br />Twitter PL: <a href=\"https://twitter.com/ktdotacademyPL\">@ktdotacademyPL</a><br />FB: <a href=\"https://www.facebook.com/KtDotAcademy\">@KtDotAcademy</a><br />LinkedIn: <a href=\"https://www.linkedin.com/company/kt-academy/\">@Kt.\u00a0Academy</a></p><figure><a href=\"http://kt.academy\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PiAmEmweYoNmQogv3qsuIQ.png\" /></a></figure><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=23c105baf7c9\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/so-in-love-with-coding-2-kotlin-coroutines-articles-kobby-plugin-article-funny-programming-23c105baf7c9\">So in love with coding: 2 Kotlin Coroutines Articles &amp; Kobby Plugin Article &amp; Funny Programming \ud83d\udc98</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+                }
+            ],
+            "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*J606OGyei0cWOR-U-sy_Aw.jpeg\" /></figure><p>Hi there programmers! \ud83e\udd17</p><p>\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97<br />Recently we have celebrated <strong>Valentine\u2019s Day</strong>!<br />We wish you lots of love\u00a0\u2026. <br />especially for\u00a0<strong>coding</strong>!</p><p>Below you can find a brief list of today\u2019s newsletter content:</p><p><strong>Kotlin Coroutines-Flow articles </strong>written by <strong>Marcin Moska\u0142a</strong>:<br />\ud83d\udc49 <a href=\"https://kt.academy/article/cc-scan\">Collecting values on flow: fold and scan</a><br />\ud83d\udc49 <a href=\"https://kt.academy/article/cc-flatmap\">Flattening flow: flatMapConcat, flatMapMerge and flatMapLatest</a></p><p>Articles are the parts from the <strong>Kotlin Coroutine</strong> book. You can find the early access <a href=\"https://leanpub.com/coroutines/\">here</a>.\u00a0\ud83d\udcd6</p><p><strong>Kobby Plugin article </strong>written by <strong>Dmitry Ermakov:</strong><br />\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284\">How to generate Kotlin DSL Client by GraphQL\u00a0schema</a></p><p>\u2733 Dmitry contacted us and we republished his article. <br />Wanna be like Dmitry?<br /><strong>We are still open to new authors.</strong><br />More info on our <a href=\"https://blog.kotlin-academy.com/\">Medium</a>\u00a0\ud83d\udcdd</p><p><strong>Offtop funny content article </strong>written by <strong>Marcin Moska\u0142a</strong> to make you laugh: <br />\ud83d\udc49 <a href=\"https://kt.academy/article/humour-video\">Funny programming videos</a></p><p>We wanna sing:<br />\ud83d\ude02 \u201cI feel it in my fingers, I feel it in my toes<br /><strong>CODE</strong> is all around me and so the feeling grows\u201d\u00a0\ud83d\ude02</p><p>Enjoy! \ud83d\ude43</p><p>Let\u2019s learn how can we accumulate flow values with fold and scan.\u00a0\ud83d\udc47</p><p><strong>Collecting values on flow: fold and\u00a0scan</strong></p><figure><a href=\"https://kt.academy/article/cc-scan\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*iVVblr-lH1lPBsFj9d-Y3g.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/cc-scan\">Collecting values on flow: fold and\u00a0scan</a></figcaption></figure><p>\ud83d\udd3b This is a chapter from the <a href=\"https://kt.academy/book/coroutines\">Kotlin Coroutines</a> book. You can find Early Access on\u00a0<a href=\"https://leanpub.com/coroutines/\">LeanPub</a>.</p><p>Let\u2019s learn how can we flatMap flow with flatMapConcat, flatMapMerge, and flatMapLatest.</p><p>\ud83d\udc49 <strong>Flattening flow: flatMapConcat, flatMapMerge and flatMapLatest</strong></p><figure><a href=\"https://kt.academy/article/cc-flatmap\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*SXPP8lSJYi2ZjHzawcQWfg.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/cc-flatmap\">Flattening flow: flatMapConcat, flatMapMerge and flatMapLatest</a></figcaption></figure><p>\ud83d\udd3b This is a chapter from the <a href=\"https://kt.academy/book/coroutines\">Kotlin Coroutines</a> book. You can find Early Access on\u00a0<a href=\"https://leanpub.com/coroutines/\">LeanPub</a>.</p><p>Introducing the Kobby Plugin\u200a\u2014\u200aa code generator of Kotlin GraphQL Client. Let\u2019s try it out! Sounds interesting, then read the article written by <strong>Dmitry Ermakov</strong>.\u00a0\ud83d\udc47</p><p><strong>How to generate Kotlin DSL Client by GraphQL\u00a0schema</strong></p><figure><a href=\"https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/921/1*bWtgRK8EvCgJubAqVBWQNA.png\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284\">How to generate Kotlin DSL Client by GraphQL\u00a0schema</a></figcaption></figure><p>\ud83d\udcf9 We, developers, created our own subculture. No wonder, there are over <a href=\"https://www.future-processing.com/blog/how-many-developers-are-there-in-the-world-in-2019/\">24 million of us worldwide</a>. We share similar problems and frustrations. Among us, there are many musicians and other kinds of artists. No wonder our community produces some<strong> funny video or a comic from time to time. </strong>In this article, <strong>Marcin Moska\u0142a</strong> collected his favourite videos.</p><p><strong>Funny programming videos</strong></p><figure><a href=\"https://kt.academy/article/humour-video\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*Q2IQvbF2g9DdVoRCyjdEqg.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/humour-video\">Funny programming videos</a></figcaption></figure><figure><a href=\"https://kt.academy/workshop/coroutines/form/public/coroutinesMar2022/register\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*xw8iw-XCyB4weekiCXcxlA.jpeg\" /></a></figure><p>Only 2 weeks left<strong> to the open Kotlin Coroutines Workshop</strong> conducted by <strong>Marcin Moska\u0142a\u00a0\ud83e\udd29</strong></p><p>\ud83d\udcc5: 03\u201304.03.2022<br />\u23f2: 9:00\u201317:00 CET (GMT+1)<br />\ud83d\udcb0: 300 EUR pp<br />\ud83d\udd24:\u00a0EN</p><p>Check the details and register here\u00a0\ud83d\udc47</p><p><a href=\"https://kt.academy/workshop/coroutines\">Kotlin Coroutines (kt.academy)</a></p><p>\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d\ud83d\udc9d</p><p>Code is in the air! \ud83d\udc9d<br />That\u2019s all from us for today\u00a0\ud83d\ude42</p><p>If there is anything you want to inform us about, let us know by replying to this email!\u00a0\ud83d\udc8c</p><p>Stay tuned! \ud83d\udc4c<br />Kt. Academy\u00a0Team</p><p>www: <a href=\"https://kt.academy/\">kt.academy</a><br />Blog: <a href=\"http://blog.kotlin-academy.com/\">blog.kotlin-academy.com</a><br />Twitter EN: <a href=\"https://twitter.com/ktdotacademy\">@KtDotAcademy</a><br />Twitter PL: <a href=\"https://twitter.com/ktdotacademyPL\">@ktdotacademyPL</a><br />FB: <a href=\"https://www.facebook.com/KtDotAcademy\">@KtDotAcademy</a><br />LinkedIn: <a href=\"https://www.linkedin.com/company/kt-academy/\">@Kt.\u00a0Academy</a></p><figure><a href=\"http://kt.academy\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PiAmEmweYoNmQogv3qsuIQ.png\" /></a></figure><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=23c105baf7c9\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/so-in-love-with-coding-2-kotlin-coroutines-articles-kobby-plugin-article-funny-programming-23c105baf7c9\">So in love with coding: 2 Kotlin Coroutines Articles &amp; Kobby Plugin Article &amp; Funny Programming \ud83d\udc98</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+        },
+        {
+            "title": "2 Kotlin Coroutines Flow Articles & Android Article & Coroutines Open Workshop",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.kotlin-academy.com/feed",
+                "value": "2 Kotlin Coroutines Flow Articles & Android Article & Coroutines Open Workshop"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.kotlin-academy.com/2-kotlin-coroutines-flow-articles-android-article-coroutines-open-workshop-c76a4abe1799?source=rss----e57b304801ef---4"
+                }
+            ],
+            "link": "https://blog.kotlin-academy.com/2-kotlin-coroutines-flow-articles-android-article-coroutines-open-workshop-c76a4abe1799?source=rss----e57b304801ef---4",
+            "id": "https://medium.com/p/c76a4abe1799",
+            "guidislink": false,
+            "tags": [
+                {
+                    "term": "kotlin-flow",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "workshop",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "newsletter",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "kotlin-coroutines",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "android",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Kasia Kt. Academy"
+                }
+            ],
+            "author": "Kasia Kt. Academy",
+            "author_detail": {
+                "name": "Kasia Kt. Academy"
+            },
+            "published": "Tue, 01 Feb 2022 05:42:33 GMT",
+            "published_parsed": [
+                2022,
+                2,
+                1,
+                5,
+                42,
+                33,
+                1,
+                32,
+                0
+            ],
+            "updated": "2022-02-01T05:42:31.979Z",
+            "updated_parsed": [
+                2022,
+                2,
+                1,
+                5,
+                42,
+                31,
+                1,
+                32,
+                0
+            ],
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://blog.kotlin-academy.com/feed",
+                    "value": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/851/1*CYhV9xDQq3QJwhtR6LYE5g.jpeg\" /></figure><p>Hi there Code-lovers \ud83e\udd17</p><p>A new month means new energy and new ideas. We are entering into February with great news! We are currently working on new workshops: <br /><strong>\ud83e\udd16 machine learning, neural networks, and AI \ud83e\udde0</strong><br />Isn\u2019t it exciting?<strong> \ud83d\ude00 </strong><br />More details soon, stay tuned \ud83d\udce3 <br /> <br />Future sounds promising! \ud83e\udd29 <br />Below you can find a brief list of today\u2019s newsletter content:</p><p><strong>Kotlin Coroutines\u200a\u2014\u200aFlow articles </strong>written by <strong>Marcin Moska\u0142a</strong>:<br />\ud83d\udc49 <a href=\"https://kt.academy/article/cc-flow-lifecycle\">Flow lifecycle operations</a> <br />\ud83d\udc49 <a href=\"https://kt.academy/article/cc-flow-combine\">Combining flows: merge, zip, and\u00a0combine</a></p><p>More articles you can find on our <a href=\"https://kt.academy/article\">website</a>.\u00a0\ud83d\udcc3</p><p><strong>Android article </strong>written by <strong>Mustafa Yi\u011fit:</strong><br />\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/say-hello-to-jetpack-compose-and-compare-with-xml-6bc6053aec13\">Say Hello \ud83d\udc4b to Jetpack Compose and Compare with\u00a0XML</a></p><p>More Mustafa\u2019s and other authors\u2019 articles you can find on our <a href=\"https://blog.kotlin-academy.com/\">Medium</a>\u00a0\ud83d\udcdd</p><p>Ready? \ud83c\udfc3\u200d\u2642\ufe0f\ud83c\udfc3\u200d\u2640\ufe0f</p><p>Let\u2019s learn about lifecycle operations, controlling context, and handling exceptions in flow.\u00a0\ud83d\udc47</p><p><strong>Flow lifecycle operations</strong></p><figure><a href=\"https://kt.academy/article/cc-flow-lifecycle\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*rYX7zS0F6DiaCQ6UADgG0A.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/cc-flow-lifecycle\">Flow lifecycle operations</a> <br />\ud83d\udd3b This is a chapter from the <a href=\"https://kt.academy/book/coroutines\">Kotlin Coroutines</a> book. You can find Early Access on\u00a0<a href=\"https://leanpub.com/coroutines/\">LeanPub</a>.</figcaption></figure><p>Let\u2019s learn how can we transform two flows into one, with merge, zip, and\u00a0combine.</p><p>\ud83d\udc49 <strong>Combining flows: merge, zip, and\u00a0combine</strong></p><figure><a href=\"https://kt.academy/article/cc-flow-combine\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*Pg-wkbM9lnEyTMQTf81kPA.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/cc-flow-combine\">Combining flows: merge, zip, and combine</a><br />\ud83d\udd3b This is a chapter from the <a href=\"https://kt.academy/book/coroutines\">Kotlin Coroutines</a> book. You can find Early Access on\u00a0<a href=\"https://leanpub.com/coroutines/\">LeanPub</a>.</figcaption></figure><p><strong>Mustafa Yi\u011fit </strong>will try to explain what\u2019s in the box for Jetpack Compose and what is the difference between compose and XML based design. Let\u2019s dive into the UI development in Android without XML.\u00a0\ud83d\udc47</p><p><strong>Say Hello \ud83d\udc4b to Jetpack Compose and Compare with\u00a0XML</strong></p><figure><a href=\"https://blog.kotlin-academy.com/say-hello-to-jetpack-compose-and-compare-with-xml-6bc6053aec13\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*mzEOy_kYQNFGinNUWvQKug.jpeg\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/say-hello-to-jetpack-compose-and-compare-with-xml-6bc6053aec13\">Say Hello \ud83d\udc4b to Jetpack Compose and Compare with\u00a0XML</a></figcaption></figure><figure><a href=\"https://kt.academy/workshop/coroutines/form/public/coroutinesMar2022/register\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*zqmLAYhundVZayu7HY38Jg.jpeg\" /></a></figure><p>One month left<strong> to the open Kotlin Coroutines Workshop</strong> conducted by <strong>Marcin Moska\u0142a\u00a0\ud83e\udd29</strong></p><p>\ud83d\udcc5: 03\u201304.03.2022<br />\u23f2: 9:00\u201317:00 CET (GMT+1)<br />\ud83d\udcb0: 300 EUR pp<br />\ud83d\udd24:\u00a0EN</p><p>Check the details and register here\u00a0\ud83d\udc47</p><p><a href=\"https://kt.academy/workshop/coroutines\">Kotlin Coroutines (kt.academy)</a></p><p>\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9</p><p>That\u2019s all from us for today, thank you\u00a0\ud83d\ude42</p><p>If there is anything you want to inform us about, let us know by replying to this email!\u00a0\ud83d\udc8c</p><p>Stay tuned! \ud83d\udc4c<br />Kt. Academy\u00a0Team</p><p>www: <a href=\"https://kt.academy/\">kt.academy</a><br />Blog: <a href=\"http://blog.kotlin-academy.com/\">blog.kotlin-academy.com</a><br />Twitter EN: <a href=\"https://twitter.com/ktdotacademy\">@KtDotAcademy</a><br />Twitter PL: <a href=\"https://twitter.com/ktdotacademyPL\">@ktdotacademyPL</a><br />FB: <a href=\"https://www.facebook.com/KtDotAcademy\">@KtDotAcademy</a><br />LinkedIn: <a href=\"https://www.linkedin.com/company/kt-academy/\">@Kt.\u00a0Academy</a></p><figure><a href=\"http://kt.academy\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PiAmEmweYoNmQogv3qsuIQ.png\" /></a></figure><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=c76a4abe1799\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/2-kotlin-coroutines-flow-articles-android-article-coroutines-open-workshop-c76a4abe1799\">2 Kotlin Coroutines Flow Articles &amp; Android Article &amp; Coroutines Open Workshop \ud83c\udfc6</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+                }
+            ],
+            "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/851/1*CYhV9xDQq3QJwhtR6LYE5g.jpeg\" /></figure><p>Hi there Code-lovers \ud83e\udd17</p><p>A new month means new energy and new ideas. We are entering into February with great news! We are currently working on new workshops: <br /><strong>\ud83e\udd16 machine learning, neural networks, and AI \ud83e\udde0</strong><br />Isn\u2019t it exciting?<strong> \ud83d\ude00 </strong><br />More details soon, stay tuned \ud83d\udce3 <br /> <br />Future sounds promising! \ud83e\udd29 <br />Below you can find a brief list of today\u2019s newsletter content:</p><p><strong>Kotlin Coroutines\u200a\u2014\u200aFlow articles </strong>written by <strong>Marcin Moska\u0142a</strong>:<br />\ud83d\udc49 <a href=\"https://kt.academy/article/cc-flow-lifecycle\">Flow lifecycle operations</a> <br />\ud83d\udc49 <a href=\"https://kt.academy/article/cc-flow-combine\">Combining flows: merge, zip, and\u00a0combine</a></p><p>More articles you can find on our <a href=\"https://kt.academy/article\">website</a>.\u00a0\ud83d\udcc3</p><p><strong>Android article </strong>written by <strong>Mustafa Yi\u011fit:</strong><br />\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/say-hello-to-jetpack-compose-and-compare-with-xml-6bc6053aec13\">Say Hello \ud83d\udc4b to Jetpack Compose and Compare with\u00a0XML</a></p><p>More Mustafa\u2019s and other authors\u2019 articles you can find on our <a href=\"https://blog.kotlin-academy.com/\">Medium</a>\u00a0\ud83d\udcdd</p><p>Ready? \ud83c\udfc3\u200d\u2642\ufe0f\ud83c\udfc3\u200d\u2640\ufe0f</p><p>Let\u2019s learn about lifecycle operations, controlling context, and handling exceptions in flow.\u00a0\ud83d\udc47</p><p><strong>Flow lifecycle operations</strong></p><figure><a href=\"https://kt.academy/article/cc-flow-lifecycle\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*rYX7zS0F6DiaCQ6UADgG0A.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/cc-flow-lifecycle\">Flow lifecycle operations</a> <br />\ud83d\udd3b This is a chapter from the <a href=\"https://kt.academy/book/coroutines\">Kotlin Coroutines</a> book. You can find Early Access on\u00a0<a href=\"https://leanpub.com/coroutines/\">LeanPub</a>.</figcaption></figure><p>Let\u2019s learn how can we transform two flows into one, with merge, zip, and\u00a0combine.</p><p>\ud83d\udc49 <strong>Combining flows: merge, zip, and\u00a0combine</strong></p><figure><a href=\"https://kt.academy/article/cc-flow-combine\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*Pg-wkbM9lnEyTMQTf81kPA.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/cc-flow-combine\">Combining flows: merge, zip, and combine</a><br />\ud83d\udd3b This is a chapter from the <a href=\"https://kt.academy/book/coroutines\">Kotlin Coroutines</a> book. You can find Early Access on\u00a0<a href=\"https://leanpub.com/coroutines/\">LeanPub</a>.</figcaption></figure><p><strong>Mustafa Yi\u011fit </strong>will try to explain what\u2019s in the box for Jetpack Compose and what is the difference between compose and XML based design. Let\u2019s dive into the UI development in Android without XML.\u00a0\ud83d\udc47</p><p><strong>Say Hello \ud83d\udc4b to Jetpack Compose and Compare with\u00a0XML</strong></p><figure><a href=\"https://blog.kotlin-academy.com/say-hello-to-jetpack-compose-and-compare-with-xml-6bc6053aec13\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*mzEOy_kYQNFGinNUWvQKug.jpeg\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/say-hello-to-jetpack-compose-and-compare-with-xml-6bc6053aec13\">Say Hello \ud83d\udc4b to Jetpack Compose and Compare with\u00a0XML</a></figcaption></figure><figure><a href=\"https://kt.academy/workshop/coroutines/form/public/coroutinesMar2022/register\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*zqmLAYhundVZayu7HY38Jg.jpeg\" /></a></figure><p>One month left<strong> to the open Kotlin Coroutines Workshop</strong> conducted by <strong>Marcin Moska\u0142a\u00a0\ud83e\udd29</strong></p><p>\ud83d\udcc5: 03\u201304.03.2022<br />\u23f2: 9:00\u201317:00 CET (GMT+1)<br />\ud83d\udcb0: 300 EUR pp<br />\ud83d\udd24:\u00a0EN</p><p>Check the details and register here\u00a0\ud83d\udc47</p><p><a href=\"https://kt.academy/workshop/coroutines\">Kotlin Coroutines (kt.academy)</a></p><p>\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9\ud83d\udcd8\ud83d\udcd9</p><p>That\u2019s all from us for today, thank you\u00a0\ud83d\ude42</p><p>If there is anything you want to inform us about, let us know by replying to this email!\u00a0\ud83d\udc8c</p><p>Stay tuned! \ud83d\udc4c<br />Kt. Academy\u00a0Team</p><p>www: <a href=\"https://kt.academy/\">kt.academy</a><br />Blog: <a href=\"http://blog.kotlin-academy.com/\">blog.kotlin-academy.com</a><br />Twitter EN: <a href=\"https://twitter.com/ktdotacademy\">@KtDotAcademy</a><br />Twitter PL: <a href=\"https://twitter.com/ktdotacademyPL\">@ktdotacademyPL</a><br />FB: <a href=\"https://www.facebook.com/KtDotAcademy\">@KtDotAcademy</a><br />LinkedIn: <a href=\"https://www.linkedin.com/company/kt-academy/\">@Kt.\u00a0Academy</a></p><figure><a href=\"http://kt.academy\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PiAmEmweYoNmQogv3qsuIQ.png\" /></a></figure><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=c76a4abe1799\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/2-kotlin-coroutines-flow-articles-android-article-coroutines-open-workshop-c76a4abe1799\">2 Kotlin Coroutines Flow Articles &amp; Android Article &amp; Coroutines Open Workshop \ud83c\udfc6</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+        },
+        {
+            "title": "How to generate Kotlin DSL Client by GraphQL schema",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.kotlin-academy.com/feed",
+                "value": "How to generate Kotlin DSL Client by GraphQL schema"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284?source=rss----e57b304801ef---4"
+                }
+            ],
+            "link": "https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284?source=rss----e57b304801ef---4",
+            "id": "https://medium.com/p/707fd0c55284",
+            "guidislink": false,
+            "tags": [
+                {
+                    "term": "android-app-development",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "graphql-subscriptions",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "android",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "kotlin",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "graphql",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Dmitry Ermakov"
+                }
+            ],
+            "author": "Dmitry Ermakov",
+            "author_detail": {
+                "name": "Dmitry Ermakov"
+            },
+            "published": "Fri, 28 Jan 2022 11:07:29 GMT",
+            "published_parsed": [
+                2022,
+                1,
+                28,
+                11,
+                7,
+                29,
+                4,
+                28,
+                0
+            ],
+            "updated": "2022-01-28T11:07:41.681Z",
+            "updated_parsed": [
+                2022,
+                1,
+                28,
+                11,
+                7,
+                41,
+                4,
+                28,
+                0
+            ],
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://blog.kotlin-academy.com/feed",
+                    "value": "<h4>Introducing the Kobby Plugin\u200a\u2014\u200aa code generator of Kotlin GraphQL\u00a0Client</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/921/1*R8XLcm1o7zz98btEWN6SgA.png\" /><figcaption>\u00abKotlin\u00bb and \u00abGraphQL\u00bb mean the same thing to\u00a0you!</figcaption></figure><p>On the one hand, the GraphQL schema uniquely defines the data model and the available operations of the service that implements it. On the other hand, Kotlin provides amazing opportunities for creating your own domain-specific languages (DSL). This way, you can write a domain-specific language to interact with your GraphQL service according to the published GraphQL schema. But writing such a code manually is Sisyphean labor. This is where the <a href=\"https://github.com/ermadmi78/kobby\"><strong>Kobby Plugin</strong></a> comes in, which can parse your service\u2019s GraphQL schema and generate a client DSL for interaction. Let\u2019s try it\u00a0out!</p><p>The source code for the examples in this article is available in <a href=\"https://github.com/ermadmi78/kobby-gradle-tutorial\"><strong>Kobby Gradle Tutorial</strong></a> and <a href=\"https://github.com/ermadmi78/kobby-maven-tutorial\"><strong>Kobby Maven Tutorial</strong></a>.</p><h3>What will we get in the\u00a0end?</h3><p><em>If you are too lazy to read the whole\u00a0article\u2026</em></p><h4>Query</h4><a href=\"https://medium.com/media/e40b8c3ef4c62e3e7d9168767b2fa292/href\">https://medium.com/media/e40b8c3ef4c62e3e7d9168767b2fa292/href</a><h4>Mutation</h4><a href=\"https://medium.com/media/1ba2bec8364da1939fa23e05a4f3cee6/href\">https://medium.com/media/1ba2bec8364da1939fa23e05a4f3cee6/href</a><h4>Subscription</h4><a href=\"https://medium.com/media/425b555882d7f11f5cd1ad609cdde709/href\">https://medium.com/media/425b555882d7f11f5cd1ad609cdde709/href</a><h3>Kobby Plugin\u00a0setup</h3><blockquote>In the beginning was the\u00a0Word\u2026</blockquote><p>But we will start with a schema of our service. By default, the <a href=\"https://github.com/ermadmi78/kobby/wiki/Gradle-GraphQL-Schema-Location\">Kobby Plugin looks for a GraphQL schema</a> in files with graphqls extensions in the project resources. For the sake of simplicity, we will place our schema in a single file named cinema.graphqls:</p><a href=\"https://medium.com/media/f64c75ea428a7f0b4eb485daad7a0fdb/href\">https://medium.com/media/f64c75ea428a7f0b4eb485daad7a0fdb/href</a><p>This simple schema will allow us to try out all kinds of GraphQL operations\u200a\u2014\u200aqueries, mutations, and subscriptions.</p><p>Next, we have to configure the plugin. For Gradle projects it looks like\u00a0this:</p><a href=\"https://medium.com/media/b18e5bdd00cb732d0422fd6553f4c7e1/href\">https://medium.com/media/b18e5bdd00cb732d0422fd6553f4c7e1/href</a><p>For Maven projects, this does not look so\u00a0elegant:</p><a href=\"https://medium.com/media/e6673b3c0b0309887b89e82e88451ac8/href\">https://medium.com/media/e6673b3c0b0309887b89e82e88451ac8/href</a><p>There are <a href=\"https://github.com/ermadmi78/kobby/wiki/Available-Gradle-Plugin-Settings\">explicit</a> and implicit ways to configure the plugin. We used the implicit way by adding dependencies to the <a href=\"https://github.com/FasterXML/jackson\">Jackson</a> and <a href=\"https://ktor.io/\">Ktor</a> libraries. The Kobby Plugin not only scans resources for schema files but also analyzes project dependencies. If Jackson is present in the dependencies, then the plugin adds Jackson annotations to the generated <a href=\"https://en.wikipedia.org/wiki/Data_transfer_object\">DTO</a> classes to ensure JSON serialization. If Ktor is present in the project dependencies, then the plugin generates a default DSL adapter. We\u2019ll talk about adapters in the next\u00a0section.</p><h3>Instantiate DSL\u00a0Context</h3><p>We have configured our plugin. Now we have to generate a DSL according to our schema. Run gradle build for Gradle or mvn compile for Maven and the plugin will find the cinema.graphqls file and generate a DSL based on\u00a0it:</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/547/1*-WWmBB3zAmUEXmRhVkVXGA.png\" /></figure><p>The plugin will create the cinema.kt file with the cinemaContextOf builder function that instantiates the CinemaContext interface\u200a\u2014\u200athe entry point of the generated DSL:</p><a href=\"https://medium.com/media/d2dde37955f7c94f3daa4114ad210154/href\">https://medium.com/media/d2dde37955f7c94f3daa4114ad210154/href</a><p>We have to pass an instance of the CinemaAdapter interface to the builder function to create the context. What is an adapter? The DSL context, generated by the Kobby Plugin, knows nothing about the transport layer and GraphQL communication protocol. The context implementation just builds the query and passes it to the adapter. And the adapter has to do all the dirty work\u200a\u2014\u200asend the query to the server, and receive and deserialize the response. You can write your own adapter implementation or use the default adapter generated by the\u00a0plugin.</p><p>We will use the default adapter. It uses <a href=\"https://ktor.io/\">Ktor</a> to execute GraphQL queries and mutations over HTTP and to establish subscription sessions over WebSocket:</p><a href=\"https://medium.com/media/68b80809c3bd69e8fab33a7eee2417d1/href\">https://medium.com/media/68b80809c3bd69e8fab33a7eee2417d1/href</a><h3>Executing Queries</h3><p>We are ready to execute our first query. Let\u2019s try to find a film with actors by ID. In GraphQL, this query looks like\u00a0this:</p><a href=\"https://medium.com/media/55699cbd99b393d532e83763774934df/href\">https://medium.com/media/55699cbd99b393d532e83763774934df/href</a><p>In Kotlin, it looks like\u00a0this:</p><a href=\"https://medium.com/media/5c13e4679815e07740245251f3b135a6/href\">https://medium.com/media/5c13e4679815e07740245251f3b135a6/href</a><p>The context.query is <a href=\"https://kotlinlang.org/docs/coroutines-basics.html\">suspending function</a>, and does not block the current thread. What do we get as a result of executing the query? In GraphQL, the result is JSON that looks like\u00a0this:</p><a href=\"https://medium.com/media/7b343c938ed065791ba80938da87046f/href\">https://medium.com/media/7b343c938ed065791ba80938da87046f/href</a><p>To navigate through the result, the plugin generates \u201centity\u201d interfaces that look like\u00a0this:</p><a href=\"https://medium.com/media/334ac21b2a1a696854090b0014abbf00/href\">https://medium.com/media/334ac21b2a1a696854090b0014abbf00/href</a><p>The context.query function returns an instance of the Query entity, so the navigation through the result looks like\u00a0this:</p><a href=\"https://medium.com/media/6e4469981c8088d428ec62c865ba261c/href\">https://medium.com/media/6e4469981c8088d428ec62c865ba261c/href</a><h3>Executing Mutations</h3><p>Let\u2019s create a new movie. In GraphQL, the mutation looks like\u00a0this:</p><a href=\"https://medium.com/media/c50dbd01be2155d39e00b45495d646d2/href\">https://medium.com/media/c50dbd01be2155d39e00b45495d646d2/href</a><p>And we\u2019ll get the result as a JSON that looks like\u00a0this:</p><a href=\"https://medium.com/media/d0ef3077cacf9546c1ad906c3bee99a2/href\">https://medium.com/media/d0ef3077cacf9546c1ad906c3bee99a2/href</a><p>In Kotlin, this mutation looks like\u00a0this:</p><a href=\"https://medium.com/media/690c6a75662470accd3d1cf8e9d1bda1/href\">https://medium.com/media/690c6a75662470accd3d1cf8e9d1bda1/href</a><p>The context.mutation function returns an instance of the Mutation entity interface and also is <a href=\"https://kotlinlang.org/docs/coroutines-basics.html\">suspending function</a>. So, our mutation does not block the current\u00a0thread.</p><h3>Establishing Subscriptions</h3><p>Let\u2019s subscribe for new films notifications. In GraphQL, the subscription looks like\u00a0this:</p><a href=\"https://medium.com/media/643a888a3e5a7722de148280e7ccbbfc/href\">https://medium.com/media/643a888a3e5a7722de148280e7ccbbfc/href</a><p>With this subscription, we will receive JSON messages that look like\u00a0this:</p><a href=\"https://medium.com/media/465ac18cd25d0725b61bb2084b65acb0/href\">https://medium.com/media/465ac18cd25d0725b61bb2084b65acb0/href</a><p>The semantics of the subscription operation in Kotlin is different from the semantics of the query and mutation operations. While the query and mutation just send a request and receive a response, the subscription creates a long-lived session to listen to incoming messages. So, we have to create an asynchronous listener to receive incoming messages:</p><a href=\"https://medium.com/media/f11f5f2c786219d8fa7af3905bfbe830/href\">https://medium.com/media/f11f5f2c786219d8fa7af3905bfbe830/href</a><p>Don\u2019t worry, we are not blocking the thread in an infinite loop, because the subscribe function and the receive function are <a href=\"https://kotlinlang.org/docs/coroutines-basics.html\">suspending functions</a>.</p><p>The lifetime of the subscription session is the same as the execution time of the subscribe function. When we enter the subscribe function, a session is created, and when we exit it, the session is destroyed.</p><p>The receive function returns an instance of the Subscription entity interface for each incoming\u00a0message.</p><h3>What have I not covered in this\u00a0article?</h3><ul><li>I haven\u2019t covered <a href=\"https://github.com/ermadmi78/kobby/wiki/Gradle-GraphQL-Scalar-Mapping\">how to map scalars</a> defined in a schema to Kotlin datatypes.</li><li>I haven\u2019t talked about how the plugin works with <a href=\"https://github.com/ermadmi78/kobby/wiki/Support-for-GraphQL-Abstract-Data-Types\">abstract data\u00a0types</a>.</li><li>I haven\u2019t covered <a href=\"https://github.com/ermadmi78/kobby/wiki/Client-DSL-Customization\">how to customize the generated DSL</a> using GraphQL directives.</li><li>I haven\u2019t talked about how the plugin <a href=\"https://github.com/ermadmi78/kobby/wiki/GraphQL-Java-Kickstart-support\">supports server-side development</a>.</li></ul><p>And most importantly, I didn\u2019t talk about how to use <a href=\"https://kotlinlang.org/docs/extensions.html\">Kotlin extension functions</a> to turn the generated DSL into a rich domain model on steroids. Perhaps I will cover this in future articles.</p><figure><a href=\"https://kotlin-academy.us17.list-manage.com/subscribe?u=5d3a48e1893758cb5be5c2919&amp;id=d2ba84960a\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/700/1*vjGp5fHBUq3Gzf8MiBUoiQ.png\" /></a></figure><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=707fd0c55284\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284\">How to generate Kotlin DSL Client by GraphQL schema</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+                }
+            ],
+            "summary": "<h4>Introducing the Kobby Plugin\u200a\u2014\u200aa code generator of Kotlin GraphQL\u00a0Client</h4><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/921/1*R8XLcm1o7zz98btEWN6SgA.png\" /><figcaption>\u00abKotlin\u00bb and \u00abGraphQL\u00bb mean the same thing to\u00a0you!</figcaption></figure><p>On the one hand, the GraphQL schema uniquely defines the data model and the available operations of the service that implements it. On the other hand, Kotlin provides amazing opportunities for creating your own domain-specific languages (DSL). This way, you can write a domain-specific language to interact with your GraphQL service according to the published GraphQL schema. But writing such a code manually is Sisyphean labor. This is where the <a href=\"https://github.com/ermadmi78/kobby\"><strong>Kobby Plugin</strong></a> comes in, which can parse your service\u2019s GraphQL schema and generate a client DSL for interaction. Let\u2019s try it\u00a0out!</p><p>The source code for the examples in this article is available in <a href=\"https://github.com/ermadmi78/kobby-gradle-tutorial\"><strong>Kobby Gradle Tutorial</strong></a> and <a href=\"https://github.com/ermadmi78/kobby-maven-tutorial\"><strong>Kobby Maven Tutorial</strong></a>.</p><h3>What will we get in the\u00a0end?</h3><p><em>If you are too lazy to read the whole\u00a0article\u2026</em></p><h4>Query</h4><a href=\"https://medium.com/media/e40b8c3ef4c62e3e7d9168767b2fa292/href\">https://medium.com/media/e40b8c3ef4c62e3e7d9168767b2fa292/href</a><h4>Mutation</h4><a href=\"https://medium.com/media/1ba2bec8364da1939fa23e05a4f3cee6/href\">https://medium.com/media/1ba2bec8364da1939fa23e05a4f3cee6/href</a><h4>Subscription</h4><a href=\"https://medium.com/media/425b555882d7f11f5cd1ad609cdde709/href\">https://medium.com/media/425b555882d7f11f5cd1ad609cdde709/href</a><h3>Kobby Plugin\u00a0setup</h3><blockquote>In the beginning was the\u00a0Word\u2026</blockquote><p>But we will start with a schema of our service. By default, the <a href=\"https://github.com/ermadmi78/kobby/wiki/Gradle-GraphQL-Schema-Location\">Kobby Plugin looks for a GraphQL schema</a> in files with graphqls extensions in the project resources. For the sake of simplicity, we will place our schema in a single file named cinema.graphqls:</p><a href=\"https://medium.com/media/f64c75ea428a7f0b4eb485daad7a0fdb/href\">https://medium.com/media/f64c75ea428a7f0b4eb485daad7a0fdb/href</a><p>This simple schema will allow us to try out all kinds of GraphQL operations\u200a\u2014\u200aqueries, mutations, and subscriptions.</p><p>Next, we have to configure the plugin. For Gradle projects it looks like\u00a0this:</p><a href=\"https://medium.com/media/b18e5bdd00cb732d0422fd6553f4c7e1/href\">https://medium.com/media/b18e5bdd00cb732d0422fd6553f4c7e1/href</a><p>For Maven projects, this does not look so\u00a0elegant:</p><a href=\"https://medium.com/media/e6673b3c0b0309887b89e82e88451ac8/href\">https://medium.com/media/e6673b3c0b0309887b89e82e88451ac8/href</a><p>There are <a href=\"https://github.com/ermadmi78/kobby/wiki/Available-Gradle-Plugin-Settings\">explicit</a> and implicit ways to configure the plugin. We used the implicit way by adding dependencies to the <a href=\"https://github.com/FasterXML/jackson\">Jackson</a> and <a href=\"https://ktor.io/\">Ktor</a> libraries. The Kobby Plugin not only scans resources for schema files but also analyzes project dependencies. If Jackson is present in the dependencies, then the plugin adds Jackson annotations to the generated <a href=\"https://en.wikipedia.org/wiki/Data_transfer_object\">DTO</a> classes to ensure JSON serialization. If Ktor is present in the project dependencies, then the plugin generates a default DSL adapter. We\u2019ll talk about adapters in the next\u00a0section.</p><h3>Instantiate DSL\u00a0Context</h3><p>We have configured our plugin. Now we have to generate a DSL according to our schema. Run gradle build for Gradle or mvn compile for Maven and the plugin will find the cinema.graphqls file and generate a DSL based on\u00a0it:</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/547/1*-WWmBB3zAmUEXmRhVkVXGA.png\" /></figure><p>The plugin will create the cinema.kt file with the cinemaContextOf builder function that instantiates the CinemaContext interface\u200a\u2014\u200athe entry point of the generated DSL:</p><a href=\"https://medium.com/media/d2dde37955f7c94f3daa4114ad210154/href\">https://medium.com/media/d2dde37955f7c94f3daa4114ad210154/href</a><p>We have to pass an instance of the CinemaAdapter interface to the builder function to create the context. What is an adapter? The DSL context, generated by the Kobby Plugin, knows nothing about the transport layer and GraphQL communication protocol. The context implementation just builds the query and passes it to the adapter. And the adapter has to do all the dirty work\u200a\u2014\u200asend the query to the server, and receive and deserialize the response. You can write your own adapter implementation or use the default adapter generated by the\u00a0plugin.</p><p>We will use the default adapter. It uses <a href=\"https://ktor.io/\">Ktor</a> to execute GraphQL queries and mutations over HTTP and to establish subscription sessions over WebSocket:</p><a href=\"https://medium.com/media/68b80809c3bd69e8fab33a7eee2417d1/href\">https://medium.com/media/68b80809c3bd69e8fab33a7eee2417d1/href</a><h3>Executing Queries</h3><p>We are ready to execute our first query. Let\u2019s try to find a film with actors by ID. In GraphQL, this query looks like\u00a0this:</p><a href=\"https://medium.com/media/55699cbd99b393d532e83763774934df/href\">https://medium.com/media/55699cbd99b393d532e83763774934df/href</a><p>In Kotlin, it looks like\u00a0this:</p><a href=\"https://medium.com/media/5c13e4679815e07740245251f3b135a6/href\">https://medium.com/media/5c13e4679815e07740245251f3b135a6/href</a><p>The context.query is <a href=\"https://kotlinlang.org/docs/coroutines-basics.html\">suspending function</a>, and does not block the current thread. What do we get as a result of executing the query? In GraphQL, the result is JSON that looks like\u00a0this:</p><a href=\"https://medium.com/media/7b343c938ed065791ba80938da87046f/href\">https://medium.com/media/7b343c938ed065791ba80938da87046f/href</a><p>To navigate through the result, the plugin generates \u201centity\u201d interfaces that look like\u00a0this:</p><a href=\"https://medium.com/media/334ac21b2a1a696854090b0014abbf00/href\">https://medium.com/media/334ac21b2a1a696854090b0014abbf00/href</a><p>The context.query function returns an instance of the Query entity, so the navigation through the result looks like\u00a0this:</p><a href=\"https://medium.com/media/6e4469981c8088d428ec62c865ba261c/href\">https://medium.com/media/6e4469981c8088d428ec62c865ba261c/href</a><h3>Executing Mutations</h3><p>Let\u2019s create a new movie. In GraphQL, the mutation looks like\u00a0this:</p><a href=\"https://medium.com/media/c50dbd01be2155d39e00b45495d646d2/href\">https://medium.com/media/c50dbd01be2155d39e00b45495d646d2/href</a><p>And we\u2019ll get the result as a JSON that looks like\u00a0this:</p><a href=\"https://medium.com/media/d0ef3077cacf9546c1ad906c3bee99a2/href\">https://medium.com/media/d0ef3077cacf9546c1ad906c3bee99a2/href</a><p>In Kotlin, this mutation looks like\u00a0this:</p><a href=\"https://medium.com/media/690c6a75662470accd3d1cf8e9d1bda1/href\">https://medium.com/media/690c6a75662470accd3d1cf8e9d1bda1/href</a><p>The context.mutation function returns an instance of the Mutation entity interface and also is <a href=\"https://kotlinlang.org/docs/coroutines-basics.html\">suspending function</a>. So, our mutation does not block the current\u00a0thread.</p><h3>Establishing Subscriptions</h3><p>Let\u2019s subscribe for new films notifications. In GraphQL, the subscription looks like\u00a0this:</p><a href=\"https://medium.com/media/643a888a3e5a7722de148280e7ccbbfc/href\">https://medium.com/media/643a888a3e5a7722de148280e7ccbbfc/href</a><p>With this subscription, we will receive JSON messages that look like\u00a0this:</p><a href=\"https://medium.com/media/465ac18cd25d0725b61bb2084b65acb0/href\">https://medium.com/media/465ac18cd25d0725b61bb2084b65acb0/href</a><p>The semantics of the subscription operation in Kotlin is different from the semantics of the query and mutation operations. While the query and mutation just send a request and receive a response, the subscription creates a long-lived session to listen to incoming messages. So, we have to create an asynchronous listener to receive incoming messages:</p><a href=\"https://medium.com/media/f11f5f2c786219d8fa7af3905bfbe830/href\">https://medium.com/media/f11f5f2c786219d8fa7af3905bfbe830/href</a><p>Don\u2019t worry, we are not blocking the thread in an infinite loop, because the subscribe function and the receive function are <a href=\"https://kotlinlang.org/docs/coroutines-basics.html\">suspending functions</a>.</p><p>The lifetime of the subscription session is the same as the execution time of the subscribe function. When we enter the subscribe function, a session is created, and when we exit it, the session is destroyed.</p><p>The receive function returns an instance of the Subscription entity interface for each incoming\u00a0message.</p><h3>What have I not covered in this\u00a0article?</h3><ul><li>I haven\u2019t covered <a href=\"https://github.com/ermadmi78/kobby/wiki/Gradle-GraphQL-Scalar-Mapping\">how to map scalars</a> defined in a schema to Kotlin datatypes.</li><li>I haven\u2019t talked about how the plugin works with <a href=\"https://github.com/ermadmi78/kobby/wiki/Support-for-GraphQL-Abstract-Data-Types\">abstract data\u00a0types</a>.</li><li>I haven\u2019t covered <a href=\"https://github.com/ermadmi78/kobby/wiki/Client-DSL-Customization\">how to customize the generated DSL</a> using GraphQL directives.</li><li>I haven\u2019t talked about how the plugin <a href=\"https://github.com/ermadmi78/kobby/wiki/GraphQL-Java-Kickstart-support\">supports server-side development</a>.</li></ul><p>And most importantly, I didn\u2019t talk about how to use <a href=\"https://kotlinlang.org/docs/extensions.html\">Kotlin extension functions</a> to turn the generated DSL into a rich domain model on steroids. Perhaps I will cover this in future articles.</p><figure><a href=\"https://kotlin-academy.us17.list-manage.com/subscribe?u=5d3a48e1893758cb5be5c2919&amp;id=d2ba84960a\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/700/1*vjGp5fHBUq3Gzf8MiBUoiQ.png\" /></a></figure><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=707fd0c55284\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284\">How to generate Kotlin DSL Client by GraphQL schema</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+        },
+        {
+            "title": "Say Hello  to Jetpack Compose and Compare with XML",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.kotlin-academy.com/feed",
+                "value": "Say Hello  to Jetpack Compose and Compare with XML"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.kotlin-academy.com/say-hello-to-jetpack-compose-and-compare-with-xml-6bc6053aec13?source=rss----e57b304801ef---4"
+                }
+            ],
+            "link": "https://blog.kotlin-academy.com/say-hello-to-jetpack-compose-and-compare-with-xml-6bc6053aec13?source=rss----e57b304801ef---4",
+            "id": "https://medium.com/p/6bc6053aec13",
+            "guidislink": false,
+            "tags": [
+                {
+                    "term": "android-jetpack-compose",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "android",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "jetpack-compose",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "android-app-development",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "modifier",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Mustafa Yi\u011fit"
+                }
+            ],
+            "author": "Mustafa Yi\u011fit",
+            "author_detail": {
+                "name": "Mustafa Yi\u011fit"
+            },
+            "published": "Mon, 24 Jan 2022 08:31:39 GMT",
+            "published_parsed": [
+                2022,
+                1,
+                24,
+                8,
+                31,
+                39,
+                0,
+                24,
+                0
+            ],
+            "updated": "2022-01-24T08:31:38.925Z",
+            "updated_parsed": [
+                2022,
+                1,
+                24,
+                8,
+                31,
+                38,
+                0,
+                24,
+                0
+            ],
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://blog.kotlin-academy.com/feed",
+                    "value": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*e9mVOG4_saWP2AJG\" /></figure><h3>Introduction</h3><p>Hi everyone \ud83d\udc4b I will try to explain <strong><em>Jetpack Compose Fundamentals </em></strong>and <strong><em>Why should I use Jetpack Compose.</em></strong> Jetpack Compose is important because it is <em>a new way of building modern UI in Android. </em>Let\u2019s dive into the UI development in Android without\u00a0XML.</p><blockquote>In my opinion, Jetpack Compose is the future of Android UI development and we must adopt\u00a0fastly.</blockquote><h3>What is Jetpack\u00a0Compose?</h3><blockquote>Jetpack Compose is Android\u2019s modern toolkit for building native UI. It simplifies and accelerates UI development on Android -\u00a0Google</blockquote><p>Jetpack Compose is a modern toolkit that allows us to build our screens in a declarative approach writing less code. Android UI Development is now more powerful and more decoupled.</p><p>Before Jetpack Compose, we were using XML layouts to build the native UI. We had a very dependent structure when we build the screens with XML. Also, fragments are very heavy components for the UI. Jetpack Compose allows us to build the same UI with a declarative UI approach and with less\u00a0code.</p><h3>Why should I use Jetpack\u00a0Compose?</h3><p>In my opinion, it\u2019s more than easy from XML and Kotlin\u00a0\u2764\ufe0f</p><p>If we look technically:</p><ul><li>Declarative UI is cleaner, readable, and performant than Imperative UI.</li><li>Compose allows you to do more with less code compared to\u00a0XML.</li><li>Compose is Intuitive. This means that you just need to tell Compose what you want to show the\u00a0user.</li><li>Compose is compatible with all your existing code: you can call Compose code from Views and Views from Compose. Also integrated with many Jetpack Libraries.</li><li>Compose improves your build time and APK\u00a0size.</li></ul><h3>XML Design vs Jetpack\u00a0Compose</h3><h4>Composition\u200a\u2014\u200aRecomposition\u200a\u2014\u200aState Management</h4><p>Each composables has a <strong>initial compositon</strong>. Initial composition runs only when we see a view at first time in\u00a0screen.</p><p>Composables can hold a <strong>state </strong>and re-run on state changes. This is called <strong>Recomposition</strong>.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*NaAY2t4rQJBT5TCi.png\" /></figure><h4>Atomic Design</h4><p>In Compose, component inheritance is implemented with functions, because composables are functions. A composable function can only be called with in another composable. As we write smaller composables, we get a more flexible component structure.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*745f11SgIyNiC8AX.png\" /></figure><h3>XML vs Jetpack Compose with Code\u00a0Samples</h3><h4>1. Basic UI Components</h4><p>Now let\u2019s build the same view using Xml and Jetpack Compose and look at the differences on the code side.<br />Here is the target view structure:</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/377/1*790lNRXn5cGtHVjgHLI5Ew.png\" /><figcaption>example-view-structure</figcaption></figure><p><strong>Build with\u00a0Xml</strong></p><a href=\"https://medium.com/media/6d80eef191694147abeb5c9dafd9de48/href\">https://medium.com/media/6d80eef191694147abeb5c9dafd9de48/href</a><p><strong>Build with Jetpack\u00a0Compose</strong></p><a href=\"https://medium.com/media/ea8c90e50b9246930ff2cdb80979d048/href\">https://medium.com/media/ea8c90e50b9246930ff2cdb80979d048/href</a><h4>2. List\u00a0Items</h4><p><strong>Build with\u00a0Xml</strong></p><p>We need a few file/class for showing a list in screen with\u00a0Xml:</p><ol><li>adapter_item_list.xml</li><li>ListItemAdapter.kt</li><li>ListItemViewHolder (inner\u00a0class)</li><li>Populate activity/fragment</li></ol><p><strong>Build with Jetpack\u00a0Compose</strong></p><p>We need only <strong><em>LazyColumn</em></strong><em> </em>for showing list items in screen. No needed adapter class or item design xml file. We can describe item design in <strong>item/items</strong> <strong>scope.</strong></p><a href=\"https://medium.com/media/485323a678a8ef94168f1af7ebabfa29/href\">https://medium.com/media/485323a678a8ef94168f1af7ebabfa29/href</a><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*_P5TdqI4HKWgklHU4bc_xg.png\" /></figure><h3>State Management</h3><blockquote>\u201cState in an app is any value that can change over time.\u201d-\u00a0Google</blockquote><p>Compose is declarative so the only way to update it is by calling with different arguments.</p><blockquote><strong><em>Initial Composition: </em></strong><em>creation of a Composition by running composables the first\u00a0time.</em></blockquote><blockquote><strong><em>Recomposition:</em></strong><em> Re-running composables to update the Composition when data (state)\u00a0changes.</em></blockquote><p>Store a data with <strong>remember:</strong></p><pre>val data by remember { mutableStateOf(INITIAL_VALUE) } </pre><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*LMJ9_IxCXcf-bK9uJGGAQA.gif\" /></figure><p>If you want to keep data when configuration changes, you shold store data with <strong>rememberSaveable:</strong></p><pre>var tite by rememberSaveable { mutableStateOf(&quot;&quot;) }<br />Text(<br />    text = title,<br />    modifier = Modifier.padding(bottom = 10.dp),<br />    style = MaterialTheme.typography.h5<br />)</pre><h3>Navigation</h3><p>Everything is composable, even navigation. We need a NavHost and Screens. Every screen should have a\u00a0<strong>route</strong>.</p><blockquote><strong><em>Route: </em></strong><em>A string that defines the path your composable. Each destination should have a unique\u00a0route.</em></blockquote><blockquote><strong><em>NavGraphBuilder.composable: </em></strong><em>A function for bindind your composable using unique route with navigation graph.</em></blockquote><p>Here is a composable function for creating\u00a0NavHost:</p><ul><li><strong>MainActivity.kt:</strong></li></ul><pre>@Composable<br />fun AppNavigation() {<br />    val navController = rememberNavController()<br />    NavHost(<br />        navController = navController,<br />        startDestination = NavScreen.getStartDestination()<br />    ) {<br />        composable(NavScreen.Home.route) { HomeScreen(navController) }<br />        composable(NavScreen.Explore.route) { ExploreScreen(navController) }<br />    }</pre><pre>}</pre><pre>sealed class NavScreen(val route: String) {<br />    object Home : NavScreen(&quot;home&quot;)<br />    object Explore : NavScreen(&quot;explore&quot;)</pre><pre>    companion object {<br />        fun getStartDestination() = Home.route<br />    }<br />}</pre><ul><li><strong>HomeScreen.kt:</strong></li></ul><pre>@Composable<br />fun HomeScreen(<br />    navController: NavController = rememberNavController(),<br />    homeViewModel: HomeViewModel = viewModel()<br />) {<br />    Column(<br />        modifier = Modifier.fillMaxSize(),<br />        horizontalAlignment = Alignment.CenterHorizontally,<br />        verticalArrangement = Arrangement.Center<br />    ) {<br />        Text(text = homeViewModel.getTitle())</pre><pre>        Button(<br />            onClick = { navController.navigate(NavScreen.Explore.route) },<br />        ) {<br />            Text(text = &quot;Go to Explore screen&quot;)<br />        }<br />    }<br />}</pre><ul><li><strong>ExploreScreen.kt</strong></li></ul><pre>@Composable<br />fun ExploreScreen(<br />    navController: NavController = rememberNavController(),<br />    exploreViewModel: ExploreViewModel = viewModel()<br />) {<br />    Column(<br />        modifier = Modifier.fillMaxSize(),<br />        horizontalAlignment = Alignment.CenterHorizontally,<br />        verticalArrangement = Arrangement.Center<br />    ) {<br />        Text(text = exploreViewModel.getTitle())</pre><pre>        Button(<br />            onClick = { navController.navigateUp() },<br />        ) {<br />            Text(text = &quot;back to previous screen&quot;)<br />        }<br />    }<br />}</pre><h3>Conclusion</h3><a href=\"https://medium.com/media/cdc780cb2eaa529a2ae0ae9b81575ef2/href\">https://medium.com/media/cdc780cb2eaa529a2ae0ae9b81575ef2/href</a><p>And we\u2019re done. In this article, I wanted to explain what\u2019s in the box for Jetpack Compose and what is the difference between compose and XML based\u00a0design.</p><p>To me, Jetpack Compose is a revolution of Android UI development. Less code and more understandable code, declarative UI approach, managing state, and more. In addition, it can work directly with the jetpack libraries.</p><p>I hope this article was helpful. if so you can leave claps \ud83d\udc4f \ud83d\udc4f If you catch a wrong, please leave me a\u00a0message.</p><p><a href=\"https://twitter.com/mustafayigitt_\"><strong>Twitter</strong></a><strong> &amp; </strong><a href=\"https://www.linkedin.com/in/mustafayigitt/\"><strong>Linkedin</strong></a><strong> &amp;\u00a0</strong><a href=\"https://github.com/mustafayigitt\"><strong>Github</strong></a></p><h3>Resources</h3><ul><li><a href=\"https://github.com/mustafayigitt/JetpackComposeComponents\"><strong>Github</strong></a></li><li><strong>Other Sources</strong></li></ul><p><a href=\"https://developer.android.com/jetpack/compose/why-adopt\">https://developer.android.com/jetpack/compose/why-adopt</a></p><p><a href=\"https://developer.android.com/jetpack/compose/ergonomics\">https://developer.android.com/jetpack/compose/ergonomics</a></p><p><a href=\"https://medium.com/androiddevelopers/jetpack-compose-before-and-after-8b43ba0b7d4f\">Jetpack Compose\u200a\u2014\u200aBefore and\u00a0after</a></p><p><a href=\"https://medium.com/androiddevelopers/jetpack-compose-before-and-after-8b43ba0b7d4f\">https://medium.com/androiddevelopers/jetpack-compose-before-and-after-8b43ba0b7d4f</a></p><p><a href=\"https://developer.android.com/jetpack/compose/mental-model\">https://developer.android.com/jetpack/compose/mental-model</a></p><p><strong>Subthreads</strong></p><ul><li><a href=\"https://developer.android.com/jetpack/compose/state#state-and-composition\">Composition / Recomposition</a></li><li><a href=\"https://developer.android.com/jetpack/compose/state\">State Management</a></li><li><a href=\"https://developer.android.com/jetpack/compose/state#state-in-composables\">Remember / Remember Saveable / Immutable</a></li><li><a href=\"https://developer.android.com/jetpack/compose/animation\">Animations</a></li><li><a href=\"https://developer.android.com/jetpack/compose/side-effects\">Side Effects</a></li><li><a href=\"https://developer.android.com/jetpack/compose/mental-model#paradigm\">Declarative UI</a></li></ul><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=6bc6053aec13\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/say-hello-to-jetpack-compose-and-compare-with-xml-6bc6053aec13\">Say Hello \ud83d\udc4b to Jetpack Compose and Compare with XML</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+                }
+            ],
+            "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*e9mVOG4_saWP2AJG\" /></figure><h3>Introduction</h3><p>Hi everyone \ud83d\udc4b I will try to explain <strong><em>Jetpack Compose Fundamentals </em></strong>and <strong><em>Why should I use Jetpack Compose.</em></strong> Jetpack Compose is important because it is <em>a new way of building modern UI in Android. </em>Let\u2019s dive into the UI development in Android without\u00a0XML.</p><blockquote>In my opinion, Jetpack Compose is the future of Android UI development and we must adopt\u00a0fastly.</blockquote><h3>What is Jetpack\u00a0Compose?</h3><blockquote>Jetpack Compose is Android\u2019s modern toolkit for building native UI. It simplifies and accelerates UI development on Android -\u00a0Google</blockquote><p>Jetpack Compose is a modern toolkit that allows us to build our screens in a declarative approach writing less code. Android UI Development is now more powerful and more decoupled.</p><p>Before Jetpack Compose, we were using XML layouts to build the native UI. We had a very dependent structure when we build the screens with XML. Also, fragments are very heavy components for the UI. Jetpack Compose allows us to build the same UI with a declarative UI approach and with less\u00a0code.</p><h3>Why should I use Jetpack\u00a0Compose?</h3><p>In my opinion, it\u2019s more than easy from XML and Kotlin\u00a0\u2764\ufe0f</p><p>If we look technically:</p><ul><li>Declarative UI is cleaner, readable, and performant than Imperative UI.</li><li>Compose allows you to do more with less code compared to\u00a0XML.</li><li>Compose is Intuitive. This means that you just need to tell Compose what you want to show the\u00a0user.</li><li>Compose is compatible with all your existing code: you can call Compose code from Views and Views from Compose. Also integrated with many Jetpack Libraries.</li><li>Compose improves your build time and APK\u00a0size.</li></ul><h3>XML Design vs Jetpack\u00a0Compose</h3><h4>Composition\u200a\u2014\u200aRecomposition\u200a\u2014\u200aState Management</h4><p>Each composables has a <strong>initial compositon</strong>. Initial composition runs only when we see a view at first time in\u00a0screen.</p><p>Composables can hold a <strong>state </strong>and re-run on state changes. This is called <strong>Recomposition</strong>.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*NaAY2t4rQJBT5TCi.png\" /></figure><h4>Atomic Design</h4><p>In Compose, component inheritance is implemented with functions, because composables are functions. A composable function can only be called with in another composable. As we write smaller composables, we get a more flexible component structure.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/0*745f11SgIyNiC8AX.png\" /></figure><h3>XML vs Jetpack Compose with Code\u00a0Samples</h3><h4>1. Basic UI Components</h4><p>Now let\u2019s build the same view using Xml and Jetpack Compose and look at the differences on the code side.<br />Here is the target view structure:</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/377/1*790lNRXn5cGtHVjgHLI5Ew.png\" /><figcaption>example-view-structure</figcaption></figure><p><strong>Build with\u00a0Xml</strong></p><a href=\"https://medium.com/media/6d80eef191694147abeb5c9dafd9de48/href\">https://medium.com/media/6d80eef191694147abeb5c9dafd9de48/href</a><p><strong>Build with Jetpack\u00a0Compose</strong></p><a href=\"https://medium.com/media/ea8c90e50b9246930ff2cdb80979d048/href\">https://medium.com/media/ea8c90e50b9246930ff2cdb80979d048/href</a><h4>2. List\u00a0Items</h4><p><strong>Build with\u00a0Xml</strong></p><p>We need a few file/class for showing a list in screen with\u00a0Xml:</p><ol><li>adapter_item_list.xml</li><li>ListItemAdapter.kt</li><li>ListItemViewHolder (inner\u00a0class)</li><li>Populate activity/fragment</li></ol><p><strong>Build with Jetpack\u00a0Compose</strong></p><p>We need only <strong><em>LazyColumn</em></strong><em> </em>for showing list items in screen. No needed adapter class or item design xml file. We can describe item design in <strong>item/items</strong> <strong>scope.</strong></p><a href=\"https://medium.com/media/485323a678a8ef94168f1af7ebabfa29/href\">https://medium.com/media/485323a678a8ef94168f1af7ebabfa29/href</a><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*_P5TdqI4HKWgklHU4bc_xg.png\" /></figure><h3>State Management</h3><blockquote>\u201cState in an app is any value that can change over time.\u201d-\u00a0Google</blockquote><p>Compose is declarative so the only way to update it is by calling with different arguments.</p><blockquote><strong><em>Initial Composition: </em></strong><em>creation of a Composition by running composables the first\u00a0time.</em></blockquote><blockquote><strong><em>Recomposition:</em></strong><em> Re-running composables to update the Composition when data (state)\u00a0changes.</em></blockquote><p>Store a data with <strong>remember:</strong></p><pre>val data by remember { mutableStateOf(INITIAL_VALUE) } </pre><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*LMJ9_IxCXcf-bK9uJGGAQA.gif\" /></figure><p>If you want to keep data when configuration changes, you shold store data with <strong>rememberSaveable:</strong></p><pre>var tite by rememberSaveable { mutableStateOf(&quot;&quot;) }<br />Text(<br />    text = title,<br />    modifier = Modifier.padding(bottom = 10.dp),<br />    style = MaterialTheme.typography.h5<br />)</pre><h3>Navigation</h3><p>Everything is composable, even navigation. We need a NavHost and Screens. Every screen should have a\u00a0<strong>route</strong>.</p><blockquote><strong><em>Route: </em></strong><em>A string that defines the path your composable. Each destination should have a unique\u00a0route.</em></blockquote><blockquote><strong><em>NavGraphBuilder.composable: </em></strong><em>A function for bindind your composable using unique route with navigation graph.</em></blockquote><p>Here is a composable function for creating\u00a0NavHost:</p><ul><li><strong>MainActivity.kt:</strong></li></ul><pre>@Composable<br />fun AppNavigation() {<br />    val navController = rememberNavController()<br />    NavHost(<br />        navController = navController,<br />        startDestination = NavScreen.getStartDestination()<br />    ) {<br />        composable(NavScreen.Home.route) { HomeScreen(navController) }<br />        composable(NavScreen.Explore.route) { ExploreScreen(navController) }<br />    }</pre><pre>}</pre><pre>sealed class NavScreen(val route: String) {<br />    object Home : NavScreen(&quot;home&quot;)<br />    object Explore : NavScreen(&quot;explore&quot;)</pre><pre>    companion object {<br />        fun getStartDestination() = Home.route<br />    }<br />}</pre><ul><li><strong>HomeScreen.kt:</strong></li></ul><pre>@Composable<br />fun HomeScreen(<br />    navController: NavController = rememberNavController(),<br />    homeViewModel: HomeViewModel = viewModel()<br />) {<br />    Column(<br />        modifier = Modifier.fillMaxSize(),<br />        horizontalAlignment = Alignment.CenterHorizontally,<br />        verticalArrangement = Arrangement.Center<br />    ) {<br />        Text(text = homeViewModel.getTitle())</pre><pre>        Button(<br />            onClick = { navController.navigate(NavScreen.Explore.route) },<br />        ) {<br />            Text(text = &quot;Go to Explore screen&quot;)<br />        }<br />    }<br />}</pre><ul><li><strong>ExploreScreen.kt</strong></li></ul><pre>@Composable<br />fun ExploreScreen(<br />    navController: NavController = rememberNavController(),<br />    exploreViewModel: ExploreViewModel = viewModel()<br />) {<br />    Column(<br />        modifier = Modifier.fillMaxSize(),<br />        horizontalAlignment = Alignment.CenterHorizontally,<br />        verticalArrangement = Arrangement.Center<br />    ) {<br />        Text(text = exploreViewModel.getTitle())</pre><pre>        Button(<br />            onClick = { navController.navigateUp() },<br />        ) {<br />            Text(text = &quot;back to previous screen&quot;)<br />        }<br />    }<br />}</pre><h3>Conclusion</h3><a href=\"https://medium.com/media/cdc780cb2eaa529a2ae0ae9b81575ef2/href\">https://medium.com/media/cdc780cb2eaa529a2ae0ae9b81575ef2/href</a><p>And we\u2019re done. In this article, I wanted to explain what\u2019s in the box for Jetpack Compose and what is the difference between compose and XML based\u00a0design.</p><p>To me, Jetpack Compose is a revolution of Android UI development. Less code and more understandable code, declarative UI approach, managing state, and more. In addition, it can work directly with the jetpack libraries.</p><p>I hope this article was helpful. if so you can leave claps \ud83d\udc4f \ud83d\udc4f If you catch a wrong, please leave me a\u00a0message.</p><p><a href=\"https://twitter.com/mustafayigitt_\"><strong>Twitter</strong></a><strong> &amp; </strong><a href=\"https://www.linkedin.com/in/mustafayigitt/\"><strong>Linkedin</strong></a><strong> &amp;\u00a0</strong><a href=\"https://github.com/mustafayigitt\"><strong>Github</strong></a></p><h3>Resources</h3><ul><li><a href=\"https://github.com/mustafayigitt/JetpackComposeComponents\"><strong>Github</strong></a></li><li><strong>Other Sources</strong></li></ul><p><a href=\"https://developer.android.com/jetpack/compose/why-adopt\">https://developer.android.com/jetpack/compose/why-adopt</a></p><p><a href=\"https://developer.android.com/jetpack/compose/ergonomics\">https://developer.android.com/jetpack/compose/ergonomics</a></p><p><a href=\"https://medium.com/androiddevelopers/jetpack-compose-before-and-after-8b43ba0b7d4f\">Jetpack Compose\u200a\u2014\u200aBefore and\u00a0after</a></p><p><a href=\"https://medium.com/androiddevelopers/jetpack-compose-before-and-after-8b43ba0b7d4f\">https://medium.com/androiddevelopers/jetpack-compose-before-and-after-8b43ba0b7d4f</a></p><p><a href=\"https://developer.android.com/jetpack/compose/mental-model\">https://developer.android.com/jetpack/compose/mental-model</a></p><p><strong>Subthreads</strong></p><ul><li><a href=\"https://developer.android.com/jetpack/compose/state#state-and-composition\">Composition / Recomposition</a></li><li><a href=\"https://developer.android.com/jetpack/compose/state\">State Management</a></li><li><a href=\"https://developer.android.com/jetpack/compose/state#state-in-composables\">Remember / Remember Saveable / Immutable</a></li><li><a href=\"https://developer.android.com/jetpack/compose/animation\">Animations</a></li><li><a href=\"https://developer.android.com/jetpack/compose/side-effects\">Side Effects</a></li><li><a href=\"https://developer.android.com/jetpack/compose/mental-model#paradigm\">Declarative UI</a></li></ul><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=6bc6053aec13\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/say-hello-to-jetpack-compose-and-compare-with-xml-6bc6053aec13\">Say Hello \ud83d\udc4b to Jetpack Compose and Compare with XML</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+        },
+        {
+            "title": "Kt Academy 4th Bday & 2 Kotlin Coroutines Articles & Authors Wanted",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.kotlin-academy.com/feed",
+                "value": "Kt Academy 4th Bday & 2 Kotlin Coroutines Articles & Authors Wanted"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.kotlin-academy.com/kt-academy-4th-bday-2-kotlin-coroutines-articles-authors-wanted-f67ca5624fcc?source=rss----e57b304801ef---4"
+                }
+            ],
+            "link": "https://blog.kotlin-academy.com/kt-academy-4th-bday-2-kotlin-coroutines-articles-authors-wanted-f67ca5624fcc?source=rss----e57b304801ef---4",
+            "id": "https://medium.com/p/f67ca5624fcc",
+            "guidislink": false,
+            "tags": [
+                {
+                    "term": "kotlin-coroutines",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "newsletter",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "flow-builder",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "coroutine-testing",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "writing",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Kasia Kt. Academy"
+                }
+            ],
+            "author": "Kasia Kt. Academy",
+            "author_detail": {
+                "name": "Kasia Kt. Academy"
+            },
+            "published": "Tue, 18 Jan 2022 05:12:27 GMT",
+            "published_parsed": [
+                2022,
+                1,
+                18,
+                5,
+                12,
+                27,
+                1,
+                18,
+                0
+            ],
+            "updated": "2022-01-18T05:12:23.529Z",
+            "updated_parsed": [
+                2022,
+                1,
+                18,
+                5,
+                12,
+                23,
+                1,
+                18,
+                0
+            ],
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://blog.kotlin-academy.com/feed",
+                    "value": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*e1U7KOlGQuyVxlc0KPUfhw.jpeg\" /></figure><p>Hello, dear readers!\u00a0\ud83e\udd29</p><p>\ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70\u00a0\ud83c\udf70</p><p>We are celebrating our 4th Bday!\u00a0\ud83e\udd73</p><p>On this occasion, we have a <strong>special offer for our subscribers</strong>!<br /><strong>\u2b07 30% off</strong> the normal price for the upcoming workshop:</p><p>the open <strong>Kotlin Coroutines (EN)</strong> workshop conducted by <strong>Marcin Moskala</strong>!\u00a0\ud83e\udd29</p><p>\ud83d\udcc5 03\u201304.03.2022 \ud83d\udc47</p><p><a href=\"https://kt.academy/workshop/coroutines\">Kotlin Coroutines (kt.academy)</a></p><p>\u2702 Write\u2757<strong>Bday30</strong>\u2757in the \u201cadditional info\u201d\u00a0field.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/512/1*1C3vO645AQIPo4Qq4nYoEQ.png\" /></figure><p>\u2734 Offer valid until <strong>31.01.2022</strong>. Don\u2019t miss it!\u00a0\ud83c\udfc3\u200d\u2640\ufe0f</p><p>\ud83d\udcdd Today we are going on with <strong>Kotlin Coroutines articles </strong>written by<strong> Marcin Moska\u0142a.</strong><br />Here is a brief summary of them\u00a0\ud83d\udc47</p><p>\ud83d\udc49 <a href=\"https://kt.academy/article/cc-flow-building\">Flow building</a><br />\ud83d\udc49 <a href=\"https://kt.academy/article/cc-testing\">Testing Kotlin Coroutines</a></p><p>More articles you can find on our <a href=\"https://kt.academy/article\">website</a>. \ud83d\udcc3<br />Enjoy\u00a0\u23ec</p><p>Every flow needs to start somewhere.</p><p>So, let\u2019s explore all the different flow builders. \ud83d\udc47</p><p><strong>Flow building</strong></p><figure><a href=\"https://kt.academy/article/cc-flow-building\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*025IHL8eeZyKFFCe9aLhZg.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/cc-flow-building\">Flow building</a></figcaption></figure><p>\ud83d\udd3b This is a chapter from the <a href=\"https://kt.academy/book/coroutines\">Kotlin Coroutines</a> book. You can find Early Access on\u00a0<a href=\"https://leanpub.com/coroutines/\">LeanPub</a>.</p><p>Coroutines introduced a new testing API in version 1.6. For instance, now we use runTest instead of runBlockingTest. \ud83d\udcaa</p><p>With this change, we <strong>updated and completely reorganized the chapter of Kotlin Coroutines</strong> to better show common testing use-cases, and explain TestCoroutineScheduler, StandardTestDispatcher, and TestScope step by\u00a0step.</p><p>\ud83d\udc49 <strong>Testing Kotlin Coroutines</strong></p><figure><a href=\"https://kt.academy/article/cc-testing\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*68PxFbQLcGw8H-65ym2xlA.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/cc-testing\">Testing Kotlin Coroutines</a></figcaption></figure><p>\ud83d\udd3b This is a chapter from the <a href=\"https://kt.academy/book/coroutines\">Kotlin Coroutines</a> book. You can find Early Access on\u00a0<a href=\"https://leanpub.com/coroutines/\">LeanPub</a>.</p><p>\u2705 One more\u2026 <br />we know that you are fond of reading our articles, but\u2026 \ud83d\udcf0<br />maybe you would be interested in <strong>writing something for Kt. Academy</strong>? \u2712 Perhaps one day <strong>your article</strong> will be a part of our newsletter!<br />Isn\u2019t it exciting? \ud83e\udd29</p><figure><a href=\"https://blog.kotlin-academy.com/write-for-us-authors-wanted-f195a59770d2\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*sqLkGRM-bN6S47RqAqVrKA.jpeg\" /></a></figure><p>\ud83d\udcda It does not matter if you are using Kotlin, Python, JavaScript, React, or TypeScript. Maybe you are great at Testing, Machine Learning, Android features, or other\u00a0topics.</p><p>Let us\u00a0know!</p><p>\ud83d\udce7 If you have some idea for an article you want to write, just send an email to <strong>contact@kt.academy</strong>.</p><p>More details here<br />\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/write-for-us-authors-wanted-f195a59770d2\">Authors\u00a0wanted</a></p><p>\ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70\u00a0\ud83c\udf70</p><p>We can\u2019t wait to read and publish your articles! \ud83d\udc4f <br />Hope to see you on our workshops! \ud83d\udc40</p><p>If there is anything you want to inform us about, let us know by replying to this email!\u00a0\ud83d\udc8c</p><p>Stay tuned! \ud83d\udc4c<br />Kt. Academy\u00a0Team</p><p>www: <a href=\"https://kt.academy/\">kt.academy</a><br />Blog: <a href=\"http://blog.kotlin-academy.com/\">blog.kotlin-academy.com</a><br />Twitter EN: <a href=\"https://twitter.com/ktdotacademy\">@KtDotAcademy</a><br />Twitter PL: <a href=\"https://twitter.com/ktdotacademyPL\">@ktdotacademyPL</a><br />FB: <a href=\"https://www.facebook.com/KtDotAcademy\">@KtDotAcademy</a><br />LinkedIn: <a href=\"https://www.linkedin.com/company/kt-academy/\">@Kt.\u00a0Academy</a></p><figure><a href=\"http://kt.academy\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PiAmEmweYoNmQogv3qsuIQ.png\" /></a></figure><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=f67ca5624fcc\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/kt-academy-4th-bday-2-kotlin-coroutines-articles-authors-wanted-f67ca5624fcc\">Kt Academy 4th Bday &amp; 2 Kotlin Coroutines Articles &amp; Authors Wanted \ud83d\udd25</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+                }
+            ],
+            "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*e1U7KOlGQuyVxlc0KPUfhw.jpeg\" /></figure><p>Hello, dear readers!\u00a0\ud83e\udd29</p><p>\ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70\u00a0\ud83c\udf70</p><p>We are celebrating our 4th Bday!\u00a0\ud83e\udd73</p><p>On this occasion, we have a <strong>special offer for our subscribers</strong>!<br /><strong>\u2b07 30% off</strong> the normal price for the upcoming workshop:</p><p>the open <strong>Kotlin Coroutines (EN)</strong> workshop conducted by <strong>Marcin Moskala</strong>!\u00a0\ud83e\udd29</p><p>\ud83d\udcc5 03\u201304.03.2022 \ud83d\udc47</p><p><a href=\"https://kt.academy/workshop/coroutines\">Kotlin Coroutines (kt.academy)</a></p><p>\u2702 Write\u2757<strong>Bday30</strong>\u2757in the \u201cadditional info\u201d\u00a0field.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/512/1*1C3vO645AQIPo4Qq4nYoEQ.png\" /></figure><p>\u2734 Offer valid until <strong>31.01.2022</strong>. Don\u2019t miss it!\u00a0\ud83c\udfc3\u200d\u2640\ufe0f</p><p>\ud83d\udcdd Today we are going on with <strong>Kotlin Coroutines articles </strong>written by<strong> Marcin Moska\u0142a.</strong><br />Here is a brief summary of them\u00a0\ud83d\udc47</p><p>\ud83d\udc49 <a href=\"https://kt.academy/article/cc-flow-building\">Flow building</a><br />\ud83d\udc49 <a href=\"https://kt.academy/article/cc-testing\">Testing Kotlin Coroutines</a></p><p>More articles you can find on our <a href=\"https://kt.academy/article\">website</a>. \ud83d\udcc3<br />Enjoy\u00a0\u23ec</p><p>Every flow needs to start somewhere.</p><p>So, let\u2019s explore all the different flow builders. \ud83d\udc47</p><p><strong>Flow building</strong></p><figure><a href=\"https://kt.academy/article/cc-flow-building\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*025IHL8eeZyKFFCe9aLhZg.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/cc-flow-building\">Flow building</a></figcaption></figure><p>\ud83d\udd3b This is a chapter from the <a href=\"https://kt.academy/book/coroutines\">Kotlin Coroutines</a> book. You can find Early Access on\u00a0<a href=\"https://leanpub.com/coroutines/\">LeanPub</a>.</p><p>Coroutines introduced a new testing API in version 1.6. For instance, now we use runTest instead of runBlockingTest. \ud83d\udcaa</p><p>With this change, we <strong>updated and completely reorganized the chapter of Kotlin Coroutines</strong> to better show common testing use-cases, and explain TestCoroutineScheduler, StandardTestDispatcher, and TestScope step by\u00a0step.</p><p>\ud83d\udc49 <strong>Testing Kotlin Coroutines</strong></p><figure><a href=\"https://kt.academy/article/cc-testing\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*68PxFbQLcGw8H-65ym2xlA.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/cc-testing\">Testing Kotlin Coroutines</a></figcaption></figure><p>\ud83d\udd3b This is a chapter from the <a href=\"https://kt.academy/book/coroutines\">Kotlin Coroutines</a> book. You can find Early Access on\u00a0<a href=\"https://leanpub.com/coroutines/\">LeanPub</a>.</p><p>\u2705 One more\u2026 <br />we know that you are fond of reading our articles, but\u2026 \ud83d\udcf0<br />maybe you would be interested in <strong>writing something for Kt. Academy</strong>? \u2712 Perhaps one day <strong>your article</strong> will be a part of our newsletter!<br />Isn\u2019t it exciting? \ud83e\udd29</p><figure><a href=\"https://blog.kotlin-academy.com/write-for-us-authors-wanted-f195a59770d2\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*sqLkGRM-bN6S47RqAqVrKA.jpeg\" /></a></figure><p>\ud83d\udcda It does not matter if you are using Kotlin, Python, JavaScript, React, or TypeScript. Maybe you are great at Testing, Machine Learning, Android features, or other\u00a0topics.</p><p>Let us\u00a0know!</p><p>\ud83d\udce7 If you have some idea for an article you want to write, just send an email to <strong>contact@kt.academy</strong>.</p><p>More details here<br />\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/write-for-us-authors-wanted-f195a59770d2\">Authors\u00a0wanted</a></p><p>\ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70 \ud83c\udf70\u00a0\ud83c\udf70</p><p>We can\u2019t wait to read and publish your articles! \ud83d\udc4f <br />Hope to see you on our workshops! \ud83d\udc40</p><p>If there is anything you want to inform us about, let us know by replying to this email!\u00a0\ud83d\udc8c</p><p>Stay tuned! \ud83d\udc4c<br />Kt. Academy\u00a0Team</p><p>www: <a href=\"https://kt.academy/\">kt.academy</a><br />Blog: <a href=\"http://blog.kotlin-academy.com/\">blog.kotlin-academy.com</a><br />Twitter EN: <a href=\"https://twitter.com/ktdotacademy\">@KtDotAcademy</a><br />Twitter PL: <a href=\"https://twitter.com/ktdotacademyPL\">@ktdotacademyPL</a><br />FB: <a href=\"https://www.facebook.com/KtDotAcademy\">@KtDotAcademy</a><br />LinkedIn: <a href=\"https://www.linkedin.com/company/kt-academy/\">@Kt.\u00a0Academy</a></p><figure><a href=\"http://kt.academy\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PiAmEmweYoNmQogv3qsuIQ.png\" /></a></figure><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=f67ca5624fcc\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/kt-academy-4th-bday-2-kotlin-coroutines-articles-authors-wanted-f67ca5624fcc\">Kt Academy 4th Bday &amp; 2 Kotlin Coroutines Articles &amp; Authors Wanted \ud83d\udd25</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+        },
+        {
+            "title": "Write for us! Authors wanted!",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.kotlin-academy.com/feed",
+                "value": "Write for us! Authors wanted!"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.kotlin-academy.com/write-for-us-authors-wanted-f195a59770d2?source=rss----e57b304801ef---4"
+                }
+            ],
+            "link": "https://blog.kotlin-academy.com/write-for-us-authors-wanted-f195a59770d2?source=rss----e57b304801ef---4",
+            "id": "https://medium.com/p/f195a59770d2",
+            "guidislink": false,
+            "tags": [
+                {
+                    "term": "knowledge",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "wanted",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "authors",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "article-writing",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "programming",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Halina Kt Academy"
+                }
+            ],
+            "author": "Halina Kt Academy",
+            "author_detail": {
+                "name": "Halina Kt Academy"
+            },
+            "published": "Fri, 14 Jan 2022 05:22:57 GMT",
+            "published_parsed": [
+                2022,
+                1,
+                14,
+                5,
+                22,
+                57,
+                4,
+                14,
+                0
+            ],
+            "updated": "2022-01-14T05:22:54.244Z",
+            "updated_parsed": [
+                2022,
+                1,
+                14,
+                5,
+                22,
+                54,
+                4,
+                14,
+                0
+            ],
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://blog.kotlin-academy.com/feed",
+                    "value": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*gb8BathXEzVdyFdpC9K7Eg.jpeg\" /></figure><p>Kt. Academy is widely recognized as a publication about programming.</p><p>Currently, it\u00a0has:</p><ul><li>over 10290 subscribers on\u00a0Medium,</li><li>over 4870 emails on our newsletter;</li><li>around 3500 followers on Twitter (+ promotion from <a href=\"https://twitter.com/marcinmoskala\">@MarcinMoskala\u200a</a>\u2014\u200aover 4860 users are following him).</li></ul><p>You might know us from articles about Kotlin and Android, but we publish different topics as well. Our mission is to promote programming in general and simplify its learning. To serve this mission even better, we invite you to write articles with\u00a0us.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*kmtuqDV1Y4UjxAsJDBdt6w.jpeg\" /></figure><h3>Why?</h3><p>Cooperation with us will help you to grow as a writer. You will get from\u00a0us:</p><ul><li>promotion on our publication and all our\u00a0mediums,</li><li>feedback about the\u00a0article,</li><li>technical proofing for the article\u00a0content.</li></ul><p>Good content will help you get more popular and reliable as an expert. With good promotion and our support, your voice will be heard. You will be able to speak in an important cause or to promote important ideas you believe\u00a0in.</p><h3>What?</h3><p>It does not matter if you are using Kotlin, Python, JavaScript, React, or TypeScript. Maybe you are great at Testing, Machine Learning, Android features, or other topics. Let us\u00a0know!</p><p>If you have some idea for an article you want to write, you can first ask us if we are interested. Just send an email to <a href=\"http://contact@kt.academy\">contact@kt.academy</a>.</p><h3>How?</h3><p>You need a Medium account to write for KA. Then create a \u201cNew story\u201d and start writing. Here is a small to-do list before the article can be considered as finished:</p><ul><li>The article should have an image. Set it as a featured image by clicking it and pressing Shift+F. It should be either a photo taken by you or one of the free images. Alternatively, you can add a description with the link to the website where you found\u00a0it.</li><li>Re-check and re-think your title. It is very important to make it interesting.</li><li>Check the grammar of the article using <a href=\"https://app.grammarly.com/\">Grammarly</a> (copy-paste the content\u00a0there).</li><li>Check your article using <a href=\"http://www.hemingwayapp.com/\">Hemingway editor</a>.</li></ul><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/595/1*CRn9L4GCEi7UfAJihdzFfw.png\" /></figure><p>When it is all done, then click the \u201cShare\u201d button at the top of the screen and copy the\u00a0link.</p><p>Send this link to <a href=\"http://contact@kt.academy\">contact@kt.academy</a> with information that you want to publish your article on Kt. Academy. We will review it and answer\u00a0you.</p><p>We wish you good writing\u00a0:)</p><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=f195a59770d2\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/write-for-us-authors-wanted-f195a59770d2\">Write for us! Authors wanted!</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+                }
+            ],
+            "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*gb8BathXEzVdyFdpC9K7Eg.jpeg\" /></figure><p>Kt. Academy is widely recognized as a publication about programming.</p><p>Currently, it\u00a0has:</p><ul><li>over 10290 subscribers on\u00a0Medium,</li><li>over 4870 emails on our newsletter;</li><li>around 3500 followers on Twitter (+ promotion from <a href=\"https://twitter.com/marcinmoskala\">@MarcinMoskala\u200a</a>\u2014\u200aover 4860 users are following him).</li></ul><p>You might know us from articles about Kotlin and Android, but we publish different topics as well. Our mission is to promote programming in general and simplify its learning. To serve this mission even better, we invite you to write articles with\u00a0us.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*kmtuqDV1Y4UjxAsJDBdt6w.jpeg\" /></figure><h3>Why?</h3><p>Cooperation with us will help you to grow as a writer. You will get from\u00a0us:</p><ul><li>promotion on our publication and all our\u00a0mediums,</li><li>feedback about the\u00a0article,</li><li>technical proofing for the article\u00a0content.</li></ul><p>Good content will help you get more popular and reliable as an expert. With good promotion and our support, your voice will be heard. You will be able to speak in an important cause or to promote important ideas you believe\u00a0in.</p><h3>What?</h3><p>It does not matter if you are using Kotlin, Python, JavaScript, React, or TypeScript. Maybe you are great at Testing, Machine Learning, Android features, or other topics. Let us\u00a0know!</p><p>If you have some idea for an article you want to write, you can first ask us if we are interested. Just send an email to <a href=\"http://contact@kt.academy\">contact@kt.academy</a>.</p><h3>How?</h3><p>You need a Medium account to write for KA. Then create a \u201cNew story\u201d and start writing. Here is a small to-do list before the article can be considered as finished:</p><ul><li>The article should have an image. Set it as a featured image by clicking it and pressing Shift+F. It should be either a photo taken by you or one of the free images. Alternatively, you can add a description with the link to the website where you found\u00a0it.</li><li>Re-check and re-think your title. It is very important to make it interesting.</li><li>Check the grammar of the article using <a href=\"https://app.grammarly.com/\">Grammarly</a> (copy-paste the content\u00a0there).</li><li>Check your article using <a href=\"http://www.hemingwayapp.com/\">Hemingway editor</a>.</li></ul><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/595/1*CRn9L4GCEi7UfAJihdzFfw.png\" /></figure><p>When it is all done, then click the \u201cShare\u201d button at the top of the screen and copy the\u00a0link.</p><p>Send this link to <a href=\"http://contact@kt.academy\">contact@kt.academy</a> with information that you want to publish your article on Kt. Academy. We will review it and answer\u00a0you.</p><p>We wish you good writing\u00a0:)</p><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=f195a59770d2\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/write-for-us-authors-wanted-f195a59770d2\">Write for us! Authors wanted!</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+        },
+        {
+            "title": "Summary of the Advent of Kotlin",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.kotlin-academy.com/feed",
+                "value": "Summary of the Advent of Kotlin"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.kotlin-academy.com/summary-of-the-advent-of-kotlin-d10b3ee01699?source=rss----e57b304801ef---4"
+                }
+            ],
+            "link": "https://blog.kotlin-academy.com/summary-of-the-advent-of-kotlin-d10b3ee01699?source=rss----e57b304801ef---4",
+            "id": "https://medium.com/p/d10b3ee01699",
+            "guidislink": false,
+            "tags": [
+                {
+                    "term": "json",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "kotlin",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "algorithms",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "challenge",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "k-means-clustering",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Kasia Kt. Academy"
+                }
+            ],
+            "author": "Kasia Kt. Academy",
+            "author_detail": {
+                "name": "Kasia Kt. Academy"
+            },
+            "published": "Thu, 06 Jan 2022 05:13:13 GMT",
+            "published_parsed": [
+                2022,
+                1,
+                6,
+                5,
+                13,
+                13,
+                3,
+                6,
+                0
+            ],
+            "updated": "2022-01-06T05:13:11.977Z",
+            "updated_parsed": [
+                2022,
+                1,
+                6,
+                5,
+                13,
+                11,
+                3,
+                6,
+                0
+            ],
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://blog.kotlin-academy.com/feed",
+                    "value": "<h3>Hello Kotliners!</h3><p>\u2139\ufe0f This is a special, 4-weeks edition of our newsletter. It will contain only one, special topic\u200a\u2014\u200aAdvent of\u00a0Kotlin.</p><p><strong>Welcome to the summary of the Advent of Kotlin!</strong>\u00a0\ud83c\udf84</p><p>New Year has just started. We hope you liked our top seven picks of articles from 2021. Time to sum up the latest special event from the previous year\u2019s #AdventOfKotlin challenge!</p><p>Thank you for your time and for solving our challenges \ud83d\udc4f</p><p>Did you enjoy the tasks?\u00a0\ud83d\ude0d</p><p>Let us know, whether they were too hard and demanding or</p><p>\u2026 way too easy \ud83d\ude05 by replying to this email!\u00a0\ud83d\udc8c</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*U2VAmj3N-oM57drD81GSTQ.jpeg\" /></figure><p>We would like to remind you of all <strong>four tasks</strong> and give you<strong> the promised solutions</strong>. \ud83e\udd47</p><p>\ud83d\udc49 <a href=\"https://kt.academy/article/advent-2021-week1\">Advent of Kotlin: Week 1: JSON stringify and possible value parentheses</a><br />\ud83d\udc49 <a href=\"https://kt.academy/article/advent-2021-week2\">Advent of Kotlin: Week 2: Tree algorithms</a><br />\ud83d\udc49 <a href=\"https://kt.academy/article/advent-2021-week3\">Advent of Kotlin: Week 3: k-means clustering</a><br />\ud83d\udc49 <a href=\"https://kt.academy/article/advent-2021-week4\">Advent of Kotlin: Week 4: JSON\u00a0parsing</a></p><p>\u2757<a href=\"https://kt.academy/article/advent-2021-solutions\">Advent of Kotlin: Solutions</a>\u2757</p><p>Let\u2019s start. Shall we?\u00a0\u23ec</p><p>This was a warm-up week. Instead of one complex challenge, there were two easy ones. Although they still gave you plenty of room to show good style\u00a0:)</p><p><strong>Advent of Kotlin: Week 1: JSON stringify and possible value parentheses</strong>\ud83d\udc47</p><figure><a href=\"https://kt.academy/article/advent-2021-week1\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*NkAH99tu8Hmt2v9Usevuvw.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/advent-2021-week1\">Advent of Kotlin: Week 1: JSON stringify and possible value parentheses</a></figcaption></figure><p>We continued with algorithmic problems, but this time we have been implementing some <strong>tree algorithms</strong>.</p><p>\ud83d\udc49 <strong>Advent of Kotlin: Week 2: Tree algorithms</strong></p><figure><a href=\"https://kt.academy/article/advent-2021-week2\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*RfVeBoOk7PKsxUcR3fb9nQ.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/advent-2021-week2\">Advent of Kotlin: Week 2: Tree algorithms</a></figcaption></figure><p>As artificial intelligence gets more and more important, this week we have been implementing an important AI algorithm: <strong>k-means clustering</strong>.</p><p><strong>Advent of Kotlin: Week 3: k-means clustering </strong>\ud83d\udc47</p><figure><a href=\"https://kt.academy/article/advent-2021-week3\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*swHY1s9ZZDtYpkuIeVk47w.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/advent-2021-week3\">Advent of Kotlin: Week 3: k-means clustering</a></figcaption></figure><p>We\u2019ve started this advent with JSON stringify. The last week, we have done the opposite: <strong>JSON\u00a0parsing</strong>.</p><p><strong>Advent of Kotlin: Week 4: JSON parsing</strong>\u00a0\ud83d\udc47</p><figure><a href=\"https://kt.academy/article/advent-2021-week4\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*P_tRb0OyqFSidMo1ur7oRw.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/advent-2021-week4\">Advent of Kotlin: Week 4: JSON\u00a0parsing</a></figcaption></figure><p>Finally, we promised you <strong>the solutions. </strong>\ud83d\udc4c<strong> </strong><br />Check out if you were right with your\u00a0answers.</p><p>Below you can find them prepared by <strong>Marcin Moskala\u00a0</strong>\ud83d\udc47</p><figure><a href=\"https://kt.academy/article/advent-2021-solutions\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*jDEQhzrES64exwuB2iy40A.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/advent-2021-solutions\">Advent of Kotlin: Solutions</a></figcaption></figure><p>\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6</p><p>Kt. Academy organized a <strong>contest for the best solutions</strong>. <br />According to the rules we announced the results on our <a href=\"https://twitter.com/ktdotacademy/status/1478295313400094724\">Twitter</a>!<br />Congrats\u00a0\ud83d\udc4f</p><p>One more\u2026<br />soon we will be celebrating <strong>our birthday</strong>! \ud83c\udf82\ud83e\udd73<br />Stay tuned!\u00a0\ud83d\udc4c</p><p>Kt. Academy\u00a0Team</p><p>www: <a href=\"https://kt.academy/\">kt.academy</a><br />Blog: <a href=\"http://blog.kotlin-academy.com/\">blog.kotlin-academy.com</a><br />Twitter EN: <a href=\"https://twitter.com/ktdotacademy\">@KtDotAcademy</a><br />Twitter PL: <a href=\"https://twitter.com/ktdotacademyPL\">@ktdotacademyPL</a><br />FB: <a href=\"https://www.facebook.com/KtDotAcademy\">@KtDotAcademy</a><br />LinkedIn: <a href=\"https://www.linkedin.com/company/kt-academy/\">@Kt.\u00a0Academy</a></p><figure><a href=\"http://kt.academy\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PiAmEmweYoNmQogv3qsuIQ.png\" /></a></figure><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=d10b3ee01699\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/summary-of-the-advent-of-kotlin-d10b3ee01699\">Summary of the Advent of Kotlin\ud83d\udd25</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+                }
+            ],
+            "summary": "<h3>Hello Kotliners!</h3><p>\u2139\ufe0f This is a special, 4-weeks edition of our newsletter. It will contain only one, special topic\u200a\u2014\u200aAdvent of\u00a0Kotlin.</p><p><strong>Welcome to the summary of the Advent of Kotlin!</strong>\u00a0\ud83c\udf84</p><p>New Year has just started. We hope you liked our top seven picks of articles from 2021. Time to sum up the latest special event from the previous year\u2019s #AdventOfKotlin challenge!</p><p>Thank you for your time and for solving our challenges \ud83d\udc4f</p><p>Did you enjoy the tasks?\u00a0\ud83d\ude0d</p><p>Let us know, whether they were too hard and demanding or</p><p>\u2026 way too easy \ud83d\ude05 by replying to this email!\u00a0\ud83d\udc8c</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*U2VAmj3N-oM57drD81GSTQ.jpeg\" /></figure><p>We would like to remind you of all <strong>four tasks</strong> and give you<strong> the promised solutions</strong>. \ud83e\udd47</p><p>\ud83d\udc49 <a href=\"https://kt.academy/article/advent-2021-week1\">Advent of Kotlin: Week 1: JSON stringify and possible value parentheses</a><br />\ud83d\udc49 <a href=\"https://kt.academy/article/advent-2021-week2\">Advent of Kotlin: Week 2: Tree algorithms</a><br />\ud83d\udc49 <a href=\"https://kt.academy/article/advent-2021-week3\">Advent of Kotlin: Week 3: k-means clustering</a><br />\ud83d\udc49 <a href=\"https://kt.academy/article/advent-2021-week4\">Advent of Kotlin: Week 4: JSON\u00a0parsing</a></p><p>\u2757<a href=\"https://kt.academy/article/advent-2021-solutions\">Advent of Kotlin: Solutions</a>\u2757</p><p>Let\u2019s start. Shall we?\u00a0\u23ec</p><p>This was a warm-up week. Instead of one complex challenge, there were two easy ones. Although they still gave you plenty of room to show good style\u00a0:)</p><p><strong>Advent of Kotlin: Week 1: JSON stringify and possible value parentheses</strong>\ud83d\udc47</p><figure><a href=\"https://kt.academy/article/advent-2021-week1\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*NkAH99tu8Hmt2v9Usevuvw.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/advent-2021-week1\">Advent of Kotlin: Week 1: JSON stringify and possible value parentheses</a></figcaption></figure><p>We continued with algorithmic problems, but this time we have been implementing some <strong>tree algorithms</strong>.</p><p>\ud83d\udc49 <strong>Advent of Kotlin: Week 2: Tree algorithms</strong></p><figure><a href=\"https://kt.academy/article/advent-2021-week2\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*RfVeBoOk7PKsxUcR3fb9nQ.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/advent-2021-week2\">Advent of Kotlin: Week 2: Tree algorithms</a></figcaption></figure><p>As artificial intelligence gets more and more important, this week we have been implementing an important AI algorithm: <strong>k-means clustering</strong>.</p><p><strong>Advent of Kotlin: Week 3: k-means clustering </strong>\ud83d\udc47</p><figure><a href=\"https://kt.academy/article/advent-2021-week3\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*swHY1s9ZZDtYpkuIeVk47w.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/advent-2021-week3\">Advent of Kotlin: Week 3: k-means clustering</a></figcaption></figure><p>We\u2019ve started this advent with JSON stringify. The last week, we have done the opposite: <strong>JSON\u00a0parsing</strong>.</p><p><strong>Advent of Kotlin: Week 4: JSON parsing</strong>\u00a0\ud83d\udc47</p><figure><a href=\"https://kt.academy/article/advent-2021-week4\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*P_tRb0OyqFSidMo1ur7oRw.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/advent-2021-week4\">Advent of Kotlin: Week 4: JSON\u00a0parsing</a></figcaption></figure><p>Finally, we promised you <strong>the solutions. </strong>\ud83d\udc4c<strong> </strong><br />Check out if you were right with your\u00a0answers.</p><p>Below you can find them prepared by <strong>Marcin Moskala\u00a0</strong>\ud83d\udc47</p><figure><a href=\"https://kt.academy/article/advent-2021-solutions\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*jDEQhzrES64exwuB2iy40A.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/advent-2021-solutions\">Advent of Kotlin: Solutions</a></figcaption></figure><p>\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6</p><p>Kt. Academy organized a <strong>contest for the best solutions</strong>. <br />According to the rules we announced the results on our <a href=\"https://twitter.com/ktdotacademy/status/1478295313400094724\">Twitter</a>!<br />Congrats\u00a0\ud83d\udc4f</p><p>One more\u2026<br />soon we will be celebrating <strong>our birthday</strong>! \ud83c\udf82\ud83e\udd73<br />Stay tuned!\u00a0\ud83d\udc4c</p><p>Kt. Academy\u00a0Team</p><p>www: <a href=\"https://kt.academy/\">kt.academy</a><br />Blog: <a href=\"http://blog.kotlin-academy.com/\">blog.kotlin-academy.com</a><br />Twitter EN: <a href=\"https://twitter.com/ktdotacademy\">@KtDotAcademy</a><br />Twitter PL: <a href=\"https://twitter.com/ktdotacademyPL\">@ktdotacademyPL</a><br />FB: <a href=\"https://www.facebook.com/KtDotAcademy\">@KtDotAcademy</a><br />LinkedIn: <a href=\"https://www.linkedin.com/company/kt-academy/\">@Kt.\u00a0Academy</a></p><figure><a href=\"http://kt.academy\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PiAmEmweYoNmQogv3qsuIQ.png\" /></a></figure><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=d10b3ee01699\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/summary-of-the-advent-of-kotlin-d10b3ee01699\">Summary of the Advent of Kotlin\ud83d\udd25</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+        },
+        {
+            "title": "Best articles from 2021 from our blog & Happy New Year from Kt. Academy",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.kotlin-academy.com/feed",
+                "value": "Best articles from 2021 from our blog & Happy New Year from Kt. Academy"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.kotlin-academy.com/best-articles-from-2021-from-our-blog-happy-new-year-from-kt-academy-91f5fc8a0444?source=rss----e57b304801ef---4"
+                }
+            ],
+            "link": "https://blog.kotlin-academy.com/best-articles-from-2021-from-our-blog-happy-new-year-from-kt-academy-91f5fc8a0444?source=rss----e57b304801ef---4",
+            "id": "https://medium.com/p/91f5fc8a0444",
+            "guidislink": false,
+            "tags": [
+                {
+                    "term": "unit-testing",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "kotlin",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "dsl",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "android",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "newsletter",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Kasia Kt. Academy"
+                }
+            ],
+            "author": "Kasia Kt. Academy",
+            "author_detail": {
+                "name": "Kasia Kt. Academy"
+            },
+            "published": "Tue, 04 Jan 2022 05:13:08 GMT",
+            "published_parsed": [
+                2022,
+                1,
+                4,
+                5,
+                13,
+                8,
+                1,
+                4,
+                0
+            ],
+            "updated": "2022-01-04T05:13:07.438Z",
+            "updated_parsed": [
+                2022,
+                1,
+                4,
+                5,
+                13,
+                7,
+                1,
+                4,
+                0
+            ],
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://blog.kotlin-academy.com/feed",
+                    "value": "<p><strong>Welcome! \ud83c\udf7e</strong></p><p>How were your Christmas days? Did you rest properly? If so, we hope you are ready for the new experiences and challenges in the New Year.\u00a0\ud83d\udcaa</p><p>What about New Year\u2019s Resolutions? Would you like to code more?\u00a0\u2328</p><p>Anyway, we wish you that all your dreams come true, so<br />\u2026. cheers to 2022!\u00a0\ud83e\udd42</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*tE_3Ug1Zhz9qEu4uIlY4Pg.jpeg\" /></figure><p>To sum up the previous year we prepared something special for you! As we received many publications mostly about Kotlin and Android from different authors from all around the world, this time we are sharing<strong> the top seven articles from 2021, </strong>that you liked the most!\u00a0\ud83c\udfc6</p><p>\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/it-has-never-been-easier-to-understand-how-to-write-unit-tests-on-android-part-1-5ed1e5d8112b\">It has never been easier to understand how to write Unit Tests on Android\u200a\u2014\u200aPart 1</a> <br />\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/thinking-functionally-in-kotlin-1928c9995643\">Thinking functionally in Kotlin</a><br />\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/how-to-secure-secrets-in-android-android-security-01-a345e97c82be\">How to Secure Secrets \ud83d\udd11 in Android\u200a\u2014\u200aAndroid Security-01</a><br />\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/secure-secrets-in-android-using-jetpack-security-in-depth-android-security-02-4026b8e012f4\">How to Secure Secrets \ud83d\udd11 in Android<strong> </strong>(In-Depth)<strong>\u200a</strong>\u2014\u200aAndroid Security-02</a><br />\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/kotlin-dsl-buildsrc-product-flavors-flavor-icon-and-more-abf30c65e8fd\">Kotlin DSL, BuildSrc, Product Flavors, Flavor Icon and more</a><br />\ud83d\udc49<a href=\"https://blog.kotlin-academy.com/how-to-build-a-graphql-gateway-with-spring-boot-and-kotlin-97a186d93d46\"> How to build a GraphQL Gateway with Spring Boot and Kotlin</a><br />\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/kotlin-collections-vs-sequences-in-just-5minutes-70a3c3ec94a8\">Kotlin Collections vs Sequences in just 5\u00a0minutes</a></p><p>More articles you can find on our <a href=\"https://blog.kotlin-academy.com/\">blog</a>! \ud83d\udcc3<br />Enjoy\u00a0\u23ec</p><p>In this article, <strong>Beg\u00fcm Yaz\u0131c\u0131</strong> will try to explain what are Unit tests, why should we write them, and how to write\u00a0them.</p><p><strong>It has never been easier to understand how to write Unit Tests on Android\u200a\u2014\u200aPart 1\u00a0</strong>\ud83d\udc47</p><figure><a href=\"https://blog.kotlin-academy.com/it-has-never-been-easier-to-understand-how-to-write-unit-tests-on-android-part-1-5ed1e5d8112b\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*XurT3_bFPzDTsJ69bUYbZA.jpeg\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/it-has-never-been-easier-to-understand-how-to-write-unit-tests-on-android-part-1-5ed1e5d8112b\">It has never been easier to understand how to write Unit Tests on Android\u200a\u2014\u200aPart\u00a01</a></figcaption></figure><p>In this article written by<strong> Kauserali Hafizji </strong>we\u2019re going to work with Kotlin. Kotlin can be used anywhere where Java is\u00a0used!</p><p>\ud83d\udc49 <strong>Thinking functionally in\u00a0Kotlin</strong></p><figure><a href=\"https://blog.kotlin-academy.com/thinking-functionally-in-kotlin-1928c9995643\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*1of3LvXsWiyM1Zuo1NnQwA.png\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/thinking-functionally-in-kotlin-1928c9995643\">Thinking functionally in\u00a0Kotlin</a></figcaption></figure><p>Security is a key requirement while building an application that\u2019s dealing with APIs, tokens received from a server, storing credentials in local DB, sending secure data onto the network, and many other scenarios.</p><p>Read the article<strong> How to Secure Secrets \ud83d\udd11 in Android-Android Security-01 </strong>by <strong>Ali Azaz\u00a0Alam</strong></p><p>Part 1<strong>\u00a0</strong>\ud83d\udc47</p><figure><a href=\"https://blog.kotlin-academy.com/how-to-secure-secrets-in-android-android-security-01-a345e97c82be\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*bH-1da3m8XvOSOIKFcaL8Q.jpeg\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/how-to-secure-secrets-in-android-android-security-01-a345e97c82be\">How to Secure Secrets \ud83d\udd11 in Android\u200a\u2014\u200aAndroid Security-01</a></figcaption></figure><p>In google I/O 2019 Android team released its Security Cryptographic library named Jetpack Security to ease developers in building secured applications.</p><p><strong>Secure Secrets \ud83d\udd11 in Android using Jetpack Security (In-Depth)\u200a\u2014\u200aAndroid Security-02 </strong>by <strong>Ali Azaz\u00a0Alam</strong></p><p>Part 2\u00a0\ud83d\udc47</p><figure><a href=\"https://blog.kotlin-academy.com/secure-secrets-in-android-using-jetpack-security-in-depth-android-security-02-4026b8e012f4\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*AYO1qZ_GSh4YfuZEPIhzBQ.jpeg\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/secure-secrets-in-android-using-jetpack-security-in-depth-android-security-02-4026b8e012f4\">How to Secure Secrets \ud83d\udd11 in Android<strong> </strong>(In-Depth)<strong>\u200a</strong>\u2014\u200aAndroid Security-02</a></figcaption></figure><p>It\u2019s really important to check dependencies and versions. Especially in applications with more than one module, we can prevent different dependency management in each module with the buildSrc module.<br />Let\u2019s see, how we can do it in the\u00a0article</p><p><strong>Kotlin DSL, BuildSrc, Product Flavors, Flavor Icon and more</strong> by <strong>Mustafa Yi\u011fit\u00a0</strong>\ud83d\udc47</p><figure><a href=\"https://blog.kotlin-academy.com/kotlin-dsl-buildsrc-product-flavors-flavor-icon-and-more-abf30c65e8fd\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*dPOScXUPmYbg5jkR_Gahhw.png\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/kotlin-dsl-buildsrc-product-flavors-flavor-icon-and-more-abf30c65e8fd\">Kotlin DSL, BuildSrc, Product Flavors, Flavor Icon and\u00a0more</a></figcaption></figure><p>With Spring Boot + Kotlin + Coroutines + GraphQL-java-kickstart, you can build a GraphQL Gateway with a minimum of boilerplate.</p><p>To learn how to do it read the article written by <strong>Jean-Michel Fayard</strong>.</p><p><strong>How to build a GraphQL Gateway with Spring Boot and Kotlin</strong>\u00a0\ud83d\udc47</p><figure><a href=\"https://blog.kotlin-academy.com/how-to-build-a-graphql-gateway-with-spring-boot-and-kotlin-97a186d93d46\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*8wLUMPQhs665dChByiSzCg.png\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/how-to-build-a-graphql-gateway-with-spring-boot-and-kotlin-97a186d93d46\">How to build a GraphQL Gateway with Spring Boot and\u00a0Kotlin</a></figcaption></figure><p>Let\u2019s understand the difference between Kotlin Collections and Sequences in just 5 minutes \u2757\ufe0f article written by <strong>Monika Kumar\u00a0Jethani</strong>.</p><p><strong>Kotlin Collections vs Sequences in just 5 minutes</strong>\u00a0\ud83d\udc47</p><figure><a href=\"https://blog.kotlin-academy.com/kotlin-collections-vs-sequences-in-just-5minutes-70a3c3ec94a8\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/355/1*c42BE1Kzn-HjWMNoBpTI7Q.png\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/kotlin-collections-vs-sequences-in-just-5minutes-70a3c3ec94a8\">Kotlin Collections vs Sequences in just 5\u00a0minutes</a></figcaption></figure><p>\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86</p><p>Do you agree with our picks? What are your favourite articles from 2021? Let us know by replying to this email!\u00a0\ud83d\udc8c</p><p>All the best in 2022! \ud83c\udf78 Stay tuned! \ud83d\udc4c<br />Kt. Academy\u00a0Team</p><p>www: <a href=\"https://kt.academy/\">kt.academy</a><br />Blog: <a href=\"http://blog.kotlin-academy.com/\">blog.kotlin-academy.com</a><br />Twitter EN: <a href=\"https://twitter.com/ktdotacademy\">@KtDotAcademy</a><br />Twitter PL: <a href=\"https://twitter.com/ktdotacademyPL\">@ktdotacademyPL</a><br />FB: <a href=\"https://www.facebook.com/KtDotAcademy\">@KtDotAcademy</a><br />LinkedIn: <a href=\"https://www.linkedin.com/company/kt-academy/\">@Kt.\u00a0Academy</a></p><figure><a href=\"http://kt.academy\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PiAmEmweYoNmQogv3qsuIQ.png\" /></a></figure><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=91f5fc8a0444\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/best-articles-from-2021-from-our-blog-happy-new-year-from-kt-academy-91f5fc8a0444\">Best articles from 2021 from our blog &amp; Happy New Year from Kt. Academy \ud83c\udf86</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+                }
+            ],
+            "summary": "<p><strong>Welcome! \ud83c\udf7e</strong></p><p>How were your Christmas days? Did you rest properly? If so, we hope you are ready for the new experiences and challenges in the New Year.\u00a0\ud83d\udcaa</p><p>What about New Year\u2019s Resolutions? Would you like to code more?\u00a0\u2328</p><p>Anyway, we wish you that all your dreams come true, so<br />\u2026. cheers to 2022!\u00a0\ud83e\udd42</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*tE_3Ug1Zhz9qEu4uIlY4Pg.jpeg\" /></figure><p>To sum up the previous year we prepared something special for you! As we received many publications mostly about Kotlin and Android from different authors from all around the world, this time we are sharing<strong> the top seven articles from 2021, </strong>that you liked the most!\u00a0\ud83c\udfc6</p><p>\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/it-has-never-been-easier-to-understand-how-to-write-unit-tests-on-android-part-1-5ed1e5d8112b\">It has never been easier to understand how to write Unit Tests on Android\u200a\u2014\u200aPart 1</a> <br />\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/thinking-functionally-in-kotlin-1928c9995643\">Thinking functionally in Kotlin</a><br />\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/how-to-secure-secrets-in-android-android-security-01-a345e97c82be\">How to Secure Secrets \ud83d\udd11 in Android\u200a\u2014\u200aAndroid Security-01</a><br />\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/secure-secrets-in-android-using-jetpack-security-in-depth-android-security-02-4026b8e012f4\">How to Secure Secrets \ud83d\udd11 in Android<strong> </strong>(In-Depth)<strong>\u200a</strong>\u2014\u200aAndroid Security-02</a><br />\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/kotlin-dsl-buildsrc-product-flavors-flavor-icon-and-more-abf30c65e8fd\">Kotlin DSL, BuildSrc, Product Flavors, Flavor Icon and more</a><br />\ud83d\udc49<a href=\"https://blog.kotlin-academy.com/how-to-build-a-graphql-gateway-with-spring-boot-and-kotlin-97a186d93d46\"> How to build a GraphQL Gateway with Spring Boot and Kotlin</a><br />\ud83d\udc49 <a href=\"https://blog.kotlin-academy.com/kotlin-collections-vs-sequences-in-just-5minutes-70a3c3ec94a8\">Kotlin Collections vs Sequences in just 5\u00a0minutes</a></p><p>More articles you can find on our <a href=\"https://blog.kotlin-academy.com/\">blog</a>! \ud83d\udcc3<br />Enjoy\u00a0\u23ec</p><p>In this article, <strong>Beg\u00fcm Yaz\u0131c\u0131</strong> will try to explain what are Unit tests, why should we write them, and how to write\u00a0them.</p><p><strong>It has never been easier to understand how to write Unit Tests on Android\u200a\u2014\u200aPart 1\u00a0</strong>\ud83d\udc47</p><figure><a href=\"https://blog.kotlin-academy.com/it-has-never-been-easier-to-understand-how-to-write-unit-tests-on-android-part-1-5ed1e5d8112b\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*XurT3_bFPzDTsJ69bUYbZA.jpeg\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/it-has-never-been-easier-to-understand-how-to-write-unit-tests-on-android-part-1-5ed1e5d8112b\">It has never been easier to understand how to write Unit Tests on Android\u200a\u2014\u200aPart\u00a01</a></figcaption></figure><p>In this article written by<strong> Kauserali Hafizji </strong>we\u2019re going to work with Kotlin. Kotlin can be used anywhere where Java is\u00a0used!</p><p>\ud83d\udc49 <strong>Thinking functionally in\u00a0Kotlin</strong></p><figure><a href=\"https://blog.kotlin-academy.com/thinking-functionally-in-kotlin-1928c9995643\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*1of3LvXsWiyM1Zuo1NnQwA.png\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/thinking-functionally-in-kotlin-1928c9995643\">Thinking functionally in\u00a0Kotlin</a></figcaption></figure><p>Security is a key requirement while building an application that\u2019s dealing with APIs, tokens received from a server, storing credentials in local DB, sending secure data onto the network, and many other scenarios.</p><p>Read the article<strong> How to Secure Secrets \ud83d\udd11 in Android-Android Security-01 </strong>by <strong>Ali Azaz\u00a0Alam</strong></p><p>Part 1<strong>\u00a0</strong>\ud83d\udc47</p><figure><a href=\"https://blog.kotlin-academy.com/how-to-secure-secrets-in-android-android-security-01-a345e97c82be\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*bH-1da3m8XvOSOIKFcaL8Q.jpeg\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/how-to-secure-secrets-in-android-android-security-01-a345e97c82be\">How to Secure Secrets \ud83d\udd11 in Android\u200a\u2014\u200aAndroid Security-01</a></figcaption></figure><p>In google I/O 2019 Android team released its Security Cryptographic library named Jetpack Security to ease developers in building secured applications.</p><p><strong>Secure Secrets \ud83d\udd11 in Android using Jetpack Security (In-Depth)\u200a\u2014\u200aAndroid Security-02 </strong>by <strong>Ali Azaz\u00a0Alam</strong></p><p>Part 2\u00a0\ud83d\udc47</p><figure><a href=\"https://blog.kotlin-academy.com/secure-secrets-in-android-using-jetpack-security-in-depth-android-security-02-4026b8e012f4\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*AYO1qZ_GSh4YfuZEPIhzBQ.jpeg\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/secure-secrets-in-android-using-jetpack-security-in-depth-android-security-02-4026b8e012f4\">How to Secure Secrets \ud83d\udd11 in Android<strong> </strong>(In-Depth)<strong>\u200a</strong>\u2014\u200aAndroid Security-02</a></figcaption></figure><p>It\u2019s really important to check dependencies and versions. Especially in applications with more than one module, we can prevent different dependency management in each module with the buildSrc module.<br />Let\u2019s see, how we can do it in the\u00a0article</p><p><strong>Kotlin DSL, BuildSrc, Product Flavors, Flavor Icon and more</strong> by <strong>Mustafa Yi\u011fit\u00a0</strong>\ud83d\udc47</p><figure><a href=\"https://blog.kotlin-academy.com/kotlin-dsl-buildsrc-product-flavors-flavor-icon-and-more-abf30c65e8fd\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*dPOScXUPmYbg5jkR_Gahhw.png\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/kotlin-dsl-buildsrc-product-flavors-flavor-icon-and-more-abf30c65e8fd\">Kotlin DSL, BuildSrc, Product Flavors, Flavor Icon and\u00a0more</a></figcaption></figure><p>With Spring Boot + Kotlin + Coroutines + GraphQL-java-kickstart, you can build a GraphQL Gateway with a minimum of boilerplate.</p><p>To learn how to do it read the article written by <strong>Jean-Michel Fayard</strong>.</p><p><strong>How to build a GraphQL Gateway with Spring Boot and Kotlin</strong>\u00a0\ud83d\udc47</p><figure><a href=\"https://blog.kotlin-academy.com/how-to-build-a-graphql-gateway-with-spring-boot-and-kotlin-97a186d93d46\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*8wLUMPQhs665dChByiSzCg.png\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/how-to-build-a-graphql-gateway-with-spring-boot-and-kotlin-97a186d93d46\">How to build a GraphQL Gateway with Spring Boot and\u00a0Kotlin</a></figcaption></figure><p>Let\u2019s understand the difference between Kotlin Collections and Sequences in just 5 minutes \u2757\ufe0f article written by <strong>Monika Kumar\u00a0Jethani</strong>.</p><p><strong>Kotlin Collections vs Sequences in just 5 minutes</strong>\u00a0\ud83d\udc47</p><figure><a href=\"https://blog.kotlin-academy.com/kotlin-collections-vs-sequences-in-just-5minutes-70a3c3ec94a8\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/355/1*c42BE1Kzn-HjWMNoBpTI7Q.png\" /></a><figcaption><a href=\"https://blog.kotlin-academy.com/kotlin-collections-vs-sequences-in-just-5minutes-70a3c3ec94a8\">Kotlin Collections vs Sequences in just 5\u00a0minutes</a></figcaption></figure><p>\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86\ud83c\udf86</p><p>Do you agree with our picks? What are your favourite articles from 2021? Let us know by replying to this email!\u00a0\ud83d\udc8c</p><p>All the best in 2022! \ud83c\udf78 Stay tuned! \ud83d\udc4c<br />Kt. Academy\u00a0Team</p><p>www: <a href=\"https://kt.academy/\">kt.academy</a><br />Blog: <a href=\"http://blog.kotlin-academy.com/\">blog.kotlin-academy.com</a><br />Twitter EN: <a href=\"https://twitter.com/ktdotacademy\">@KtDotAcademy</a><br />Twitter PL: <a href=\"https://twitter.com/ktdotacademyPL\">@ktdotacademyPL</a><br />FB: <a href=\"https://www.facebook.com/KtDotAcademy\">@KtDotAcademy</a><br />LinkedIn: <a href=\"https://www.linkedin.com/company/kt-academy/\">@Kt.\u00a0Academy</a></p><figure><a href=\"http://kt.academy\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PiAmEmweYoNmQogv3qsuIQ.png\" /></a></figure><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=91f5fc8a0444\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/best-articles-from-2021-from-our-blog-happy-new-year-from-kt-academy-91f5fc8a0444\">Best articles from 2021 from our blog &amp; Happy New Year from Kt. Academy \ud83c\udf86</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+        },
+        {
+            "title": "Advent of Kotlin: Week 4",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.kotlin-academy.com/feed",
+                "value": "Advent of Kotlin: Week 4"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.kotlin-academy.com/advent-of-kotlin-week-4-7c692daf8715?source=rss----e57b304801ef---4"
+                }
+            ],
+            "link": "https://blog.kotlin-academy.com/advent-of-kotlin-week-4-7c692daf8715?source=rss----e57b304801ef---4",
+            "id": "https://medium.com/p/7c692daf8715",
+            "guidislink": false,
+            "tags": [
+                {
+                    "term": "challenge",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "kotlin",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "newsletter",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "json",
+                    "scheme": null,
+                    "label": null
+                },
+                {
+                    "term": "advent",
+                    "scheme": null,
+                    "label": null
+                }
+            ],
+            "authors": [
+                {
+                    "name": "Kasia Kt. Academy"
+                }
+            ],
+            "author": "Kasia Kt. Academy",
+            "author_detail": {
+                "name": "Kasia Kt. Academy"
+            },
+            "published": "Thu, 23 Dec 2021 05:12:52 GMT",
+            "published_parsed": [
+                2021,
+                12,
+                23,
+                5,
+                12,
+                52,
+                3,
+                357,
+                0
+            ],
+            "updated": "2021-12-23T05:12:52.144Z",
+            "updated_parsed": [
+                2021,
+                12,
+                23,
+                5,
+                12,
+                52,
+                3,
+                357,
+                0
+            ],
+            "content": [
+                {
+                    "type": "text/html",
+                    "language": null,
+                    "base": "https://blog.kotlin-academy.com/feed",
+                    "value": "<h3>Hello Kotliners!</h3><p>This is a special, <strong>4-weeks edition of our newsletter</strong>. It will contain content with only one, special topic.<br />\u2139\ufe0f The answers to the whole game will be published next week! Enjoy!\u00a0\ud83d\ude09</p><p><strong>Welcome to the 4th week of\u00a0the</strong></p><h3>Advent of Kotlin\u00a0\ud83c\udf84</h3><p>How did you like our previous #AdventOfKotlin challenges?</p><p>Was it a piece of cake?\u00a0\ud83d\ude0f</p><p>*\ufe0f\u20e3 We\u2019d love to hear your thoughts and suggestions for this newsletter. Please share them with us by replying to this email\u00a0\ud83d\udce9</p><p>And now\u2026</p><p>here we go, good luck with the last one\u00a0\ud83d\udc47</p><h3><a href=\"https://kt.academy/article/advent-2021-week4\">Advent of Kotlin: Week\u00a04</a></h3><figure><a href=\"https://kt.academy/article/advent-2021-week4\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*P_tRb0OyqFSidMo1ur7oRw.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/advent-2021-week4\">Advent of Kotlin: Week\u00a04</a></figcaption></figure><h3>Have fun and don\u2019t forget to share your answers with us!\u00a0\ud83c\udf85</h3><h3>#AdventOfKotlin</h3><p>We can\u2019t wait to see who is gonna win\u00a0\ud83c\udfc6</p><p>Thank you and see you next\u00a0week!</p><p>Kt. Academy\u00a0Team</p><p>www: <a href=\"https://kt.academy/\">kt.academy</a><br />Blog: <a href=\"http://blog.kotlin-academy.com/\">blog.kotlin-academy.com</a><br />Twitter EN: <a href=\"https://twitter.com/ktdotacademy\">@KtDotAcademy</a><br />Twitter PL: <a href=\"https://twitter.com/ktdotacademyPL\">@ktdotacademyPL</a><br />FB: <a href=\"https://www.facebook.com/KtDotAcademy\">@KtDotAcademy</a><br />LinkedIn: <a href=\"https://www.linkedin.com/company/kt-academy/\">@Kt.\u00a0Academy</a></p><figure><a href=\"https://kt.academy/\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PiAmEmweYoNmQogv3qsuIQ.png\" /></a></figure><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=7c692daf8715\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/advent-of-kotlin-week-4-7c692daf8715\">Advent of Kotlin: Week 4 \ud83d\udd25</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+                }
+            ],
+            "summary": "<h3>Hello Kotliners!</h3><p>This is a special, <strong>4-weeks edition of our newsletter</strong>. It will contain content with only one, special topic.<br />\u2139\ufe0f The answers to the whole game will be published next week! Enjoy!\u00a0\ud83d\ude09</p><p><strong>Welcome to the 4th week of\u00a0the</strong></p><h3>Advent of Kotlin\u00a0\ud83c\udf84</h3><p>How did you like our previous #AdventOfKotlin challenges?</p><p>Was it a piece of cake?\u00a0\ud83d\ude0f</p><p>*\ufe0f\u20e3 We\u2019d love to hear your thoughts and suggestions for this newsletter. Please share them with us by replying to this email\u00a0\ud83d\udce9</p><p>And now\u2026</p><p>here we go, good luck with the last one\u00a0\ud83d\udc47</p><h3><a href=\"https://kt.academy/article/advent-2021-week4\">Advent of Kotlin: Week\u00a04</a></h3><figure><a href=\"https://kt.academy/article/advent-2021-week4\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*P_tRb0OyqFSidMo1ur7oRw.jpeg\" /></a><figcaption><a href=\"https://kt.academy/article/advent-2021-week4\">Advent of Kotlin: Week\u00a04</a></figcaption></figure><h3>Have fun and don\u2019t forget to share your answers with us!\u00a0\ud83c\udf85</h3><h3>#AdventOfKotlin</h3><p>We can\u2019t wait to see who is gonna win\u00a0\ud83c\udfc6</p><p>Thank you and see you next\u00a0week!</p><p>Kt. Academy\u00a0Team</p><p>www: <a href=\"https://kt.academy/\">kt.academy</a><br />Blog: <a href=\"http://blog.kotlin-academy.com/\">blog.kotlin-academy.com</a><br />Twitter EN: <a href=\"https://twitter.com/ktdotacademy\">@KtDotAcademy</a><br />Twitter PL: <a href=\"https://twitter.com/ktdotacademyPL\">@ktdotacademyPL</a><br />FB: <a href=\"https://www.facebook.com/KtDotAcademy\">@KtDotAcademy</a><br />LinkedIn: <a href=\"https://www.linkedin.com/company/kt-academy/\">@Kt.\u00a0Academy</a></p><figure><a href=\"https://kt.academy/\"><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*PiAmEmweYoNmQogv3qsuIQ.png\" /></a></figure><img alt=\"\" height=\"1\" src=\"https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=7c692daf8715\" width=\"1\" /><hr /><p><a href=\"https://blog.kotlin-academy.com/advent-of-kotlin-week-4-7c692daf8715\">Advent of Kotlin: Week 4 \ud83d\udd25</a> was originally published in <a href=\"https://blog.kotlin-academy.com\">Kt. Academy</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>"
+        }
+    ],
+    "feed": {
+        "title": "Kt. Academy - Medium",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://blog.kotlin-academy.com/feed",
+            "value": "Kt. Academy - Medium"
+        },
+        "subtitle": "Blog with mission to simplify Kotlin learning - Medium",
+        "subtitle_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://blog.kotlin-academy.com/feed",
+            "value": "Blog with mission to simplify Kotlin learning - Medium"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://blog.kotlin-academy.com?source=rss----e57b304801ef---4"
+            },
+            {
+                "href": "https://blog.kotlin-academy.com/feed",
+                "rel": "self",
+                "type": "application/rss+xml"
+            },
+            {
+                "href": "http://medium.superfeedr.com",
+                "rel": "hub",
+                "type": "text/html"
+            }
+        ],
+        "link": "https://blog.kotlin-academy.com?source=rss----e57b304801ef---4",
+        "image": {
+            "href": "https://cdn-images-1.medium.com/proxy/1*TGH72Nnw24QL3iV9IOm4VA.png",
+            "title": "Kt. Academy - Medium",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://blog.kotlin-academy.com/feed",
+                "value": "Kt. Academy - Medium"
+            },
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://blog.kotlin-academy.com?source=rss----e57b304801ef---4"
+                }
+            ],
+            "link": "https://blog.kotlin-academy.com?source=rss----e57b304801ef---4"
+        },
+        "generator_detail": {
+            "name": "Medium"
+        },
+        "generator": "Medium",
+        "updated": "Wed, 06 Apr 2022 06:22:13 GMT",
+        "updated_parsed": [
+            2022,
+            4,
+            6,
+            6,
+            22,
+            13,
+            2,
+            96,
+            0
+        ],
+        "publisher": "yourfriends@medium.com",
+        "publisher_detail": {
+            "email": "yourfriends@medium.com"
+        }
+    },
+    "headers": {
+        "server": "openresty",
+        "date": "Wed, 06 Apr 2022 06:28:27 GMT",
+        "content-type": "text/xml; charset=UTF-8",
+        "content-length": "74844",
+        "connection": "close",
+        "sepia-upstream": "medium",
+        "cache-control": "private, must-revalidate, max-age=900",
+        "content-security-policy": "default-src 'self'; connect-src https://localhost https://*.instapaper.com https://*.stripe.com https://glyph.medium.com https://*.paypal.com https://*.braintree-api.com https://*.braintreegateway.com https://accounts.google.com https://getpocket.com https://blog.kotlin-academy.com https://*.blog.kotlin-academy.com https://*.medium.com https://medium.com https://*.medium.com https://*.algolia.net https://cdn-static-1.medium.com https://dnqgz544uhbo8.cloudfront.net https://cdn-videos-1.medium.com https://cdn-audio-1.medium.com https://lightstep.medium.systems https://*.branch.io 'self'; font-src data: https://*.amazonaws.com https://*.medium.com https://glyph.medium.com https://medium.com https://*.gstatic.com https://dnqgz544uhbo8.cloudfront.net https://cdn-static-1.medium.com 'self'; frame-src chromenull: https: webviewprogressproxy: blob: medium: 'self'; img-src blob: data: https: 'self'; media-src https://*.cdn.vine.co https://d1fcbxp97j4nb2.cloudfront.net https://d262ilb51hltx0.cloudfront.net https://*.medium.com https://gomiro.medium.com https://miro.medium.com https://pbs.twimg.com 'self' blob:; object-src 'self'; script-src 'unsafe-eval' 'unsafe-inline' about: https: 'self'; style-src 'unsafe-inline' data: https: 'self'; report-uri https://csp.medium.com",
+        "expires": "Wed, 06 Apr 2022 06:43:27 GMT",
+        "link": "<https://medium.com/humans.txt>; rel=\"humans\"",
+        "medium-fulfilled-by": "valencia/main-20220405-080038-d5702535c9",
+        "pragma": "private",
+        "set-cookie": "uid=lo_e04479f708c6; Path=/; Expires=Thu, 06 Apr 2023 06:28:27 GMT; HttpOnly; Secure",
+        "x-content-type-options": "nosniff",
+        "x-envoy-upstream-service-time": "105",
+        "x-frame-options": "sameorigin",
+        "x-obvious-info": "20220405-2257-root,e70d5918",
+        "x-obvious-tid": "1649226507733:bc63d1711735",
+        "x-opentracing": "{\"ot-tracer-spanid\":\"3d4083ec0139bece\",\"ot-tracer-traceid\":\"10992f0eb951dc04\",\"ot-tracer-sampled\":\"true\"}",
+        "x-powered-by": "Medium",
+        "x-ua-compatible": "IE=edge, Chrome=1",
+        "x-xss-protection": "1; mode=block"
+    },
+    "href": "https://blog.kotlin-academy.com/feed",
+    "status": 301,
+    "encoding": "UTF-8",
+    "version": "rss20",
+    "namespaces": {
+        "dc": "http://purl.org/dc/elements/1.1/",
+        "content": "http://purl.org/rss/1.0/modules/content/",
+        "": "http://www.w3.org/2005/Atom",
+        "creativeCommons": "http://cyber.law.harvard.edu/rss/creativeCommonsRssModule.html"
+    }
+}
