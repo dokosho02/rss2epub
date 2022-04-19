@@ -402,7 +402,7 @@ rssListDaily = [
    "https://www.pythoncheatsheet.org/latest/feed/", # Python
     "https://www.raywenderlich.com/android/feed/",   # Android
     "https://blog.kotlin-academy.com/feed/",         # kotlin
-   'https://rsshub.app/nhk/news_web_easy'           # NHK News
+   #'https://rsshub.app/nhk/news_web_easy'           # NHK News
 ]
 
 # -------------------------------------------
