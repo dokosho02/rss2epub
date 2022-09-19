@@ -5,10 +5,8 @@ class Style():
         self.defaultStyle = '''
         BODY { text-align: justify;}
         h1 {
-            background-color: lightblue;
             text-align: center;
-            text-transform: uppercase;
-            font-weight: 200;     
+            font-weight: 100;     
             }
         '''
 
@@ -23,13 +21,11 @@ class Style():
 
     h1 {
         text-align: center;
-        text-transform: uppercase;
-        font-weight: 200;     
+        font-weight: 100;     
     }
     h2 {
         text-align: left;
-        text-transform: uppercase;
-        font-weight: 200;     
+        font-weight: 80;     
     }
 
     ol {

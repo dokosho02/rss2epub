@@ -1,15 +1,20 @@
-import ePubRSS
+from Run import JournalRun, DailyRun
 from datetime import datetime
 
 
 def main():
-    daily = ePubRSS.DailyRun()
-    weekly = ePubRSS.WeeklyRun()
-    half_hourly = ePubRSS.Run()
+    jr = JournalRun()
+    jr.run()
 
 
-    daily.run()
-    half_hourly.run()
+    # daily = DailyRun()
+    # daily.run()
+
+    # weekly = ePubRSS.WeeklyRun()
+    # half_hourly = ePubRSS.Run()
+
+
+    # half_hourly.run()
     # weekly.run()
 
 if __name__ == '__main__':
