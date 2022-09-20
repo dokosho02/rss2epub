@@ -19,7 +19,7 @@ class bcolors:
 
 appHeader = f"{bcolors.HEADER}move files to current folder{bcolors.ENDC}"
 
-
+# ----------------------------------------------------------
 def readJsonContent(jsonFile, mode="r"):
     f = codecs.open(jsonFile, mode, encoding='utf-8')
 
@@ -29,10 +29,10 @@ def readJsonContent(jsonFile, mode="r"):
 
     list_data = json.loads(g)
     return list_data
-
+# ----------------------------------------------------------
 def checkASCII(s):
     return all(ord(c) < 128 for c in s)
-
+# ----------------------------------------------------------
 def replaceImageLinks(text, articleNo):
     # <img alt=\"\u4e0d\u89c1\u56fe \u8bf7\u7ffb\u5899\" src=\"https://lh5.googleusercontent.com/At9Xef32Ry42u9eNuLjSOyuQ6bBUWLPNDWdoPr5tGAZx9zScNK42JOuKRBBTZ_2sIelVgeLELny6DukSeXQI2rZE1ITkgnHnpjcjdfiBGr1WwC0XI7M_mvFKdLwTyBzAW8BAtOARq6s\" />
     srcStr = 'src="(.*?)"'

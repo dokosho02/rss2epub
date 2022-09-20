@@ -41,43 +41,34 @@ def go_try(link, i):
     try:
         last_rss = go(link, i)
     except:
-        logger.info("Failed -- {} -- {}".format(i+1, link) )
+        logger.info(f"Failed -- {i+1} -- {link}")
         if (last_rss!= ""):
             os.remove(last_rss)
-            logger.info("{} removed".format(last_rss) )
+            logger.info(f"{last_rss} removed")
         last_rss = go(link, i)
 
 # -------------------------------------------
-
 class Run():
     def __init__(self):
         self.rssList = rssList
 
     def run(self):
-        start = datetime.now()
+        # start = datetime.now()
 
         for i in range( len(self.rssList) ):
             go_try(self.rssList[i], i)
 
-        end = datetime.now()
-        timeDuration = str(end - start).zfill(4)
-        logger.info( 'Total time -- {}'.format(timeDuration) )
-
-
-
+        # end = datetime.now()
+        # timeDuration = str(end - start).zfill(4)
+        # logger.info( 'Total time -- {}'.format(timeDuration) )
 # -------------------------------------
-
-
 class JournalRun(Run):
     def __init__(self):
         self.rssList = journalRSS
-
 # ----------------------
-
 class DailyRun(Run):
     def __init__(self):
         self.rssList = rssListDaily
-
 # ----------------------
 # class WeeklyRun(Run):
 #     def __init__(self):

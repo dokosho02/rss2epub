@@ -18,7 +18,7 @@ homePath = os.path.expanduser('~')
 
 """
 created on 2021-03-21
-
+modified on 2022-09-19
 """
 
 # -------------------------
@@ -33,7 +33,6 @@ class RSS():
         self.epubFolder = "epub"
         self.lastRSS    = ""
         
-
         # 
         self.createFolders()
 
@@ -59,8 +58,7 @@ class RSS():
         self.feedTitle = ( self.feed['feed']['title'].split(' - ') )[0]
         
         z = len( self.feed['entries'] )
-        logger.success("- "*2 + self.feedTitle)
-        logger.info(self.rssLink)
+        print(f"{bcolors.HEADER}{self.feedTitle}{bcolors.ENDC}")
         logger.success("-"*2 + " entries in this feed ---- {}".format( z ) )
 
         self.lastRSS = os.path.join( self.lastFolder, f"last_{self.feedTitle}.json")

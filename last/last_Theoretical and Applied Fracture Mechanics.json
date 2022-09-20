@@ -1,0 +1,642 @@
+{
+    "bozo": false,
+    "entries": [
+        {
+            "title": "Mixed mode fracture of polyolefin fibre reinforced concrete",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Mixed mode fracture of polyolefin fibre reinforced concrete"
+            },
+            "summary": "<p><span><big>Mixed mode fracture of polyolefin fibre reinforced concrete</big></span><br /></p><p><span><small><i>M.G. Alberti, J.C. G\u00e1lvez, A. Enfedaque, A. Picazo, W.J. Ram\u00edrez</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103560</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>Throughout the last 60&nbsp;years, the use of fibre reinforced concrete (FRC) has evolved favourably. By this technique, it is possible to reduce or substitute the traditional steel-bar reinforcement in the structural design of concrete elements for both civil and building construction. The most used fibres for this purpose are made of steel, though there have been remarkable advances in the plastic fibres that have made them an attractive alternative. Thus, macro polyolefin fibres have shown to meet the requirements set in the standards in order to consider their contribution in the structural design. To do so, fracture behaviour under Mode I has been the main topic of research in the last years. Nevertheless, there is still a lack of knowledge about the behaviour of polyolefin fibre reinforced concrete (PFRC) under other modes of fracture or the combination of them. This study assesses the behaviour of PFRC with several fibre dosages when subjected to Mixed mode fracture with several fibre dosages as well as the influence of the size effect with various sizes. Moreover, this paper supplies relevant information about the cracking processes and the variation in the orientation factor and residual strengths that take place when Mode I and Mode II of fracture occur simultaneously.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Mixed mode fracture of polyolefin fibre reinforced concrete</big></span><br /></p><p><span><small><i>M.G. Alberti, J.C. G\u00e1lvez, A. Enfedaque, A. Picazo, W.J. Ram\u00edrez</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103560</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>Throughout the last 60&nbsp;years, the use of fibre reinforced concrete (FRC) has evolved favourably. By this technique, it is possible to reduce or substitute the traditional steel-bar reinforcement in the structural design of concrete elements for both civil and building construction. The most used fibres for this purpose are made of steel, though there have been remarkable advances in the plastic fibres that have made them an attractive alternative. Thus, macro polyolefin fibres have shown to meet the requirements set in the standards in order to consider their contribution in the structural design. To do so, fracture behaviour under Mode I has been the main topic of research in the last years. Nevertheless, there is still a lack of knowledge about the behaviour of polyolefin fibre reinforced concrete (PFRC) under other modes of fracture or the combination of them. This study assesses the behaviour of PFRC with several fibre dosages when subjected to Mixed mode fracture with several fibre dosages as well as the influence of the size effect with various sizes. Moreover, this paper supplies relevant information about the cracking processes and the variation in the orientation factor and residual strengths that take place when Mode I and Mode II of fracture occur simultaneously.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222003044",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222003044"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222003044"
+        },
+        {
+            "title": "A novel super symplectic analytical singular element for crack propagation along a bimaterial interface",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "A novel super symplectic analytical singular element for crack propagation along a bimaterial interface"
+            },
+            "summary": "<p><span><big>A novel super symplectic analytical singular element for crack propagation along a bimaterial interface</big></span><br /></p><p><span><small><i>Song Zhou, Yongchuan Ma, Zhi Sun, Xiaofei Hu</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103565</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>In the last few years, the corresponding author and colleagues proposed a type of symplectic analytical singular elements (SASEs) for various crack problems, such as cracks in plate and shell, bimaterial crack, dynamic crack, crack in viscoelastic media, etc. However, the SASE is still confined to stationary cracks. In this contribution, we propose a new super symplectic analytical singular element (SSASE) for crack propagation along a bimaterial interface. The shape of the SSASE is extended from the normally used circle to general convex polygon, and it can work well on a fixed mesh with triangles or quadrilaterals, thus more proper for modelling crack propagation. The proposed element uses the symplectic eigen solution to define its internal fields, thus most of the advantages of the SASE family are reserved. The proposed element is verified and validated through a few numerical examples. The present contribution has established a new platform for the modelling of the progressive failure process along a bimaterial interface and has also extended the application of the analytical symplectic dual approach to the numerical approach for crack propagations.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>A novel super symplectic analytical singular element for crack propagation along a bimaterial interface</big></span><br /></p><p><span><small><i>Song Zhou, Yongchuan Ma, Zhi Sun, Xiaofei Hu</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103565</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>In the last few years, the corresponding author and colleagues proposed a type of symplectic analytical singular elements (SASEs) for various crack problems, such as cracks in plate and shell, bimaterial crack, dynamic crack, crack in viscoelastic media, etc. However, the SASE is still confined to stationary cracks. In this contribution, we propose a new super symplectic analytical singular element (SSASE) for crack propagation along a bimaterial interface. The shape of the SSASE is extended from the normally used circle to general convex polygon, and it can work well on a fixed mesh with triangles or quadrilaterals, thus more proper for modelling crack propagation. The proposed element uses the symplectic eigen solution to define its internal fields, thus most of the advantages of the SASE family are reserved. The proposed element is verified and validated through a few numerical examples. The present contribution has established a new platform for the modelling of the progressive failure process along a bimaterial interface and has also extended the application of the analytical symplectic dual approach to the numerical approach for crack propagations.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222003093",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222003093"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222003093"
+        },
+        {
+            "title": "Dynamic crack propagation under generalized thermal shock based on Lord-Shulman model",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Dynamic crack propagation under generalized thermal shock based on Lord-Shulman model"
+            },
+            "summary": "<p><span><big>Dynamic crack propagation under generalized thermal shock based on Lord-Shulman model</big></span><br /></p><p><span><small><i>Seyed Hadi Bayat, Mohammad Bagher Nazari</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103557</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>In this paper, dynamic crack propagation in a 2D isotropic medium under a generalized thermal shock in the framework of eXtended Finite Element Method (XFEM) is studied. A new set of tip enrichment functions for displacement and temperature based on the near tip fields for a moving crack is proposed. In addition, the maximum circumferential stress criterion is developed using the stress field near the moving crack to determine the crack propagation direction. The fully coupled generalized thermoelasticity equations based on the Lord-Shulman model are considered as the governing equations. The effect of the thermal wave magnitude on the crack propagation path as well as on the crack speed is discussed in details.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Dynamic crack propagation under generalized thermal shock based on Lord-Shulman model</big></span><br /></p><p><span><small><i>Seyed Hadi Bayat, Mohammad Bagher Nazari</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103557</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>In this paper, dynamic crack propagation in a 2D isotropic medium under a generalized thermal shock in the framework of eXtended Finite Element Method (XFEM) is studied. A new set of tip enrichment functions for displacement and temperature based on the near tip fields for a moving crack is proposed. In addition, the maximum circumferential stress criterion is developed using the stress field near the moving crack to determine the crack propagation direction. The fully coupled generalized thermoelasticity equations based on the Lord-Shulman model are considered as the governing equations. The effect of the thermal wave magnitude on the crack propagation path as well as on the crack speed is discussed in details.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222003019",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222003019"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222003019"
+        },
+        {
+            "title": "Investigating the effect of notch size on critical distance and fatigue limit by coupling the theory of critical distance and finite fracture mechanic...",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Investigating the effect of notch size on critical distance and fatigue limit by coupling the theory of critical distance and finite fracture mechanic..."
+            },
+            "summary": "<p><span><big>Investigating the effect of notch size on critical distance and fatigue limit by coupling the theory of critical distance and finite fracture mechanics</big></span><br /></p><p><span><small><i>Xunliang Shen, Dongfang Zeng, Liantao Lu</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103566</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>The energy based failure criterion Finite Fracture Mechanics is transformed into a stress based failure criterion and expressed by an effective stress similar with Line Method. After coupling the two criterions, the theoretical critical distance expression is derived based on notch stress distribution, stress intensity factor function and material characteristic length. The effect of notch size and material characteristic length on the critical distance and fatigue limit prediction was analyzed for a group of V-shaped notches. Then, the coupled method was validated by a large number of experimental results. It is revealed that the Line Method and coupled method are the same except that they employ different critical distances. The validity of Line Method was discussed based on the difference of critical distances and fatigue limit predictions between the Line Method and coupled method.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Investigating the effect of notch size on critical distance and fatigue limit by coupling the theory of critical distance and finite fracture mechanics</big></span><br /></p><p><span><small><i>Xunliang Shen, Dongfang Zeng, Liantao Lu</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103566</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>The energy based failure criterion Finite Fracture Mechanics is transformed into a stress based failure criterion and expressed by an effective stress similar with Line Method. After coupling the two criterions, the theoretical critical distance expression is derived based on notch stress distribution, stress intensity factor function and material characteristic length. The effect of notch size and material characteristic length on the critical distance and fatigue limit prediction was analyzed for a group of V-shaped notches. Then, the coupled method was validated by a large number of experimental results. It is revealed that the Line Method and coupled method are the same except that they employ different critical distances. The validity of Line Method was discussed based on the difference of critical distances and fatigue limit predictions between the Line Method and coupled method.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S016784422200310X",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S016784422200310X"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S016784422200310X"
+        },
+        {
+            "title": "Experimental study on anisotropic fracture characteristics of coal using notched semi-circular bend specimen",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Experimental study on anisotropic fracture characteristics of coal using notched semi-circular bend specimen"
+            },
+            "summary": "<p><span><big>Experimental study on anisotropic fracture characteristics of coal using notched semi-circular bend specimen</big></span><br /></p><p><span><small><i>Wei Wang, Teng Teng</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103559</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>To investigate the anisotropic fracture characteristics of coal, physical tests are carried out on semi-circular bend specimens with different pre-crack inclinations and bedding orientations. Regarding the coal as a transversely isotropic body, assigning its elastic properties to the finite element models, the crack geometry factors are calibrated, and stress distributions near the pre-crack tip are analyzed through numerical simulations. Then, the modes I and II critical stress intensity factors are determined based on fracture load. Experimental results show that bedding orientation and pre-crack inclination of coal specimens jointly affect their fracture mode and resistance, and mode I fracture dominates the fracture onset. For straight and inclined pre-cracks, the elliptic function and Fourier series can approximately describe the relationship between effective critical stress intensity factor and bedding angle, respectively. Besides, descriptions of typical propagation paths and their corresponding failure mechanisms are reported in detail. Further, the morphology of fracture surfaces is drawn based on scanning data; afterward, four equidistant cross-sectional profiles in different specimens are extracted and exhibited. Finally, an empirical equation is utilized to calculate the joint roughness coefficients of profiles. Comparing the differences among these coefficients is beneficial to quantitatively characterize anisotropic crack growth in coal.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Experimental study on anisotropic fracture characteristics of coal using notched semi-circular bend specimen</big></span><br /></p><p><span><small><i>Wei Wang, Teng Teng</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103559</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>To investigate the anisotropic fracture characteristics of coal, physical tests are carried out on semi-circular bend specimens with different pre-crack inclinations and bedding orientations. Regarding the coal as a transversely isotropic body, assigning its elastic properties to the finite element models, the crack geometry factors are calibrated, and stress distributions near the pre-crack tip are analyzed through numerical simulations. Then, the modes I and II critical stress intensity factors are determined based on fracture load. Experimental results show that bedding orientation and pre-crack inclination of coal specimens jointly affect their fracture mode and resistance, and mode I fracture dominates the fracture onset. For straight and inclined pre-cracks, the elliptic function and Fourier series can approximately describe the relationship between effective critical stress intensity factor and bedding angle, respectively. Besides, descriptions of typical propagation paths and their corresponding failure mechanisms are reported in detail. Further, the morphology of fracture surfaces is drawn based on scanning data; afterward, four equidistant cross-sectional profiles in different specimens are extracted and exhibited. Finally, an empirical equation is utilized to calculate the joint roughness coefficients of profiles. Comparing the differences among these coefficients is beneficial to quantitatively characterize anisotropic crack growth in coal.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222003032",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222003032"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222003032"
+        },
+        {
+            "title": "A novel coupling approach for determination of stress intensity factor for bi-material Reissner plates under bending or twisting",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "A novel coupling approach for determination of stress intensity factor for bi-material Reissner plates under bending or twisting"
+            },
+            "summary": "<p><span><big>A novel coupling approach for determination of stress intensity factor for bi-material Reissner plates under bending or twisting</big></span><br /></p><p><span><small><i>Xiong Yu, Zhenting Yang, Quanquan Zhang, Zhenzhen Tong, ... Xinsheng Xu</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103568</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>A novel coupling approach is proposed to determine stress intensity factors (SIFs) for interface cracks in bi-material Reissner plates under bending or twisting. The Reissner plate theory is adopted to derive asymptotic solutions around the crack tip and T-spline functions are introduced to establish the model. The approach has two major steps. Firstly, the overall cracked plate is divided into two regions (near and far fields) and is discretized by the T-spline based isogeometric analysis (IGA). Subsequently, the large number of fundamental unknowns of control points in the near field is reduced into a small set of undetermined coefficients of asymptotic solutions obtained by the eigenfunction expansion method. Therefore, explicit expressions of SIFs and singular stress components near the crack tip are obtained simultaneously. A number of numerical examples for various cracks laying at the interface are presented, and are found to be in good agreement with available solutions.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>A novel coupling approach for determination of stress intensity factor for bi-material Reissner plates under bending or twisting</big></span><br /></p><p><span><small><i>Xiong Yu, Zhenting Yang, Quanquan Zhang, Zhenzhen Tong, ... Xinsheng Xu</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103568</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>A novel coupling approach is proposed to determine stress intensity factors (SIFs) for interface cracks in bi-material Reissner plates under bending or twisting. The Reissner plate theory is adopted to derive asymptotic solutions around the crack tip and T-spline functions are introduced to establish the model. The approach has two major steps. Firstly, the overall cracked plate is divided into two regions (near and far fields) and is discretized by the T-spline based isogeometric analysis (IGA). Subsequently, the large number of fundamental unknowns of control points in the near field is reduced into a small set of undetermined coefficients of asymptotic solutions obtained by the eigenfunction expansion method. Therefore, explicit expressions of SIFs and singular stress components near the crack tip are obtained simultaneously. A number of numerical examples for various cracks laying at the interface are presented, and are found to be in good agreement with available solutions.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222003123",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222003123"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222003123"
+        },
+        {
+            "title": "Numerical simulation of mesomechanical properties of limestone containing dissolved hole and persistent joint",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Numerical simulation of mesomechanical properties of limestone containing dissolved hole and persistent joint"
+            },
+            "summary": "<p><span><big>Numerical simulation of mesomechanical properties of limestone containing dissolved hole and persistent joint</big></span><br /></p><p><span><small><i>Shuai Liu, Handong Liu, Haining Liu, Zhiguo Xia, ... Juyun Zhai</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103572</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>In order to reveal the complex mechanical properties and mesoscopic failure behavior of limestone rock mass containing both dissolved hole defect and persistent joint, numerical models are developed using the two-dimensional particle flow code (PFC2D) to carry out the uniaxial compressive strength (UCS) tests. The stress\u2013strain, contact force chain, vertical stress field, and crack evolution characteristics of limestone samples containing circular holes and different dip angles persistent joints were analyzed. The results show that the UCS and elastic modulus of the rock samples can be reduced by the circular hole and the persistent joint, and the persistent joints with steep dip angles have a more obvious control effect on the mechanical properties of the rock samples. With the increase in loading stress level, the contact force chain in the hole-joint combination model gradually deflects slightly along the joint dip angle from the left and right sides of the hole and gradually spreads outward. Under uniaxial compression, the initiation cracks in persistent joints and rock blocks are primarily tensile cracks. The initiation positions first appear in the persistent joint, and the initiation positions in the rock block change from the upper and lower vertices of the circular hole to the junction below the joint with the increase of the joint dip angle. The crack initiation stress in the persistent joint is smaller than that in the corresponding rock block, and the control effect of the joint dip angle on the crack initiation stress of the whole rock sample is reduced.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Numerical simulation of mesomechanical properties of limestone containing dissolved hole and persistent joint</big></span><br /></p><p><span><small><i>Shuai Liu, Handong Liu, Haining Liu, Zhiguo Xia, ... Juyun Zhai</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103572</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>In order to reveal the complex mechanical properties and mesoscopic failure behavior of limestone rock mass containing both dissolved hole defect and persistent joint, numerical models are developed using the two-dimensional particle flow code (PFC2D) to carry out the uniaxial compressive strength (UCS) tests. The stress\u2013strain, contact force chain, vertical stress field, and crack evolution characteristics of limestone samples containing circular holes and different dip angles persistent joints were analyzed. The results show that the UCS and elastic modulus of the rock samples can be reduced by the circular hole and the persistent joint, and the persistent joints with steep dip angles have a more obvious control effect on the mechanical properties of the rock samples. With the increase in loading stress level, the contact force chain in the hole-joint combination model gradually deflects slightly along the joint dip angle from the left and right sides of the hole and gradually spreads outward. Under uniaxial compression, the initiation cracks in persistent joints and rock blocks are primarily tensile cracks. The initiation positions first appear in the persistent joint, and the initiation positions in the rock block change from the upper and lower vertices of the circular hole to the junction below the joint with the increase of the joint dip angle. The crack initiation stress in the persistent joint is smaller than that in the corresponding rock block, and the control effect of the joint dip angle on the crack initiation stress of the whole rock sample is reduced.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222003160",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222003160"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222003160"
+        },
+        {
+            "title": "Dynamic mechanical responses and failure characteristics of fractured rocks with hydrostatic confining pressures: An experimental study",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Dynamic mechanical responses and failure characteristics of fractured rocks with hydrostatic confining pressures: An experimental study"
+            },
+            "summary": "<p><span><big>Dynamic mechanical responses and failure characteristics of fractured rocks with hydrostatic confining pressures: An experimental study</big></span><br /></p><p><span><small><i>Wei You, Feng Dai, Yi Liu, Youzhen Li</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103570</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>A precise understanding of the dynamic mechanical responses and failure characteristics of fractured rock with hydrostatic confinements is of paramount importance for the safety of deep underground engineering construction. In the present investigation, a modified split Hopkinson pressure bar (SHPB) apparatus was used to carry out the tri-axial dynamic tests on sandstone specimens with multiple parallel flaws under different strain rates in a range of 100\u2013200&nbsp;s\u22121 and four hydrostatic confining pressures varying from 5.7 to 22.7&nbsp;MPa. The tested results indicate that the dynamic strength, elastic modulus and peak strain are all positively correlated with hydrostatic confining pressure. As the flaw intensity increases, both the dynamic strength and elastic modulus commonly decrease, and the dynamic peak strain decreases first and then slightly increases. Meanwhile, the energy utilization efficiency slightly declines with rising hydrostatic confining pressure, and features positive correlation to the flaw intensity but is not sensitive to the strain rate. The flaw intensity and strain rate both promote the energy dissipation density of the fractured rocks. By the post-mortem examination, ten crack categories are classified for fractured rock specimens subjected to dynamic loading with hydrostatic confinement, and the coalescence of such cracks causes different final failure patterns. Generally, with increasing flaw intensity, the failure pattern of fractured rock changes from shear dominant to shear-tensile mixed failure. Under higher hydrostatic confining pressure, the fractured rock usually exhibits conjugated X-shape failure patterns which are quite different from the specimens with lower confining pressure.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Dynamic mechanical responses and failure characteristics of fractured rocks with hydrostatic confining pressures: An experimental study</big></span><br /></p><p><span><small><i>Wei You, Feng Dai, Yi Liu, Youzhen Li</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103570</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>A precise understanding of the dynamic mechanical responses and failure characteristics of fractured rock with hydrostatic confinements is of paramount importance for the safety of deep underground engineering construction. In the present investigation, a modified split Hopkinson pressure bar (SHPB) apparatus was used to carry out the tri-axial dynamic tests on sandstone specimens with multiple parallel flaws under different strain rates in a range of 100\u2013200&nbsp;s\u22121 and four hydrostatic confining pressures varying from 5.7 to 22.7&nbsp;MPa. The tested results indicate that the dynamic strength, elastic modulus and peak strain are all positively correlated with hydrostatic confining pressure. As the flaw intensity increases, both the dynamic strength and elastic modulus commonly decrease, and the dynamic peak strain decreases first and then slightly increases. Meanwhile, the energy utilization efficiency slightly declines with rising hydrostatic confining pressure, and features positive correlation to the flaw intensity but is not sensitive to the strain rate. The flaw intensity and strain rate both promote the energy dissipation density of the fractured rocks. By the post-mortem examination, ten crack categories are classified for fractured rock specimens subjected to dynamic loading with hydrostatic confinement, and the coalescence of such cracks causes different final failure patterns. Generally, with increasing flaw intensity, the failure pattern of fractured rock changes from shear dominant to shear-tensile mixed failure. Under higher hydrostatic confining pressure, the fractured rock usually exhibits conjugated X-shape failure patterns which are quite different from the specimens with lower confining pressure.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222003147",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222003147"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222003147"
+        },
+        {
+            "title": "Effects of tensile overload on fatigue crack growth in AM60 magnesium alloys",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Effects of tensile overload on fatigue crack growth in AM60 magnesium alloys"
+            },
+            "summary": "<p><span><big>Effects of tensile overload on fatigue crack growth in AM60 magnesium alloys</big></span><br /></p><p><span><small><i>Sina Abbaszadeh Hashemi, Khalil Farhangdoost, Wenchen Ma, Danial Ghahremani Moghadam, ... Filippo Berto</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103573</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>An experimental study has been done to investigate the effects of tensile overload on crack initiation of AM60 magnesium alloy. The cycle number, in which the overload is applied, its magnitude, and multiplicity are investigated in this study. The fracture surfaces of CT specimens were analyzed using the Scanning Electron Microscopy (SEM) to investigate the effect of different overloads. The results show that applying tensile overload postpones the crack initiation. Furthermore, when two overloads applied in 1th and 1000th loading cycle with magnitude of 5.25 kN (1.75 PMax), the crack initiates later than the cases with other overload conditions (magnitude and cycle of application). The fractography results also illustrate the differences between initial crack configurations for different overload conditions. It is also observed that increasing the overload magnitude (&lt;2 Pmax), the crack plateaus distance and the resulting crack growth rate will be reduced.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Effects of tensile overload on fatigue crack growth in AM60 magnesium alloys</big></span><br /></p><p><span><small><i>Sina Abbaszadeh Hashemi, Khalil Farhangdoost, Wenchen Ma, Danial Ghahremani Moghadam, ... Filippo Berto</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103573</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>An experimental study has been done to investigate the effects of tensile overload on crack initiation of AM60 magnesium alloy. The cycle number, in which the overload is applied, its magnitude, and multiplicity are investigated in this study. The fracture surfaces of CT specimens were analyzed using the Scanning Electron Microscopy (SEM) to investigate the effect of different overloads. The results show that applying tensile overload postpones the crack initiation. Furthermore, when two overloads applied in 1th and 1000th loading cycle with magnitude of 5.25 kN (1.75 PMax), the crack initiates later than the cases with other overload conditions (magnitude and cycle of application). The fractography results also illustrate the differences between initial crack configurations for different overload conditions. It is also observed that increasing the overload magnitude (&lt;2 Pmax), the crack plateaus distance and the resulting crack growth rate will be reduced.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222003172",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222003172"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222003172"
+        },
+        {
+            "title": "Effect of temperature on mixed mode I/III fracture behavior of diorite: An experimental investigation",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Effect of temperature on mixed mode I/III fracture behavior of diorite: An experimental investigation"
+            },
+            "summary": "<p><span><big>Effect of temperature on mixed mode I/III fracture behavior of diorite: An experimental investigation</big></span><br /></p><p><span><small><i>Zheng Yang, Tubing Yin, Dengdeng Zhuang, You Wu, ... Yongjun Chen</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103571</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>Rock fracture after high temperature is always a hot topic in the field of rock engineering. However, the mixed mode I/III fracture characteristics of thermal-treated rocks have rarely been reported previously. In this paper, edge-notched disc bend (ENDB) specimens were used to study the mixed mode I/III fracture properties of diorite under different temperatures (25 \u2103, 100 \u2103, 200 \u2103, 400 \u2103, and 600 \u2103). The P-wave velocities were measured before and after heating, and acoustic emission (AE) signals during fracture were monitored. Furtherly, the fractal dimension was calculated by the box-counting method to quantitatively describe the roughness of the fracture surface. The results showed that the fracture toughness of diorite is significantly affected by the temperature at each mode mixity. When the temperature rises from 25 \u2103 to 200 \u2103, the fracture toughness at pure mode I is more sensitive to temperature. For the specimens heated under 600 \u2103, the reduction in fracture toughness at pure mode III is greater than that at mode I. The AE active period of diorite increases with the increase of temperature, indicating that the brittleness of diorite is weakened by high temperature. Moreover, for pure mode I fracture, the influence of temperature on the fractal dimension is limited. When mode III load is introduced, the fractal dimension is more obviously affected by the temperature and the fractal dimension increases with the increase of temperature. The findings provide new insights into the mechanism of mixed mode I/III fracture in heat-treated rocks.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Effect of temperature on mixed mode I/III fracture behavior of diorite: An experimental investigation</big></span><br /></p><p><span><small><i>Zheng Yang, Tubing Yin, Dengdeng Zhuang, You Wu, ... Yongjun Chen</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103571</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>Rock fracture after high temperature is always a hot topic in the field of rock engineering. However, the mixed mode I/III fracture characteristics of thermal-treated rocks have rarely been reported previously. In this paper, edge-notched disc bend (ENDB) specimens were used to study the mixed mode I/III fracture properties of diorite under different temperatures (25 \u2103, 100 \u2103, 200 \u2103, 400 \u2103, and 600 \u2103). The P-wave velocities were measured before and after heating, and acoustic emission (AE) signals during fracture were monitored. Furtherly, the fractal dimension was calculated by the box-counting method to quantitatively describe the roughness of the fracture surface. The results showed that the fracture toughness of diorite is significantly affected by the temperature at each mode mixity. When the temperature rises from 25 \u2103 to 200 \u2103, the fracture toughness at pure mode I is more sensitive to temperature. For the specimens heated under 600 \u2103, the reduction in fracture toughness at pure mode III is greater than that at mode I. The AE active period of diorite increases with the increase of temperature, indicating that the brittleness of diorite is weakened by high temperature. Moreover, for pure mode I fracture, the influence of temperature on the fractal dimension is limited. When mode III load is introduced, the fractal dimension is more obviously affected by the temperature and the fractal dimension increases with the increase of temperature. The findings provide new insights into the mechanism of mixed mode I/III fracture in heat-treated rocks.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222003159",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222003159"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222003159"
+        },
+        {
+            "title": "Multiaxial fatigue of forged Inconel 718 at room and high temperature",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Multiaxial fatigue of forged Inconel 718 at room and high temperature"
+            },
+            "summary": "<p><span><big>Multiaxial fatigue of forged Inconel 718 at room and high temperature</big></span><br /></p><p><span><small><i>V\u00edtor Nascimento, Cain\u00e3 Bemfica, Emmanuel Fessler, Jos\u00e9 Alexander Ara\u00fajo, F\u00e1bio Castro</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103547</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>This work investigates the effects of high temperature on the fatigue behavior of forged Inconel 718 under axial/torsional loading conditions. To this end, strain-controlled tension, torsion, and proportional fatigue tests were performed at 20&nbsp;\u00b0C and 450&nbsp;\u00b0C on thin-walled tubular specimens extracted from an as-forged turbine disk. All tests were conducted with axial and shear strain ratios equal to zero, and the applied equivalent von Mises strain amplitude was such to result in fatigue lives within the range of 104 to 106 cycles, which is the typical fatigue life of the component of interest in this study. It was observed that for a given loading condition and prescribed equivalent strain amplitude, the fatigue lives of tests at 450&nbsp;\u00b0C were longer than the room temperature tests. Moreover, the longest lives were observed in the torsion tests, followed by the proportional and tension tests in all temperature and prescribed equivalent strain amplitude tested. The capability of the cyclic plasticity model proposed by Chaboche in describing the cyclic response of Inconel 718 was also addressed. This model successfully simulated the stress\u2013strain behavior of this material under all loading conditions, and for both temperatures investigated. In addition, the cracking behavior of the material was examined. For both temperatures, the tension tests failed by Mode I tensile cracks, while Mode II shear cracks were observed in the torsion and proportional tests. After a scanning electron microscope analysis, it was concluded that the transgranular propagation mode was the predominant failure mechanism of all tested conditions. The fatigue life of Inconel 718 was predicted by the Fatemi\u2013Socie (FS) and the multiaxial version of the Smith\u2013Watson\u2013Topper (SWT) fatigue models, resulting in estimations within a factor-of-two and a factor-of-four, respectively. Moreover, crack directions were also determined by the critical plane models and compared with the orientation of the observed cracks. The SWT model correctly predicted the crack direction of the tension tests, while the FS model was more accurate in determining the orientation of the cracks seen in the torsion tests. None of the two models was able to correctly predict the angles of the critical plane in all tested loading conditions.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Multiaxial fatigue of forged Inconel 718 at room and high temperature</big></span><br /></p><p><span><small><i>V\u00edtor Nascimento, Cain\u00e3 Bemfica, Emmanuel Fessler, Jos\u00e9 Alexander Ara\u00fajo, F\u00e1bio Castro</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103547</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>This work investigates the effects of high temperature on the fatigue behavior of forged Inconel 718 under axial/torsional loading conditions. To this end, strain-controlled tension, torsion, and proportional fatigue tests were performed at 20&nbsp;\u00b0C and 450&nbsp;\u00b0C on thin-walled tubular specimens extracted from an as-forged turbine disk. All tests were conducted with axial and shear strain ratios equal to zero, and the applied equivalent von Mises strain amplitude was such to result in fatigue lives within the range of 104 to 106 cycles, which is the typical fatigue life of the component of interest in this study. It was observed that for a given loading condition and prescribed equivalent strain amplitude, the fatigue lives of tests at 450&nbsp;\u00b0C were longer than the room temperature tests. Moreover, the longest lives were observed in the torsion tests, followed by the proportional and tension tests in all temperature and prescribed equivalent strain amplitude tested. The capability of the cyclic plasticity model proposed by Chaboche in describing the cyclic response of Inconel 718 was also addressed. This model successfully simulated the stress\u2013strain behavior of this material under all loading conditions, and for both temperatures investigated. In addition, the cracking behavior of the material was examined. For both temperatures, the tension tests failed by Mode I tensile cracks, while Mode II shear cracks were observed in the torsion and proportional tests. After a scanning electron microscope analysis, it was concluded that the transgranular propagation mode was the predominant failure mechanism of all tested conditions. The fatigue life of Inconel 718 was predicted by the Fatemi\u2013Socie (FS) and the multiaxial version of the Smith\u2013Watson\u2013Topper (SWT) fatigue models, resulting in estimations within a factor-of-two and a factor-of-four, respectively. Moreover, crack directions were also determined by the critical plane models and compared with the orientation of the observed cracks. The SWT model correctly predicted the crack direction of the tension tests, while the FS model was more accurate in determining the orientation of the cracks seen in the torsion tests. None of the two models was able to correctly predict the angles of the critical plane in all tested loading conditions.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222002890",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222002890"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222002890"
+        },
+        {
+            "title": "Experimental studies on the effect of cyclic thermal shock and cooling methods on the mechanical properties and fracture behavior of prefabricated fis...",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Experimental studies on the effect of cyclic thermal shock and cooling methods on the mechanical properties and fracture behavior of prefabricated fis..."
+            },
+            "summary": "<p><span><big>Experimental studies on the effect of cyclic thermal shock and cooling methods on the mechanical properties and fracture behavior of prefabricated fissured sandstone</big></span><br /></p><p><span><small><i>Man Li, Xianshan Liu, Yuhua Pan, Shihao Qiao, ... Ziyu Hao</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103576</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>The construction of sandstone thermal storage systems and the evaluation of their long-term stability are of great significance to the development of geothermal energy. In this study, the effect of the number of thermal shocks and cooling methods on the mechanical properties and fracture behavior of sandstone containing a single prefabricated fissure was investigated. The experimental results show that as the number of thermal shocks increases, the peak stress and elastic modulus of the fissured sandstone gradually decrease, and show a very good exponential functional relationship. The first thermal shock weakens the mechanical properties of fissured sandstone most severely, and the deterioration effect of mechanical properties is significantly slowed down when the number of thermal shocks exceeds 4. In addition, compared with water cooling, the reduction of the mechanical properties of fissured sandstone by air cooling is lower. As the cooling water temperature decreases, the thermal shock effect of the fissured sandstone is more severe, resulting in more significant damage. An empirical formula considering the number of thermal shocks and cooling water temperature is proposed to characterize the damage to the fissured sandstone. The crack initiation of fissured sandstone under uniaxial compression subjected to different thermal shocks is dominated by tensile failure (wing crack). As the number of thermal shocks increases and the cooling water temperature decreases, the initial crack modes gradually change from T1 to T2, or a more complex pattern. Subsequently, the thermal shock process of fissured sandstone is simulated in COMSOL Multiphysics. The effect of heat transfer coefficient and cooling water temperature on the temperature field and stress field in fissured sandstone are discussed, and the reasons for the thermal cracking of the fissured sandstone under thermal shock are revealed.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Experimental studies on the effect of cyclic thermal shock and cooling methods on the mechanical properties and fracture behavior of prefabricated fissured sandstone</big></span><br /></p><p><span><small><i>Man Li, Xianshan Liu, Yuhua Pan, Shihao Qiao, ... Ziyu Hao</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103576</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>The construction of sandstone thermal storage systems and the evaluation of their long-term stability are of great significance to the development of geothermal energy. In this study, the effect of the number of thermal shocks and cooling methods on the mechanical properties and fracture behavior of sandstone containing a single prefabricated fissure was investigated. The experimental results show that as the number of thermal shocks increases, the peak stress and elastic modulus of the fissured sandstone gradually decrease, and show a very good exponential functional relationship. The first thermal shock weakens the mechanical properties of fissured sandstone most severely, and the deterioration effect of mechanical properties is significantly slowed down when the number of thermal shocks exceeds 4. In addition, compared with water cooling, the reduction of the mechanical properties of fissured sandstone by air cooling is lower. As the cooling water temperature decreases, the thermal shock effect of the fissured sandstone is more severe, resulting in more significant damage. An empirical formula considering the number of thermal shocks and cooling water temperature is proposed to characterize the damage to the fissured sandstone. The crack initiation of fissured sandstone under uniaxial compression subjected to different thermal shocks is dominated by tensile failure (wing crack). As the number of thermal shocks increases and the cooling water temperature decreases, the initial crack modes gradually change from T1 to T2, or a more complex pattern. Subsequently, the thermal shock process of fissured sandstone is simulated in COMSOL Multiphysics. The effect of heat transfer coefficient and cooling water temperature on the temperature field and stress field in fissured sandstone are discussed, and the reasons for the thermal cracking of the fissured sandstone under thermal shock are revealed.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222003202",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222003202"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222003202"
+        },
+        {
+            "title": "Assessment of thermal effect on the fracture toughness of granite",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Assessment of thermal effect on the fracture toughness of granite"
+            },
+            "summary": "<p><span><big>Assessment of thermal effect on the fracture toughness of granite</big></span><br /></p><p><span><small><i>Wenhua Wang, Yao Yao, Peijun Guo</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103575</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>The effect of temperature on rock properties has attacked wide attention with the development of deep earth engineering. The change of temperature results in brittle-ductile transformation and makes the fracture toughness different. In the current study, a modified elastic\u2013plastic damage model is proposed to predict the constitutive relation of granite in tension at different temperatures. The model is applied to predict the J-integral of a double-edge-notched plate. Unloading at the point where slope of the secant line is 0.95 times of the initial linear segment slope, the elastic and plastic part of the J-integral can be distinguished. It is noted that the J-integral decreases with elevated temperature and the downward trend changes obviously at around 600&nbsp;\u00b0C. The plastic part takes 57\u201373&nbsp;% of the total J-integral for quasi-brittle materials at different temperatures. The fracture toughness predicted based on different methods is compared, it shows that the fracture toughness predicted by the J-integral method is about 1.43 times of the ASTM load-based method.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Assessment of thermal effect on the fracture toughness of granite</big></span><br /></p><p><span><small><i>Wenhua Wang, Yao Yao, Peijun Guo</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103575</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>The effect of temperature on rock properties has attacked wide attention with the development of deep earth engineering. The change of temperature results in brittle-ductile transformation and makes the fracture toughness different. In the current study, a modified elastic\u2013plastic damage model is proposed to predict the constitutive relation of granite in tension at different temperatures. The model is applied to predict the J-integral of a double-edge-notched plate. Unloading at the point where slope of the secant line is 0.95 times of the initial linear segment slope, the elastic and plastic part of the J-integral can be distinguished. It is noted that the J-integral decreases with elevated temperature and the downward trend changes obviously at around 600&nbsp;\u00b0C. The plastic part takes 57\u201373&nbsp;% of the total J-integral for quasi-brittle materials at different temperatures. The fracture toughness predicted based on different methods is compared, it shows that the fracture toughness predicted by the J-integral method is about 1.43 times of the ASTM load-based method.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222003196",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222003196"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222003196"
+        },
+        {
+            "title": "Research on the effect of loading rate on the fracture characteristics of granite using cracked straight through Brazilian disc specimens",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Research on the effect of loading rate on the fracture characteristics of granite using cracked straight through Brazilian disc specimens"
+            },
+            "summary": "<p><span><big>Research on the effect of loading rate on the fracture characteristics of granite using cracked straight through Brazilian disc specimens</big></span><br /></p><p><span><small><i>Qin Xie, Daolong Chen, Xiling Liu, Yuan Zeng</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103581</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>The loading rate effect is an important mechanical property affecting the failure mechanism of rock materials. In this paper, the effect of loading rate on the mode I fracture characteristics of granite was studied by using Cracked Straight Through Brazilian Disc (CSTBD) specimen. The acoustic emission (AE) and Digital Image Correlation (DIC) techniques were used to monitor the fracture behavior of the specimen. Due to the nonlinearity of specimen deformation, the tested fracture toughness was corrected by equivalent energy method. The test results show that the equivalent fracture toughness has obvious rate dependency effect. Meanwhile, the crack tip opening displacement increases with the increase of the loading rate at low loading rate, and decreases with the increase of the loading rate when the loading rate reaches a certain value. The AE results show that the relationship between the cumulative energy of AE signals and the loading time can be well fitted by the power-law function, and the power exponent gradually decreases with the increase of loading rate. Moreover, b value decreases with the increase of loading rate, and there is a negative linear correlation between b value and fracture toughness. These indicate that with the increase of loading rate, the cracking process of the specimen gradually changes from that dominated by small-scale failure to that dominated by large-scale failure, and more fracture energy is needed for instability failure of specimens. In addition, the relationship between b value and fracture toughness can provide the possibility for estimating the equivalent fracture toughness of the material by the b value obtained from the AE test.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Research on the effect of loading rate on the fracture characteristics of granite using cracked straight through Brazilian disc specimens</big></span><br /></p><p><span><small><i>Qin Xie, Daolong Chen, Xiling Liu, Yuan Zeng</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103581</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>The loading rate effect is an important mechanical property affecting the failure mechanism of rock materials. In this paper, the effect of loading rate on the mode I fracture characteristics of granite was studied by using Cracked Straight Through Brazilian Disc (CSTBD) specimen. The acoustic emission (AE) and Digital Image Correlation (DIC) techniques were used to monitor the fracture behavior of the specimen. Due to the nonlinearity of specimen deformation, the tested fracture toughness was corrected by equivalent energy method. The test results show that the equivalent fracture toughness has obvious rate dependency effect. Meanwhile, the crack tip opening displacement increases with the increase of the loading rate at low loading rate, and decreases with the increase of the loading rate when the loading rate reaches a certain value. The AE results show that the relationship between the cumulative energy of AE signals and the loading time can be well fitted by the power-law function, and the power exponent gradually decreases with the increase of loading rate. Moreover, b value decreases with the increase of loading rate, and there is a negative linear correlation between b value and fracture toughness. These indicate that with the increase of loading rate, the cracking process of the specimen gradually changes from that dominated by small-scale failure to that dominated by large-scale failure, and more fracture energy is needed for instability failure of specimens. In addition, the relationship between b value and fracture toughness can provide the possibility for estimating the equivalent fracture toughness of the material by the b value obtained from the AE test.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222003251",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222003251"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222003251"
+        },
+        {
+            "title": "Prediction of fatigue life of TC4 titanium alloy based on normalized equivalent initial flaw size model",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Prediction of fatigue life of TC4 titanium alloy based on normalized equivalent initial flaw size model"
+            },
+            "summary": "<p><span><big>Prediction of fatigue life of TC4 titanium alloy based on normalized equivalent initial flaw size model</big></span><br /></p><p><span><small><i>Jundong Wang, Hao Lu, Zhixun Wen, Yeda Lian, ... Zhufeng Yue</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103563</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>Ti-6Al-4&nbsp;V (TC4) is the primary and most widely used titanium alloy in the aerospace industry, mainly for the manufacture of engines and high temperature load-bearing elements in aircraft structural components. In this study, fatigue life and fatigue crack growth (FCG) rate tests of TC4 were carried out at different temperatures and stress ratios. The effect of temperature on the fatigue mechanical properties of TC4 titanium alloy materials was investigated analyzing the test results. The fatigue limit and FCG threshold were obtained from experiments. By the using equivalent initial flaw size method, the growth behavior of small cracks were incorporates in macroscopic FCG rate and a method to predict the fatigue life of TC4 at different temperatures was established. The parameters in the proposed model have a clear physical meaning and can be determined by experiment. Finally, the fatigue test data of TC4 titanium alloy under different test conditions are used to verify the proposed fatigue life prediction model and the prediction results have reasonable accuracy with the test results.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Prediction of fatigue life of TC4 titanium alloy based on normalized equivalent initial flaw size model</big></span><br /></p><p><span><small><i>Jundong Wang, Hao Lu, Zhixun Wen, Yeda Lian, ... Zhufeng Yue</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103563</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>Ti-6Al-4&nbsp;V (TC4) is the primary and most widely used titanium alloy in the aerospace industry, mainly for the manufacture of engines and high temperature load-bearing elements in aircraft structural components. In this study, fatigue life and fatigue crack growth (FCG) rate tests of TC4 were carried out at different temperatures and stress ratios. The effect of temperature on the fatigue mechanical properties of TC4 titanium alloy materials was investigated analyzing the test results. The fatigue limit and FCG threshold were obtained from experiments. By the using equivalent initial flaw size method, the growth behavior of small cracks were incorporates in macroscopic FCG rate and a method to predict the fatigue life of TC4 at different temperatures was established. The parameters in the proposed model have a clear physical meaning and can be determined by experiment. Finally, the fatigue test data of TC4 titanium alloy under different test conditions are used to verify the proposed fatigue life prediction model and the prediction results have reasonable accuracy with the test results.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S016784422200307X",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S016784422200307X"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S016784422200307X"
+        },
+        {
+            "title": "Experimental study on the energy evolution law during crack propagation of cracked rock mass under impact loads",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Experimental study on the energy evolution law during crack propagation of cracked rock mass under impact loads"
+            },
+            "summary": "<p><span><big>Experimental study on the energy evolution law during crack propagation of cracked rock mass under impact loads</big></span><br /></p><p><span><small><i>Xianshang Zhang, Leijun Ma, Zheming Zhu, Lei Zhou, ... Tao Peng</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103579</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>Rock dynamic fracture is usually accompanied by numerous energy loss, to reveal energy evolution laws during rock dynamic fracture, the single cleavage triangle (SCT) specimens made by two types of sandstone are implemented to conduct dynamic fracture tests by using the split Hopkinson pressure bar (SHPB) device. The dynamic stress distribution law and the energy evolution law can be obtained according to the strain history of cracked rock mass subjected to impact loads. Crack propagation gauges (CPG) were applied to measure crack propagation speed, dynamic stress intensity factor (DSIF) and dynamic energy release rate can be determined by using an experimental\u2013numerical method with the help of the software COSMOL. The experimental results show a physical pseudo-healing of the crack due to the short closure of the crack after its arrest under impact loads. The crack propagation speed and the DSIF show a certain oscillatory with the increase of crack length, the DSIFs at crack initiation are 0.2&nbsp;\u223c&nbsp;0.8 of the maximum value. The history of dissipated energy has a slow decrease after they reach a peak during 300&nbsp;\u03bcs&nbsp;\u223c&nbsp;350&nbsp;\u03bcs, whose curves after the peak contain two stages: stage I is that the absorbed energy of the SCT specimen is mainly transformed into the transmitted energy; stage II is that it will be reflected energy. The input energy overtakes the consumed energy by new crack formation to drive the crack propagation and the test results of sandstone specimens show that 2.11&nbsp;\u2030 to 4.44&nbsp;\u2030 dissipated energy is implemented to drive crack propagation. The energy and stress are released more significantly around the crack tip before the crack arrest.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Experimental study on the energy evolution law during crack propagation of cracked rock mass under impact loads</big></span><br /></p><p><span><small><i>Xianshang Zhang, Leijun Ma, Zheming Zhu, Lei Zhou, ... Tao Peng</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103579</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>Rock dynamic fracture is usually accompanied by numerous energy loss, to reveal energy evolution laws during rock dynamic fracture, the single cleavage triangle (SCT) specimens made by two types of sandstone are implemented to conduct dynamic fracture tests by using the split Hopkinson pressure bar (SHPB) device. The dynamic stress distribution law and the energy evolution law can be obtained according to the strain history of cracked rock mass subjected to impact loads. Crack propagation gauges (CPG) were applied to measure crack propagation speed, dynamic stress intensity factor (DSIF) and dynamic energy release rate can be determined by using an experimental\u2013numerical method with the help of the software COSMOL. The experimental results show a physical pseudo-healing of the crack due to the short closure of the crack after its arrest under impact loads. The crack propagation speed and the DSIF show a certain oscillatory with the increase of crack length, the DSIFs at crack initiation are 0.2&nbsp;\u223c&nbsp;0.8 of the maximum value. The history of dissipated energy has a slow decrease after they reach a peak during 300&nbsp;\u03bcs&nbsp;\u223c&nbsp;350&nbsp;\u03bcs, whose curves after the peak contain two stages: stage I is that the absorbed energy of the SCT specimen is mainly transformed into the transmitted energy; stage II is that it will be reflected energy. The input energy overtakes the consumed energy by new crack formation to drive the crack propagation and the test results of sandstone specimens show that 2.11&nbsp;\u2030 to 4.44&nbsp;\u2030 dissipated energy is implemented to drive crack propagation. The energy and stress are released more significantly around the crack tip before the crack arrest.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222003238",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222003238"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222003238"
+        },
+        {
+            "title": "Meso-scale numerical simulation of the effect of aggregate strength on damage and fracture of high-strength concrete under dynamic tensile loading",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Meso-scale numerical simulation of the effect of aggregate strength on damage and fracture of high-strength concrete under dynamic tensile loading"
+            },
+            "summary": "<p><span><big>Meso-scale numerical simulation of the effect of aggregate strength on damage and fracture of high-strength concrete under dynamic tensile loading</big></span><br /></p><p><span><small><i>Xiang Zhou, Youjun Xie, Xiaohui Zeng, Guangcheng Long, ... Li Yao</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103551</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>The dynamic mechanical behavior of high-strength concrete is sensitive to aggregate properties, thus an accurate description of the effect of aggregate strength on the dynamic tensile mechanical properties of high-strength concrete is essential to evaluate the structural stability of concrete. In this paper, a concrete meso-scale modeling framework was proposed based on discrete element method (DEM). The meso-scale model considered the three-dimensional meso-structure of concrete (coarse aggregate, mortar and interfacial transition zone), and the crushable aggregate model with realistic morphological characteristics was generated by the \u201cclump-cluster\u201d method. Based on this, the effects of aggregate strength on dynamic tensile properties and damage behavior of high strength concrete were quantitatively studied by splitting tensile test. The simulation results reveal the influence of aggregate strength and strain rate on the tensile properties of concrete at both macroscopic and mesoscopic levels, including dynamic deformation behavior, microcracks propagation mode and the proportion of different kinds of microcracks at different loading stages. The results show that the aggregate strength plays an important role in the dynamic tensile properties of concrete. The failure behavior of concrete and the damage degree of different components under dynamic tensile loading are influenced by the ratio of aggregate strength to mortar strength.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Meso-scale numerical simulation of the effect of aggregate strength on damage and fracture of high-strength concrete under dynamic tensile loading</big></span><br /></p><p><span><small><i>Xiang Zhou, Youjun Xie, Xiaohui Zeng, Guangcheng Long, ... Li Yao</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103551</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>The dynamic mechanical behavior of high-strength concrete is sensitive to aggregate properties, thus an accurate description of the effect of aggregate strength on the dynamic tensile mechanical properties of high-strength concrete is essential to evaluate the structural stability of concrete. In this paper, a concrete meso-scale modeling framework was proposed based on discrete element method (DEM). The meso-scale model considered the three-dimensional meso-structure of concrete (coarse aggregate, mortar and interfacial transition zone), and the crushable aggregate model with realistic morphological characteristics was generated by the \u201cclump-cluster\u201d method. Based on this, the effects of aggregate strength on dynamic tensile properties and damage behavior of high strength concrete were quantitatively studied by splitting tensile test. The simulation results reveal the influence of aggregate strength and strain rate on the tensile properties of concrete at both macroscopic and mesoscopic levels, including dynamic deformation behavior, microcracks propagation mode and the proportion of different kinds of microcracks at different loading stages. The results show that the aggregate strength plays an important role in the dynamic tensile properties of concrete. The failure behavior of concrete and the damage degree of different components under dynamic tensile loading are influenced by the ratio of aggregate strength to mortar strength.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222002956",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222002956"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222002956"
+        },
+        {
+            "title": "Research on dynamic cracking properties of cracked rock mass under the effect of thermal treatment",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Research on dynamic cracking properties of cracked rock mass under the effect of thermal treatment"
+            },
+            "summary": "<p><span><big>Research on dynamic cracking properties of cracked rock mass under the effect of thermal treatment</big></span><br /></p><p><span><small><i>Yuanfeng Jiang, Lei Zhou, Zheming Zhu, Leijun Ma, ... Yaojia Li</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103580</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>Deep fractured rock mass is more prone to failure with the coupling effect of suddenly dynamic disturbances loads (explosions, seismic waves, etc.) and high temperature environment conditions, these factors have a great effect on the dynamic stability of fractured rock mass. In the present study, some traditional cracked straight through Brazilian disc (CSTBD) specimens made of granite and sandstone were heated from 25&nbsp;\u00b0C to 700&nbsp;\u00b0C to obtain dynamic fracture properties of high temperature soft and hard rocks. A modified traditional split Hopkinson pressure bar (SHPB) was applied for dynamic fracture experiments under impact loads, high speed camera, digital image correlation (DIC) and fracture surface scanning technology were used to study the fracture morphology of the specimens, the dynamic damage mechanism of high temperature soft and hard rocks under impact loads was obtained. The test results indicate that high temperature can greatly affect the roughness of the fracture surfaces under impact loads during crack formation and propagation, and the fractal dimension increases with the increase of temperature. Observing the dynamic fracture strength and fracture toughness of the CSTBD specimens, it can be found that the strength of the granite decreases gradually with high temperature treatment, and the dynamic fracture strength of the green sandstone increases firstly and then gradually decreases. At 500&nbsp;\u00b0C\u2013600&nbsp;\u00b0C, the dynamic fracture strength of the two types of rocks decreases rapidly. Dynamic critical crack tip opening displacement of the specimens with different thermal temperatures increases with temperature, but the fracture process was similar and the cracks would follow the loading direction.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Research on dynamic cracking properties of cracked rock mass under the effect of thermal treatment</big></span><br /></p><p><span><small><i>Yuanfeng Jiang, Lei Zhou, Zheming Zhu, Leijun Ma, ... Yaojia Li</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103580</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>Deep fractured rock mass is more prone to failure with the coupling effect of suddenly dynamic disturbances loads (explosions, seismic waves, etc.) and high temperature environment conditions, these factors have a great effect on the dynamic stability of fractured rock mass. In the present study, some traditional cracked straight through Brazilian disc (CSTBD) specimens made of granite and sandstone were heated from 25&nbsp;\u00b0C to 700&nbsp;\u00b0C to obtain dynamic fracture properties of high temperature soft and hard rocks. A modified traditional split Hopkinson pressure bar (SHPB) was applied for dynamic fracture experiments under impact loads, high speed camera, digital image correlation (DIC) and fracture surface scanning technology were used to study the fracture morphology of the specimens, the dynamic damage mechanism of high temperature soft and hard rocks under impact loads was obtained. The test results indicate that high temperature can greatly affect the roughness of the fracture surfaces under impact loads during crack formation and propagation, and the fractal dimension increases with the increase of temperature. Observing the dynamic fracture strength and fracture toughness of the CSTBD specimens, it can be found that the strength of the granite decreases gradually with high temperature treatment, and the dynamic fracture strength of the green sandstone increases firstly and then gradually decreases. At 500&nbsp;\u00b0C\u2013600&nbsp;\u00b0C, the dynamic fracture strength of the two types of rocks decreases rapidly. Dynamic critical crack tip opening displacement of the specimens with different thermal temperatures increases with temperature, but the fracture process was similar and the cracks would follow the loading direction.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S016784422200324X",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S016784422200324X"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S016784422200324X"
+        },
+        {
+            "title": "Cohesive Crack Models and Finite Fracture Mechanics analytical solutions for FRP-concrete single-lap shear test: An overview",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Cohesive Crack Models and Finite Fracture Mechanics analytical solutions for FRP-concrete single-lap shear test: An overview"
+            },
+            "summary": "<p><span><big>Cohesive Crack Models and Finite Fracture Mechanics analytical solutions for FRP-concrete single-lap shear test: An overview</big></span><br /></p><p><span><small><i>P. Cornetti, M. Mu\u00f1oz-Reja, V. Manti\u010d</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103529</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>In the present paper we review and compare several analytical models describing the single-lap shear test, which is the most common test to determine the bonding behaviour between a strengthening FRP plates and the concrete substrate. The models are one-dimensional and formulated under the assumption that debonding occurs as a pure mode II cracking process throughout a zero-thickness interface between the FRP strip and the brittle substrate. As such, they are all amenable to an analytical treatment. The FRP-concrete interface is described by at most three parameters among the interfacial fracture energy, the tensile strength and the elastic stiffness. Particularly, we compare the effective bond length estimates provided by different models and compare them with the ones present in Design Codes. Finally, a comparison with experimental data sets available in the Scientific Literature is also given.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Cohesive Crack Models and Finite Fracture Mechanics analytical solutions for FRP-concrete single-lap shear test: An overview</big></span><br /></p><p><span><small><i>P. Cornetti, M. Mu\u00f1oz-Reja, V. Manti\u010d</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103529</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>In the present paper we review and compare several analytical models describing the single-lap shear test, which is the most common test to determine the bonding behaviour between a strengthening FRP plates and the concrete substrate. The models are one-dimensional and formulated under the assumption that debonding occurs as a pure mode II cracking process throughout a zero-thickness interface between the FRP strip and the brittle substrate. As such, they are all amenable to an analytical treatment. The FRP-concrete interface is described by at most three parameters among the interfacial fracture energy, the tensile strength and the elastic stiffness. Particularly, we compare the effective bond length estimates provided by different models and compare them with the ones present in Design Codes. Finally, a comparison with experimental data sets available in the Scientific Literature is also given.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222002749",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222002749"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222002749"
+        },
+        {
+            "title": "Sensitivity of the Master Curve reference temperature T0 to the crack front curvature",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Sensitivity of the Master Curve reference temperature T0 to the crack front curvature"
+            },
+            "summary": "<p><span><big>Sensitivity of the Master Curve reference temperature T0 to the crack front curvature</big></span><br /></p><p><span><small><i>S. Lindqvist, J. Kuutti</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103558</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>ASTM E1921 is a testing standard to determine the fracture toughness for ferritic steels in the ductile-to-brittle transition range. If the crack front curvature criterion in the standard is not fulfilled, the result is invalid, and more testing is required. However, previous investigations do not focus on quantifying the effect of curvature on Master Curve reference temperature, T0. The numerical and experimental analyses done in this study indicate that, for increasing crack front curvatures, the effect of curvature on T0 is marginal and the obtained T0 tends to provide a conservative estimate. Future investigations on large experimental data sets with the methods provided in this study would help to quantify the trends more in detail. The results contribute to the development of more cost-efficient testing methods and impact long-term operation of nuclear power plants.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Sensitivity of the Master Curve reference temperature T0 to the crack front curvature</big></span><br /></p><p><span><small><i>S. Lindqvist, J. Kuutti</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103558</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>ASTM E1921 is a testing standard to determine the fracture toughness for ferritic steels in the ductile-to-brittle transition range. If the crack front curvature criterion in the standard is not fulfilled, the result is invalid, and more testing is required. However, previous investigations do not focus on quantifying the effect of curvature on Master Curve reference temperature, T0. The numerical and experimental analyses done in this study indicate that, for increasing crack front curvatures, the effect of curvature on T0 is marginal and the obtained T0 tends to provide a conservative estimate. Future investigations on large experimental data sets with the methods provided in this study would help to quantify the trends more in detail. The results contribute to the development of more cost-efficient testing methods and impact long-term operation of nuclear power plants.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222003020",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222003020"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222003020"
+        },
+        {
+            "title": "Fracture propagation based on meshless method and energy release rate criterion extended to the Double Cantilever Beam adhesive joint test",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "Fracture propagation based on meshless method and energy release rate criterion extended to the Double Cantilever Beam adhesive joint test"
+            },
+            "summary": "<p><span><big>Fracture propagation based on meshless method and energy release rate criterion extended to the Double Cantilever Beam adhesive joint test</big></span><br /></p><p><span><small><i>D.C. Gon\u00e7alves, I.J. S\u00e1nchez-Arce, L.D.C. Ramalho, R.D.S.G. Campilho, J. Belinha</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103577</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>In this work, a numerical methodology based on a meshless technique is proposed to predict the fracture propagation in Double Cantilever Beam (DCB) adhesive joints. The Radial Point Interpolation Method (RPIM) is used to approximate the field variable at each crack increment step. The meshless method permits a flexible discretization of the problem domain in a set of unstructured field nodes and eases the implementation of the geometric crack propagation algorithm. Regarding the fracture propagation algorithm, a recent adaptative remeshing technique is used combined with the RPIM. The crack tip is explicitly propagated by locally remeshing the field nodes and triangular integration cells in the crack tip vicinity. To predict the crack initiation, a fracture mechanics criterion based on the energy release rate in DCB is implemented. The proposed numerical methodology is validated with experimental data.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "value": "<p><span><big>Fracture propagation based on meshless method and energy release rate criterion extended to the Double Cantilever Beam adhesive joint test</big></span><br /></p><p><span><small><i>D.C. Gon\u00e7alves, I.J. S\u00e1nchez-Arce, L.D.C. Ramalho, R.D.S.G. Campilho, J. Belinha</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.tafmec.2022.103577</i></small></span><br /><span><small><i>Volume 122</i></small></span><br /></p><p><span>In this work, a numerical methodology based on a meshless technique is proposed to predict the fracture propagation in Double Cantilever Beam (DCB) adhesive joints. The Radial Point Interpolation Method (RPIM) is used to approximate the field variable at each crack increment step. The meshless method permits a flexible discretization of the problem domain in a set of unstructured field nodes and eases the implementation of the geometric crack propagation algorithm. Regarding the fracture propagation algorithm, a recent adaptative remeshing technique is used combined with the RPIM. The crack tip is explicitly propagated by locally remeshing the field nodes and triangular integration cells in the crack tip vicinity. To predict the crack initiation, a fracture mechanics criterion based on the energy release rate in DCB is implemented. The proposed numerical methodology is validated with experimental data.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0167844222003214",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0167844222003214"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0167844222003214"
+        }
+    ],
+    "feed": {
+        "title": "Theoretical and Applied Fracture Mechanics",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+            "value": "Theoretical and Applied Fracture Mechanics"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/journal/theoretical-and-applied-fracture-mechanics"
+            },
+            {
+                "href": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+                "rel": "self",
+                "type": "application/rss+xml"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/journal/theoretical-and-applied-fracture-mechanics",
+        "subtitle": "Theoretical and Applied Fracture Mechanics - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)",
+        "subtitle_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+            "value": "Theoretical and Applied Fracture Mechanics - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"
+        },
+        "generator_detail": {
+            "name": "RSSHub"
+        },
+        "generator": "RSSHub",
+        "publisher": "i@diygod.me (DIYgod)",
+        "publisher_detail": {
+            "name": "DIYgod",
+            "email": "i@diygod.me"
+        },
+        "language": "zh-cn",
+        "updated": "Mon, 19 Sep 2022 16:05:05 GMT",
+        "updated_parsed": [
+            2022,
+            9,
+            19,
+            16,
+            5,
+            5,
+            0,
+            262,
+            0
+        ],
+        "ttl": "120"
+    },
+    "headers": {
+        "date": "Mon, 19 Sep 2022 16:05:06 GMT",
+        "content-type": "application/xml; charset=utf-8",
+        "transfer-encoding": "chunked",
+        "connection": "close",
+        "vary": "Accept-Encoding",
+        "access-control-allow-methods": "GET",
+        "access-control-allow-origin": "rsshub.app",
+        "cache-control": "public, max-age=7200",
+        "last-modified": "Mon, 19 Sep 2022 16:05:05 GMT",
+        "rsshub-node": "rss3",
+        "x-content-type-options": "nosniff",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "1",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=U0Px3xPF77rKPVtV1pYdUl9PcV3l%2BobbCQ8bbThukoR%2F8H9ER0TlB8QdX1SiLKYHRHmkbmU5e4NpdctHqp5NWdrXD%2BBhHUshhw7NVTdEyuaAGmCaBfdqZ6lwdQY%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "74d38f99de1f834a-KIX"
+    },
+    "updated": "Mon, 19 Sep 2022 16:05:05 GMT",
+    "updated_parsed": [
+        2022,
+        9,
+        19,
+        16,
+        5,
+        5,
+        0,
+        262,
+        0
+    ],
+    "href": "https://rsshub.app/elsevier/theoretical-and-applied-fracture-mechanics/latest",
+    "status": 200,
+    "encoding": "utf-8",
+    "version": "rss20",
+    "namespaces": {
+        "": "http://www.w3.org/2005/Atom"
+    }
+}
