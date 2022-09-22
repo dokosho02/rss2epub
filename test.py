@@ -1,10 +1,8 @@
-from Run import JournalRun
 from datetime import datetime
 
 # ------------------------------
 def main():
-    jr = JournalRun()
-    jr.run()
+    pass
 # ------------------------------
 if __name__ == '__main__':
     start = datetime.now()

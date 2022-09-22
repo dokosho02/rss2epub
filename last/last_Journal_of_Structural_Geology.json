@@ -312,6 +312,32 @@
                 }
             ],
             "link": "https://www.sciencedirect.com/science/article/pii/S0191814122002140"
+        },
+        {
+            "title": "The Structural Geology Query Toolkit for digital 3D models: Design custom immersive virtual field experiences",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/journal-of-structural-geology/latest",
+                "value": "The Structural Geology Query Toolkit for digital 3D models: Design custom immersive virtual field experiences"
+            },
+            "summary": "<p><span><big>The Structural Geology Query Toolkit for digital 3D models: Design custom immersive virtual field experiences</big></span><br /></p><p><span><small><i>Mattathias D. Needle, Jacky Mooc, John F. Akers, Juliet G. Crider</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.jsg.2022.104710</i></small></span><br /><span><small><i>Volume 163</i></small></span><br /></p><p><span>We introduce the Structural Geology Query Toolkit to enable geoscientists to produce bespoke video-game-style field experiences from their own 3D digital outcrop models. Beyond simple visualization, these tools permit users to query the digital model and extract structural data. The set of original pre-coded modules and detailed instructions includes visualization and tools that reproduce the experience of being at an outcrop with a measuring tape and a geodetic compass, with the added ability to fly over the outcrop, annotate the rock face, and instantly visualize topographic profiles and measured orientations on a stereonet. Data can be exported for further analysis with other software. The features of a virtual field experience are customizable and can be based on digital models of any scale. We selected the free, industry-standard Unity game engine so that the virtual field experience can be built to share on the internet or as free-standing applications for desktop computers, mobile devices, or virtual reality headsets. Our Toolkit is free and open source; we encourage collaboration and additional contributions to the tool library. The resulting virtual field experiences can enhance scientific collaboration, geoscience education and educational equity, and geoheritage preservation efforts.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/journal-of-structural-geology/latest",
+                "value": "<p><span><big>The Structural Geology Query Toolkit for digital 3D models: Design custom immersive virtual field experiences</big></span><br /></p><p><span><small><i>Mattathias D. Needle, Jacky Mooc, John F. Akers, Juliet G. Crider</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.jsg.2022.104710</i></small></span><br /><span><small><i>Volume 163</i></small></span><br /></p><p><span>We introduce the Structural Geology Query Toolkit to enable geoscientists to produce bespoke video-game-style field experiences from their own 3D digital outcrop models. Beyond simple visualization, these tools permit users to query the digital model and extract structural data. The set of original pre-coded modules and detailed instructions includes visualization and tools that reproduce the experience of being at an outcrop with a measuring tape and a geodetic compass, with the added ability to fly over the outcrop, annotate the rock face, and instantly visualize topographic profiles and measured orientations on a stereonet. Data can be exported for further analysis with other software. The features of a virtual field experience are customizable and can be based on digital models of any scale. We selected the free, industry-standard Unity game engine so that the virtual field experience can be built to share on the internet or as free-standing applications for desktop computers, mobile devices, or virtual reality headsets. Our Toolkit is free and open source; we encourage collaboration and additional contributions to the tool library. The resulting virtual field experiences can enhance scientific collaboration, geoscience education and educational equity, and geoheritage preservation efforts.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0191814122002024",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0191814122002024"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0191814122002024"
         }
     ],
     "feed": {
@@ -352,22 +378,22 @@
             "email": "i@diygod.me"
         },
         "language": "zh-cn",
-        "updated": "Mon, 19 Sep 2022 14:18:10 GMT",
+        "updated": "Tue, 20 Sep 2022 13:23:59 GMT",
         "updated_parsed": [
             2022,
             9,
-            19,
-            14,
-            18,
-            10,
-            0,
-            262,
+            20,
+            13,
+            23,
+            59,
+            1,
+            263,
             0
         ],
         "ttl": "120"
     },
     "headers": {
-        "date": "Mon, 19 Sep 2022 14:54:52 GMT",
+        "date": "Tue, 20 Sep 2022 13:59:14 GMT",
         "content-type": "application/xml; charset=utf-8",
         "transfer-encoding": "chunked",
         "connection": "close",
@@ -375,27 +401,27 @@
         "access-control-allow-methods": "GET",
         "access-control-allow-origin": "rsshub.app",
         "cache-control": "public, max-age=7200",
-        "last-modified": "Mon, 19 Sep 2022 14:18:10 GMT",
+        "last-modified": "Tue, 20 Sep 2022 13:23:59 GMT",
         "rsshub-node": "rss3",
         "x-content-type-options": "nosniff",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "2202",
-        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=eNF5Db4gBHHE0jZl4J6%2Bs4mt5pf3tVUF0Qgj4MeD2wWAOnHegmROhSFt83wTjt9fpydYmfURKeeO5iNAVtFV7NGHR3iOxqODJ0Q1X9eLyzKDIt5knApK0Dk0m%2BA%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "age": "2115",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=1ASvKlkoWIaSlytCXistcceLJkRRqycaxErbD6Ql5SBr0TAlNyEEIwAzs0LdyMUCS%2Fhf8u2BQBCOjo1AWDg19HGeckReqrHuwmmYqXogWt%2Fszl1kMqlLtlL96Z4%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
         "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
         "server": "cloudflare",
-        "cf-ray": "74d328b71e3c8cf2-KIX"
+        "cf-ray": "74db149dcd668311-KIX"
     },
-    "updated": "Mon, 19 Sep 2022 14:18:10 GMT",
+    "updated": "Tue, 20 Sep 2022 13:23:59 GMT",
     "updated_parsed": [
         2022,
         9,
-        19,
-        14,
-        18,
-        10,
-        0,
-        262,
+        20,
+        13,
+        23,
+        59,
+        1,
+        263,
         0
     ],
     "href": "https://rsshub.app/elsevier/journal-of-structural-geology/latest",

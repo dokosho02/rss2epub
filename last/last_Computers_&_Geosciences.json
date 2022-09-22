@@ -1,0 +1,122 @@
+{
+    "bozo": false,
+    "entries": [
+        {
+            "title": "Continuous-discrete hybrid Bayesian network models for predicting earthquake-induced liquefaction based on the Vs database",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/computers-and-geosciences/latest",
+                "value": "Continuous-discrete hybrid Bayesian network models for predicting earthquake-induced liquefaction based on the Vs database"
+            },
+            "summary": "<p><span><big>Continuous-discrete hybrid Bayesian network models for predicting earthquake-induced liquefaction based on the Vs database</big></span><br /></p><p><span><small><i>Jilei Hu, Jing Wang, Zheng Zhang, Huabei Liu</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.cageo.2022.105231</i></small></span><br /><span><small><i>Volume 169</i></small></span><br /></p><p><span>The Bayesian network (BN) method has been increasingly applied in predicting earthquake-induced liquefaction. Nonetheless, the existing BN models treat all factors of liquefaction, including discrete and continuous variables, as discrete variables using different discretization approaches in the prediction of earthquake-induced liquefaction. Information loss may occur in the discretization process of the continuous variables, which reduces the predictive accuracy of the BN model. To tackle this issue, a shear wave velocity (Vs) database is taken as an example in this study for developing mixed continuous-discrete BN models to improve the predictive accuracy of earthquake-induced liquefaction. First, the discrete and continuous variables are distinguished and the continuous variables are tested whether they approximately obey the Gaussian distribution. Second, discrete variables (e.g., liquefaction potential as binary variables) and continuous variables are simultaneously considered in structural modeling. Then, the conditional linear Gaussian distribution and Markov chain Monte Carlo approaches are used to construct two hybrid BN models. A 10-fold cross-validation test is used to demonstrate that the performance of the hybrid BN models is better than those of the discrete BN models or other methods such as logistic regression, artificial neural network, support vector machine, and na\u00efve Bayes. The hybrid BN models are applied to the 2010\u20132011 Canterbury earthquake sequence to demonstrate their generalizability. This study finally discusses the difference in information loss and computational cost between the discrete and hybrid BN models.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/computers-and-geosciences/latest",
+                "value": "<p><span><big>Continuous-discrete hybrid Bayesian network models for predicting earthquake-induced liquefaction based on the Vs database</big></span><br /></p><p><span><small><i>Jilei Hu, Jing Wang, Zheng Zhang, Huabei Liu</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.cageo.2022.105231</i></small></span><br /><span><small><i>Volume 169</i></small></span><br /></p><p><span>The Bayesian network (BN) method has been increasingly applied in predicting earthquake-induced liquefaction. Nonetheless, the existing BN models treat all factors of liquefaction, including discrete and continuous variables, as discrete variables using different discretization approaches in the prediction of earthquake-induced liquefaction. Information loss may occur in the discretization process of the continuous variables, which reduces the predictive accuracy of the BN model. To tackle this issue, a shear wave velocity (Vs) database is taken as an example in this study for developing mixed continuous-discrete BN models to improve the predictive accuracy of earthquake-induced liquefaction. First, the discrete and continuous variables are distinguished and the continuous variables are tested whether they approximately obey the Gaussian distribution. Second, discrete variables (e.g., liquefaction potential as binary variables) and continuous variables are simultaneously considered in structural modeling. Then, the conditional linear Gaussian distribution and Markov chain Monte Carlo approaches are used to construct two hybrid BN models. A 10-fold cross-validation test is used to demonstrate that the performance of the hybrid BN models is better than those of the discrete BN models or other methods such as logistic regression, artificial neural network, support vector machine, and na\u00efve Bayes. The hybrid BN models are applied to the 2010\u20132011 Canterbury earthquake sequence to demonstrate their generalizability. This study finally discusses the difference in information loss and computational cost between the discrete and hybrid BN models.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0098300422001807",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0098300422001807"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0098300422001807"
+        }
+    ],
+    "feed": {
+        "title": "Computers & Geosciences",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rsshub.app/elsevier/computers-and-geosciences/latest",
+            "value": "Computers & Geosciences"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sciencedirect.com/journal/computers-and-geosciences"
+            },
+            {
+                "href": "https://rsshub.app/elsevier/computers-and-geosciences/latest",
+                "rel": "self",
+                "type": "application/rss+xml"
+            }
+        ],
+        "link": "https://www.sciencedirect.com/journal/computers-and-geosciences",
+        "subtitle": "Computers & Geosciences - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)",
+        "subtitle_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rsshub.app/elsevier/computers-and-geosciences/latest",
+            "value": "Computers & Geosciences - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"
+        },
+        "generator_detail": {
+            "name": "RSSHub"
+        },
+        "generator": "RSSHub",
+        "publisher": "i@diygod.me (DIYgod)",
+        "publisher_detail": {
+            "name": "DIYgod",
+            "email": "i@diygod.me"
+        },
+        "language": "zh-cn",
+        "updated": "Thu, 22 Sep 2022 11:10:58 GMT",
+        "updated_parsed": [
+            2022,
+            9,
+            22,
+            11,
+            10,
+            58,
+            3,
+            265,
+            0
+        ],
+        "ttl": "120"
+    },
+    "headers": {
+        "date": "Thu, 22 Sep 2022 11:10:58 GMT",
+        "content-type": "application/xml; charset=utf-8",
+        "transfer-encoding": "chunked",
+        "connection": "close",
+        "vary": "Accept-Encoding",
+        "access-control-allow-methods": "GET",
+        "access-control-allow-origin": "rsshub.app",
+        "cache-control": "public, max-age=7200",
+        "last-modified": "Thu, 22 Sep 2022 11:10:58 GMT",
+        "rsshub-node": "rss3",
+        "x-content-type-options": "nosniff",
+        "content-encoding": "gzip",
+        "cf-cache-status": "HIT",
+        "age": "0",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=cqhu2dsdU%2BoLM7Dv0XL2LRSau%2FhLwVliRoCpXfSJuVKpcCG7Ml%2BBukU0uvXCYiT9jqjwCYlnb0%2B2M3nYsyRhpK%2Bt6ixIRK%2Furdb8kaUCO2PPYc11n22dD2ghfPc%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+        "server": "cloudflare",
+        "cf-ray": "74ea98e1b88d8314-KIX"
+    },
+    "updated": "Thu, 22 Sep 2022 11:10:58 GMT",
+    "updated_parsed": [
+        2022,
+        9,
+        22,
+        11,
+        10,
+        58,
+        3,
+        265,
+        0
+    ],
+    "href": "https://rsshub.app/elsevier/computers-and-geosciences/latest",
+    "status": 200,
+    "encoding": "utf-8",
+    "version": "rss20",
+    "namespaces": {
+        "": "http://www.w3.org/2005/Atom"
+    }
+}

@@ -6,7 +6,6 @@ from glob import glob
 
 
 from ePubRSS import RSS
-from Journals import journalRSS
 from DailyRSS import rssListDaily
 
 # -------------------
@@ -61,10 +60,6 @@ class Run():
         # end = datetime.now()
         # timeDuration = str(end - start).zfill(4)
         # logger.info( 'Total time -- {}'.format(timeDuration) )
-# -------------------------------------
-class JournalRun(Run):
-    def __init__(self):
-        self.rssList = journalRSS
 # ----------------------
 class DailyRun(Run):
     def __init__(self):
@@ -74,3 +69,18 @@ class DailyRun(Run):
 #     def __init__(self):
 #         self.rssList = rssListWeekly
 
+# ----------------------
+def main():
+    dr = DailyRun()
+    dr.run()
+# ----------------------
+if __name__ == '__main__':
+    start = datetime.now()
+    print(start)
+    # --------------
+    main()
+    # --------------
+    end = datetime.now()
+    timeDuration = str(end - start).zfill(4)
+    print(end)
+    print( 'Total time -- {}'.format(timeDuration) )

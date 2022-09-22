@@ -7,15 +7,15 @@ rssListDaily = [
     # 'https://www.iyd.wang/feed/',          # 爱悦读网
     # 'https://bookzhai.com/feed',           # bookZhai
     'https://biz.trans-suite.jp/feed',               # TRANS.Biz
-    'http://koshoken.seesaa.net/index.rdf',          # 京都古書研究会ブログ
+    # 'http://koshoken.seesaa.net/index.rdf',          # 京都古書研究会ブログ
    'http://www.kyoto-u.ac.jp/ja/RSS',               # 京都大学
-   "https://rsshub.app/zhihu/hotlist",              # 知乎热榜 
-   "https://rsshub.app/zhihu/daily",                # 知乎日报
+    #"https://rsshub.app/zhihu/hotlist",              # 知乎热榜 
+    #"https://rsshub.app/zhihu/daily",                # 知乎日报
 #   "http://feed.williamlong.info/",                 # 月光博客
 #   "http://www.weiphone.com/rss.xml",               # 威锋网-首页
-   "https://www.pythoncheatsheet.org/latest/feed/", # Python
-    "https://www.raywenderlich.com/android/feed/",   # Android
-    "https://blog.kotlin-academy.com/feed/",         # kotlin
+   # "https://www.pythoncheatsheet.org/latest/feed/", # Python
+   # "https://www.raywenderlich.com/android/feed/",   # Android
+   # "https://blog.kotlin-academy.com/feed/",         # kotlin
    #'https://rsshub.app/nhk/news_web_easy'           # NHK News
 ]
 

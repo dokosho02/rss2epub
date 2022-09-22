@@ -9,6 +9,7 @@ import time
 
 from ebooklib import epub
 
+# customize
 from Style import Style
 from Article import Article
 from util import readJsonContent, bcolors
@@ -31,7 +32,7 @@ class RSS():
         self.lastFolder = "last"
         self.jsonFolder = "json"
         self.epubFolder = "epub"
-        self.lastRSS    = ""
+        self.lastRSS    = ""    # json file
         
         # 
         self.createFolders()
@@ -51,17 +52,18 @@ class RSS():
         self.feedSaved = feedparser.parse(self.rssLink)
 
         print( self.feed.keys() )
-        # logger.debug(self.feed)
-
+        #logger.debug(self.feed)
+        print( self.feed["feed"].keys() )
         self.getUpdateTime()
 
         self.feedTitle = ( self.feed['feed']['title'].split(' - ') )[0]
-        
+        self.feedTitleProcessed = self.feedTitle.replace( " ", "_" ) 
+
         z = len( self.feed['entries'] )
         print(f"{bcolors.HEADER}{self.feedTitle}{bcolors.ENDC}")
-        logger.success("-"*2 + " entries in this feed ---- {}".format( z ) )
+        logger.success("-"*2 + f" entries in this feed ---- {z}" )
 
-        self.lastRSS = os.path.join( self.lastFolder, f"last_{self.feedTitle}.json")
+        self.lastRSS = os.path.join( self.lastFolder, f"last_{self.feedTitleProcessed}.json")
         logger.debug(self.lastRSS)
 
         # feedTime processing for format
@@ -70,16 +72,16 @@ class RSS():
         self.keepLatestUpdate()
 
         self.updateNo = len( self.feed['entries'] )
-        logger.success("-"*2 + " update(s) in this feed ---- {}".format( self.updateNo ) )
+        logger.success("-"*2 + f" update(s) in this feed ---- {self.updateNo}" )
 
         if self.updateNo > 0:
             for i in range(self.updateNo):
                 title = self.feed['entries'][i]['title']
-                print( "{0} -- {1}".format(i+1, title) )
+                # print( "{0} -- {1}".format(i+1, title) )
 
             # save current update content
             feedJson = json.dumps(self.feed, indent=4)
-            self.storeRSS = os.path.join(self.jsonFolder, f"{self.feedTitle}-{self.feedTime}.json")
+            self.storeRSS = os.path.join(self.jsonFolder, f"{self.feedTitleProcessed}-{self.feedTime}.json")
             f = codecs.open(self.storeRSS, 'w', encoding='utf-8')        
             f.write(feedJson)
             f.close()
@@ -103,13 +105,13 @@ class RSS():
                 logger.debug(tempTime)
                 if len(tempTime) > 0:
                     y, m, d, h, mi, s, wd, yd, dst = map(str, tempTime)
-                    updateTime = '_'.join( [y.zfill(4), m.zfill(2), d.zfill(2), h.zfill(2), mi.zfill(2), s.zfill(2) ] )
+                    updateTime = '_'.join( [y.zfill(4), f"{m.zfill(2)}{d.zfill(2)}", f"{h.zfill(2)}{mi.zfill(2)}", s.zfill(2) ] )
 
         except:
             updateTime = "today"
 
 
-        logger.info( "- "*2 +  updateTime )
+        logger.info( "- "*2 + updateTime )
         self.updateTime = updateTime
     # --------------------------
     def saveUpdateInfo(self):
@@ -126,7 +128,7 @@ class RSS():
             logger.trace(z)
             for i in range( z ):
                 title = self.lastJsonContent['entries'][i]['title']
-                print("{0} -- {1}".format(i+1, title) )
+                # print("{0} -- {1}".format(i+1, title) )
 
             duplicateIndex = []
             for i in range( len(self.lastJsonContent['entries']) ):
@@ -139,7 +141,7 @@ class RSS():
             if len(duplicateIndex) > 0:
                 duplicateIndex.sort()
                 tp['entries']=tp['entries'][: duplicateIndex[0] ]
-                logger.info("Removing duplicates...")
+                print("Removing duplicates...")
                 
                 # if len(duplicateIndex) == len(self.feed['entries']):
                 #     logger.info("No updates...\nKeep the last json file...")
@@ -154,11 +156,10 @@ class RSS():
     def json2epub(self):
         jsonContent = readJsonContent(self.storeRSS)
 
-        self.bookTitle = jsonContent['feed']['title'].split(' - ')[0] + ' (' + self.updateTime + ')'
+        self.bookTitle = f"""{jsonContent['feed']['title'].split(' - ')[0]} ({self.updateTime})"""
 
         book = epub.EpubBook()
         book.set_title(self.bookTitle)
-        # book.add_author('Liu Bin Chan')
 
         # css
         style = Style()
@@ -203,9 +204,9 @@ class RSS():
         for i in chapters:
             book.spine.append(i)
 
-        # create epub file
+        # write to epub file
         epubFileName = self.feedTitle.replace(" ", "_").replace("|", "_").replace(",","_").replace(":", "_").replace("__", "_")
-        epubFile = os.path.join(self.epubFolder,  epubFileName + '-' + self.feedTime + '.epub')
+        epubFile = os.path.join(self.epubFolder, f"{epubFileName}-{self.feedTime}.epub")
         epub.write_epub(epubFile, book)
 
 
@@ -215,7 +216,7 @@ class RSS():
 
 """
 Todos
-- time format   - updated_parsed
+- time format - updated_parsed
 - make emoji smaller
 - keep the original image extension
 

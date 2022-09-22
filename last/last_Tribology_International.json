@@ -496,6 +496,32 @@
             "link": "https://www.sciencedirect.com/science/article/pii/S0301679X22004662"
         },
         {
+            "title": "Tribological performance based machinability investigations of Al2O3-ZrO2 ceramic cutting tool in dry machining of Ti-6Al-4V alloy",
+            "title_detail": {
+                "type": "text/plain",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/tribology-international/latest",
+                "value": "Tribological performance based machinability investigations of Al2O3-ZrO2 ceramic cutting tool in dry machining of Ti-6Al-4V alloy"
+            },
+            "summary": "<p><span><big>Tribological performance based machinability investigations of Al2O3-ZrO2 ceramic cutting tool in dry machining of Ti-6Al-4V alloy</big></span><br /></p><p><span><small><i>Hariketan Patel, Hiralal Patil</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.triboint.2022.107776</i></small></span><br /><span><small><i>Volume 176</i></small></span><br /></p><p><span>Titanium alloys in dry machining interacts with cutting tool, resulting in rapid tool wear, and poor surface quality. A highly chemically stable Al2O3-ZrO2 ceramic insert was used to examine the effect of cutting speed, depth of cut, and feed rate, on performance measures of surface roughness, and tool wear mechanism. The result shows that the primary tool wear mechanism is abrasion and chipping when cutting speed and depth of cut both at low level, while diffusion at the crater, resulting formation of built-up-edge leads to catastrophic tool fracture at high level of cutting speed and depth of cut. The surface roughness is enhanced by 69.6% when cutting speed is at high level and depth of cut at low level.</span><br /></p>",
+            "summary_detail": {
+                "type": "text/html",
+                "language": null,
+                "base": "https://rsshub.app/elsevier/tribology-international/latest",
+                "value": "<p><span><big>Tribological performance based machinability investigations of Al2O3-ZrO2 ceramic cutting tool in dry machining of Ti-6Al-4V alloy</big></span><br /></p><p><span><small><i>Hariketan Patel, Hiralal Patil</i></small></span><br /><span><small><i>https://doi.org/10.1016/j.triboint.2022.107776</i></small></span><br /><span><small><i>Volume 176</i></small></span><br /></p><p><span>Titanium alloys in dry machining interacts with cutting tool, resulting in rapid tool wear, and poor surface quality. A highly chemically stable Al2O3-ZrO2 ceramic insert was used to examine the effect of cutting speed, depth of cut, and feed rate, on performance measures of surface roughness, and tool wear mechanism. The result shows that the primary tool wear mechanism is abrasion and chipping when cutting speed and depth of cut both at low level, while diffusion at the crater, resulting formation of built-up-edge leads to catastrophic tool fracture at high level of cutting speed and depth of cut. The surface roughness is enhanced by 69.6% when cutting speed is at high level and depth of cut at low level.</span><br /></p>"
+            },
+            "id": "https://www.sciencedirect.com/science/article/pii/S0301679X22003498",
+            "guidislink": false,
+            "links": [
+                {
+                    "rel": "alternate",
+                    "type": "text/html",
+                    "href": "https://www.sciencedirect.com/science/article/pii/S0301679X22003498"
+                }
+            ],
+            "link": "https://www.sciencedirect.com/science/article/pii/S0301679X22003498"
+        },
+        {
             "title": "On the rotordynamic performance of an annular gas seal with self-adaptive jet slots: Comparisons to the swirl brake and shunt injection",
             "title_detail": {
                 "type": "text/plain",
@@ -1288,22 +1314,22 @@
             "email": "i@diygod.me"
         },
         "language": "zh-cn",
-        "updated": "Mon, 19 Sep 2022 14:23:07 GMT",
+        "updated": "Tue, 20 Sep 2022 12:31:05 GMT",
         "updated_parsed": [
             2022,
             9,
-            19,
-            14,
-            23,
-            7,
-            0,
-            262,
+            20,
+            12,
+            31,
+            5,
+            1,
+            263,
             0
         ],
         "ttl": "120"
     },
     "headers": {
-        "date": "Mon, 19 Sep 2022 14:58:41 GMT",
+        "date": "Tue, 20 Sep 2022 13:59:16 GMT",
         "content-type": "application/xml; charset=utf-8",
         "transfer-encoding": "chunked",
         "connection": "close",
@@ -1311,28 +1337,28 @@
         "access-control-allow-methods": "GET",
         "access-control-allow-origin": "rsshub.app",
         "cache-control": "public, max-age=7200",
-        "last-modified": "Mon, 19 Sep 2022 14:23:07 GMT",
+        "last-modified": "Tue, 20 Sep 2022 12:31:05 GMT",
         "rsshub-node": "rss3",
         "x-content-type-options": "nosniff",
         "x-koa-redis-cache": "true",
         "content-encoding": "gzip",
         "cf-cache-status": "HIT",
-        "age": "0",
-        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=F%2BqsQOjRo4turSKbaeOrmy%2FvswJgIx%2BPLl1FmjvZ%2FV8OXZt6aNPvkokJMqRlz%2FrVaP9szilUAGjM0zeUtFJ2KW9KNhbaRr93aJQDakYMHsLYt1LB7fbdQTtendw%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+        "age": "2111",
+        "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=Fw%2Fko7hibH%2F5FgzUPI8Bw33o753RKHqrtpacx4%2BOUUn4RNAfHPGd4JC%2FQhYaLgISiEOPyJgH%2FDH3KrvkELjO5DgxleXSMfwt8wXRhyXC1LyXPcXBTcnsgs1l998%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
         "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
         "server": "cloudflare",
-        "cf-ray": "74d32e545f528332-KIX"
+        "cf-ray": "74db14a92bab837f-KIX"
     },
-    "updated": "Mon, 19 Sep 2022 14:23:07 GMT",
+    "updated": "Tue, 20 Sep 2022 12:31:05 GMT",
     "updated_parsed": [
         2022,
         9,
-        19,
-        14,
-        23,
-        7,
-        0,
-        262,
+        20,
+        12,
+        31,
+        5,
+        1,
+        263,
         0
     ],
     "href": "https://rsshub.app/elsevier/tribology-international/latest",
